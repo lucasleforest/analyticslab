@@ -1,0 +1,269 @@
+,CompanyName
+0,Aisin Corporation
+1,Aptiv PLC
+2,AutoLiv
+3,Bosch Group
+4,Continental
+5,Delphi Technologies
+6,Denso
+7,Hella
+8,Hitachi Astemo
+9,Humax
+10,Hyundai Mobis
+11,LG Electronics
+12,Magna International
+13,Ningbo Joyson Electronic Corp
+14,Tesla
+15,Valeo
+16,Veoneer
+17,ZF Group
+18,Alps Alpine
+19,Bose
+20,Calsonic Kansei
+21,Faurecia
+22,Garmin
+23,Harman International
+24,JVC Kenwood
+25,Kyocera
+26,Lite-on Group
+27,Magneti Marelli / Fiat
+28,Micro-Star (MSI)
+29,MiTAC
+30,Mitsubishi Electric
+31,Panasonic
+32,Pioneer
+33,SiriusXM
+34,Skyworth
+35,Sony
+36,TomTom
+37,Visteon
+38,Voxx International
+39,VTech
+40,BorgWarner
+41,Brose
+42,Hitachi
+43,Adient
+44,Delta Electronics
+45,Eaton
+46,Hikvision
+47,Honeywell
+48,JTEKT
+49,Lear
+50,Mando
+51,Omron
+52,Osram
+53,Philips
+54,Thyssenkrupp
+55,Dell Technologies
+56,Fujifilm
+57,Hewlett-Packard
+58,Intel
+59,Olympus
+60,Samsung Electronics
+61,Seagate Technology
+62,Toshiba
+63,Western Digital
+64,Acer
+65,Apple
+66,Asustek Computer
+67,AU Optronics
+68,Brother Industries
+69,Canon
+70,Casio Computer
+71,Fujitsu
+72,Funai Electric
+73,Haier Group
+74,Hannstar Display
+75,Hisense Group
+76,Konica Minolta
+77,Lenovo
+78,Lexmark
+79,LG Display
+80,NEC
+81,Oki Electric
+82,Razer Inc.
+83,Ricoh
+84,Samsung SDI
+85,Seiko Epson
+86,Sharp
+87,Tatung
+88,Unisys
+89,Vestel Group
+90,Xerox
+91,Xiaomi
+92,Zebra Technologies
+93,Atos
+94,Hewlett-Packard Enterprise
+95,IBM
+96,Inspur
+97,NetApp
+98,Oracle
+99,Agfa-Gevaert
+100,Blackberry
+101,Gemalto
+102,Giesecke+Devrient
+103,IDEMIA
+104,Thales Group
+105,Alphabet
+106,Amazon
+107,Cisco Systems
+108,Facebook (Meta)
+109,Huawei Technologies
+110,Microsoft
+111,Arcelik
+112,Elitegroup Computer Systems
+113,Diebold Nixdorf
+114,Ingenico
+115,NCR
+116,Pitney Bowes
+117,Carrier
+118,Daikin Industries
+119,Dyson
+120,Electrolux
+121,Emerson Electric
+122,General Electric
+123,Gree Electric Appliances
+124,Groupe SEB
+125,iRobot
+126,Keurig
+127,Konka Group
+128,Midea
+129,Sichuan Changhong Electric
+130,TCL
+131,Techtronic Industries
+132,Trane Technologies
+133,Transsion
+134,United Technologies
+135,Videocon
+136,Whirlpool
+137,Logitech
+138,Technicolor (Vantiva)
+139,Yamaha
+140,Fitbit
+141,DJI
+142,GN Store Nord
+143,HTC
+144,Mattel
+145,Nikon
+146,Pantech
+147,ARRIS Group
+148,Motorola Solutions
+149,Nintendo
+150,ABB
+151,AMETEK
+152,Anritsu
+153,Applied Materials
+154,ASML
+155,Comau
+156,Endress & Hauser
+157,Fanuc Corporation
+158,Flowserve
+159,Fortive
+160,Fuji Electric
+161,GEA Group AG
+162,Horiba
+163,ITT Inc.
+164,KLA-Tencor
+165,LAM Research
+166,Moog
+167,Nabtesco Corporation
+168,Parker Hannifin Corporation
+169,Rockwell Automation
+170,Sandvik AB
+171,Schneider Electric
+172,Shimadzu
+173,Siemens
+174,Spectris
+175,SPX Technologies
+176,Stanley Black & Decker
+177,Teradyne
+178,Thermo Fisher Scientific
+179,Tokyo Electron
+180,WEG Indústrias S.A.
+181,Yaskawa Electric Corporation
+182,Yokogawa Electric
+183,Abbott Laboratories
+184,Baxter International
+185,Bayer
+186,Boston Scientific
+187,Bruker
+188,Danaher
+189,Elbit Systems
+190,Fresenius Medical Care
+191,Intuitive Surgical
+192,Johnson & Johnson
+193,Medtronic
+194,Nihon Kohden
+195,Perkin Elmer
+196,Roche
+197,Roper Technologies
+198,Smiths Group
+199,Sonova
+200,Stryker
+201,Varian Medical Systems
+202,Airbus Group
+203,BAE
+204,Boeing
+205,Dassault Aviation
+206,Diehl Group
+207,Embraer
+208,General Dynamics
+209,Hanwha Vision
+210,Harris
+211,L-3 Communications
+212,L3Harris Technologies
+213,Leonardo
+214,Lockheed Martin
+215,Nokia Solutions and Networks
+216,Northrop Grumman
+217,Raytheon
+218,Raytheon Technologies
+219,Rockwell Collins
+220,Rohde & Schwarz
+221,Rolls-Royce Holding
+222,Safran
+223,Textron
+224,Advantest
+225,Danfoss Power Solutions
+226,Deere & Company
+227,Dover Corporation
+228,Heidelberg
+229,IGT
+230,Ingersoll Rand
+231,Johnson Controls
+232,Keyence
+233,Knorr-Bremse AG
+234,Kone
+235,Legrand SA
+236,Lutron Electronics
+237,Otis
+238,Resideo
+239,Schindler Holding AG
+240,SPX Flow
+241,Wabtec
+242,Bharat Heavy Electricals Limited
+243,Itron
+244,Landis & Gyr
+245,Schlumberger
+246,Agilent Technologies
+247,Keysight Technologies
+248,Mettler Toledo
+249,National Instruments
+250,Waters
+251,Xylem Inc.
+252,Avaya
+253,Ciena Corporation
+254,Coherent (formerly II-VI)
+255,CommScope
+256,Ericsson
+257,Finisar
+258,Juniper Networks
+259,Sitronics
+260,Tellabs
+261,ZTE
+262,Brocade
+263,Belden
+264,Coolpad
+265,OnePlus
+266,OPPO
+267,Vivo
