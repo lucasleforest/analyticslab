@@ -1,0 +1,2545 @@
+Company,Year,Value
+ABB Ltd (SWX:ABBN),2016,17270.0
+ABB Ltd (SWX:ABBN),2017,17278.0
+ABB Ltd (SWX:ABBN),2018,19059.0
+ABB Ltd (SWX:ABBN),2019,19018.0
+ABB Ltd (SWX:ABBN),2020,18123.0
+ABB Ltd (SWX:ABBN),2021,19407.0
+ABB Ltd (SWX:ABBN),2022,19712.0
+ABB Ltd (SWX:ABBN),2023,9879.678571428603
+ABB Ltd (SWX:ABBN),2024,10122.197857142866
+ABB Ltd (SWX:ABBN),2025,10364.717142857127
+ABB Ltd (SWX:ABBN),2026,10607.23642857139
+ABB Ltd (SWX:ABBN),2027,10849.755714285653
+"Amazon.com, Inc. (NasdaqGS:AMZN)",2016,88265.0
+"Amazon.com, Inc. (NasdaqGS:AMZN)",2017,111934.0
+"Amazon.com, Inc. (NasdaqGS:AMZN)",2018,139156.0
+"Amazon.com, Inc. (NasdaqGS:AMZN)",2019,165536.0
+"Amazon.com, Inc. (NasdaqGS:AMZN)",2020,233307.0
+"Amazon.com, Inc. (NasdaqGS:AMZN)",2021,272344.0
+"Amazon.com, Inc. (NasdaqGS:AMZN)",2022,288831.0
+"Amazon.com, Inc. (NasdaqGS:AMZN)",2023,20073.571428570223
+"Amazon.com, Inc. (NasdaqGS:AMZN)",2024,20453.857142855915
+"Amazon.com, Inc. (NasdaqGS:AMZN)",2025,20834.14285714161
+"Amazon.com, Inc. (NasdaqGS:AMZN)",2026,21214.428571427303
+"Amazon.com, Inc. (NasdaqGS:AMZN)",2027,21594.714285713
+"Cisco Systems, Inc. (NasdaqGS:CSCO)",2016,17663.0
+"Cisco Systems, Inc. (NasdaqGS:CSCO)",2017,18121.0
+"Cisco Systems, Inc. (NasdaqGS:CSCO)",2018,19225.0
+"Cisco Systems, Inc. (NasdaqGS:CSCO)",2019,18575.0
+"Cisco Systems, Inc. (NasdaqGS:CSCO)",2020,17206.0
+"Cisco Systems, Inc. (NasdaqGS:CSCO)",2021,18918.0
+"Cisco Systems, Inc. (NasdaqGS:CSCO)",2022,20242.0
+"Cisco Systems, Inc. (NasdaqGS:CSCO)",2023,4047.1585714285434
+"Cisco Systems, Inc. (NasdaqGS:CSCO)",2024,4251.738928571389
+"Cisco Systems, Inc. (NasdaqGS:CSCO)",2025,4456.319285714235
+"Cisco Systems, Inc. (NasdaqGS:CSCO)",2026,4660.899642857081
+"Cisco Systems, Inc. (NasdaqGS:CSCO)",2027,4865.479999999927
+Intel Corporation (NasdaqGS:INTC),2016,22767.0
+Intel Corporation (NasdaqGS:INTC),2017,23663.0
+Intel Corporation (NasdaqGS:INTC),2018,27111.0
+Intel Corporation (NasdaqGS:INTC),2019,29825.0
+Intel Corporation (NasdaqGS:INTC),2020,34255.0
+Intel Corporation (NasdaqGS:INTC),2021,35209.0
+Intel Corporation (NasdaqGS:INTC),2022,36188.0
+Intel Corporation (NasdaqGS:INTC),2023,11640.754285713954
+Intel Corporation (NasdaqGS:INTC),2024,12747.839642856741
+Intel Corporation (NasdaqGS:INTC),2025,13854.924999999528
+Intel Corporation (NasdaqGS:INTC),2026,14962.010357142315
+Intel Corporation (NasdaqGS:INTC),2027,16069.095714285102
+Kyocera Corporation (TSE:6971),2016,6981.16
+Kyocera Corporation (TSE:6971),2017,7558.96
+Kyocera Corporation (TSE:6971),2018,8281.95
+Kyocera Corporation (TSE:6971),2019,7741.86
+Kyocera Corporation (TSE:6971),2020,7430.67
+Kyocera Corporation (TSE:6971),2021,8595.52
+Kyocera Corporation (TSE:6971),2022,9663.65
+Kyocera Corporation (TSE:6971),2023,13110.488571429027
+Kyocera Corporation (TSE:6971),2024,13564.551071428948
+Kyocera Corporation (TSE:6971),2025,14018.61357142887
+Kyocera Corporation (TSE:6971),2026,14472.67607142879
+Kyocera Corporation (TSE:6971),2027,14926.738571428712
+Microsoft Corporation (NasdaqGS:MSFT),2016,33446.0
+Microsoft Corporation (NasdaqGS:MSFT),2017,35447.0
+Microsoft Corporation (NasdaqGS:MSFT),2018,41339.0
+Microsoft Corporation (NasdaqGS:MSFT),2019,43346.0
+Microsoft Corporation (NasdaqGS:MSFT),2020,48510.0
+Microsoft Corporation (NasdaqGS:MSFT),2021,57642.0
+Microsoft Corporation (NasdaqGS:MSFT),2022,64984.0
+Microsoft Corporation (NasdaqGS:MSFT),2023,7572.56714285755
+Microsoft Corporation (NasdaqGS:MSFT),2024,7374.490714286131
+Microsoft Corporation (NasdaqGS:MSFT),2025,7176.414285714713
+Microsoft Corporation (NasdaqGS:MSFT),2026,6978.337857143294
+Microsoft Corporation (NasdaqGS:MSFT),2027,6780.2614285718755
+Oracle Corporation (NYSE:ORCL),2016,7349.0
+Oracle Corporation (NYSE:ORCL),2017,7785.0
+Oracle Corporation (NYSE:ORCL),2018,8127.0
+Oracle Corporation (NYSE:ORCL),2019,8044.0
+Oracle Corporation (NYSE:ORCL),2020,7752.0
+Oracle Corporation (NYSE:ORCL),2021,8297.0
+Oracle Corporation (NYSE:ORCL),2022,11011.0
+Oracle Corporation (NYSE:ORCL),2023,20539.285714285303
+Oracle Corporation (NYSE:ORCL),2024,22156.357142856632
+Oracle Corporation (NYSE:ORCL),2025,23773.42857142796
+Oracle Corporation (NYSE:ORCL),2026,25390.499999999294
+Oracle Corporation (NYSE:ORCL),2027,27007.571428570624
+"Roper Technologies, Inc. (NasdaqGS:ROP)",2016,1457.5
+"Roper Technologies, Inc. (NasdaqGS:ROP)",2017,1742.7
+"Roper Technologies, Inc. (NasdaqGS:ROP)",2018,1911.7
+"Roper Technologies, Inc. (NasdaqGS:ROP)",2019,1587.6
+"Roper Technologies, Inc. (NasdaqGS:ROP)",2020,1194.1
+"Roper Technologies, Inc. (NasdaqGS:ROP)",2021,1426.2
+"Roper Technologies, Inc. (NasdaqGS:ROP)",2022,1619.0
+"Roper Technologies, Inc. (NasdaqGS:ROP)",2023,8387.064285713846
+"Roper Technologies, Inc. (NasdaqGS:ROP)",2024,8694.671785713821
+"Roper Technologies, Inc. (NasdaqGS:ROP)",2025,9002.279285713797
+"Roper Technologies, Inc. (NasdaqGS:ROP)",2026,9309.886785713774
+"Roper Technologies, Inc. (NasdaqGS:ROP)",2027,9617.49428571375
+Sony Group Corporation (TSE:6758),2016,31789.85
+Sony Group Corporation (TSE:6758),2017,34538.18
+Sony Group Corporation (TSE:6758),2018,34513.93
+Sony Group Corporation (TSE:6758),2019,32611.09
+Sony Group Corporation (TSE:6758),2020,32625.42
+Sony Group Corporation (TSE:6758),2021,38391.56
+Sony Group Corporation (TSE:6758),2022,44835.76
+Sony Group Corporation (TSE:6758),2023,12337.000000000682
+Sony Group Corporation (TSE:6758),2024,11846.25000000073
+Sony Group Corporation (TSE:6758),2025,11355.500000000777
+Sony Group Corporation (TSE:6758),2026,10864.750000000824
+Sony Group Corporation (TSE:6758),2027,10374.000000000871
+Thales S.A. (ENXTPA:HO),2016,11963.71
+Thales S.A. (ENXTPA:HO),2017,12218.25
+Thales S.A. (ENXTPA:HO),2018,12593.42
+Thales S.A. (ENXTPA:HO),2019,14723.93
+Thales S.A. (ENXTPA:HO),2020,12510.56
+Thales S.A. (ENXTPA:HO),2021,12900.69
+Thales S.A. (ENXTPA:HO),2022,13858.57
+Thales S.A. (ENXTPA:HO),2023,1511.189999999979
+Thales S.A. (ENXTPA:HO),2024,1665.973571428541
+Thales S.A. (ENXTPA:HO),2025,1820.757142857103
+Thales S.A. (ENXTPA:HO),2026,1975.540714285665
+Thales S.A. (ENXTPA:HO),2027,2130.3242857142272
+Apple Inc. (NasdaqGS:AAPL),2016,134102.0
+Apple Inc. (NasdaqGS:AAPL),2017,147254.0
+Apple Inc. (NasdaqGS:AAPL),2018,161654.0
+Apple Inc. (NasdaqGS:AAPL),2019,166105.0
+Apple Inc. (NasdaqGS:AAPL),2020,180068.0
+Apple Inc. (NasdaqGS:AAPL),2021,215572.0
+Apple Inc. (NasdaqGS:AAPL),2022,220666.0
+Apple Inc. (NasdaqGS:AAPL),2023,1202.2728571430068
+Apple Inc. (NasdaqGS:AAPL),2024,1124.5164285715823
+Apple Inc. (NasdaqGS:AAPL),2025,1046.760000000158
+Apple Inc. (NasdaqGS:AAPL),2026,969.0035714287336
+Apple Inc. (NasdaqGS:AAPL),2027,891.2471428573092
+ASUSTeK Computer Inc. (TWSE:2357),2016,12372.6
+ASUSTeK Computer Inc. (TWSE:2357),2017,10239.58
+ASUSTeK Computer Inc. (TWSE:2357),2018,9333.25
+ASUSTeK Computer Inc. (TWSE:2357),2019,9199.48
+ASUSTeK Computer Inc. (TWSE:2357),2020,10487.85
+ASUSTeK Computer Inc. (TWSE:2357),2021,13124.62
+ASUSTeK Computer Inc. (TWSE:2357),2022,14302.29
+ASUSTeK Computer Inc. (TWSE:2357),2023,3277.714285714302
+ASUSTeK Computer Inc. (TWSE:2357),2024,3472.2500000000027
+ASUSTeK Computer Inc. (TWSE:2357),2025,3666.785714285703
+ASUSTeK Computer Inc. (TWSE:2357),2026,3861.321428571403
+ASUSTeK Computer Inc. (TWSE:2357),2027,4055.8571428571036
+BorgWarner Inc. (NYSE:BWA),2016,7142.3
+BorgWarner Inc. (NYSE:BWA),2017,7684.0
+BorgWarner Inc. (NYSE:BWA),2018,8300.0
+BorgWarner Inc. (NYSE:BWA),2019,8067.0
+BorgWarner Inc. (NYSE:BWA),2020,8255.0
+BorgWarner Inc. (NYSE:BWA),2021,11983.0
+BorgWarner Inc. (NYSE:BWA),2022,12700.0
+BorgWarner Inc. (NYSE:BWA),2023,44624.787142855865
+BorgWarner Inc. (NYSE:BWA),2024,42016.22464285598
+BorgWarner Inc. (NYSE:BWA),2025,39407.6621428561
+BorgWarner Inc. (NYSE:BWA),2026,36799.09964285622
+BorgWarner Inc. (NYSE:BWA),2027,34190.53714285634
+Ciena Corporation (NYSE:CIEN),2016,1465.04
+Ciena Corporation (NYSE:CIEN),2017,1582.56
+Ciena Corporation (NYSE:CIEN),2018,1860.41
+Ciena Corporation (NYSE:CIEN),2019,2037.26
+Ciena Corporation (NYSE:CIEN),2020,1816.13
+Ciena Corporation (NYSE:CIEN),2021,1966.67
+Ciena Corporation (NYSE:CIEN),2022,2212.64
+Ciena Corporation (NYSE:CIEN),2023,25035.639999998115
+Ciena Corporation (NYSE:CIEN),2024,25640.638214283812
+Ciena Corporation (NYSE:CIEN),2025,26245.63642856951
+Ciena Corporation (NYSE:CIEN),2026,26850.634642855202
+Ciena Corporation (NYSE:CIEN),2027,27455.6328571409
+"CommScope Holding Company, Inc. (NasdaqGS:COMM)",2016,2894.37
+"CommScope Holding Company, Inc. (NasdaqGS:COMM)",2017,2855.1
+"CommScope Holding Company, Inc. (NasdaqGS:COMM)",2018,2935.2
+"CommScope Holding Company, Inc. (NasdaqGS:COMM)",2019,5722.2
+"CommScope Holding Company, Inc. (NasdaqGS:COMM)",2020,5688.1
+"CommScope Holding Company, Inc. (NasdaqGS:COMM)",2021,5902.4
+"CommScope Holding Company, Inc. (NasdaqGS:COMM)",2022,6424.0
+"CommScope Holding Company, Inc. (NasdaqGS:COMM)",2023,137589.99999999977
+"CommScope Holding Company, Inc. (NasdaqGS:COMM)",2024,152914.64285714156
+"CommScope Holding Company, Inc. (NasdaqGS:COMM)",2025,168239.28571428338
+"CommScope Holding Company, Inc. (NasdaqGS:COMM)",2026,183563.92857142517
+"CommScope Holding Company, Inc. (NasdaqGS:COMM)",2027,198888.57142856697
+Alphabet Inc. (NasdaqGS:GOOGL),2016,35138.0
+Alphabet Inc. (NasdaqGS:GOOGL),2017,45583.0
+Alphabet Inc. (NasdaqGS:GOOGL),2018,59549.0
+Alphabet Inc. (NasdaqGS:GOOGL),2019,71896.0
+Alphabet Inc. (NasdaqGS:GOOGL),2020,84732.0
+Alphabet Inc. (NasdaqGS:GOOGL),2021,110939.0
+Alphabet Inc. (NasdaqGS:GOOGL),2022,126203.0
+Alphabet Inc. (NasdaqGS:GOOGL),2023,4734.397142857178
+Alphabet Inc. (NasdaqGS:GOOGL),2024,4811.962500000034
+Alphabet Inc. (NasdaqGS:GOOGL),2025,4889.527857142891
+Alphabet Inc. (NasdaqGS:GOOGL),2026,4967.093214285747
+Alphabet Inc. (NasdaqGS:GOOGL),2027,5044.658571428604
+"Intuitive Surgical, Inc. (NasdaqGS:ISRG)",2016,813.6
+"Intuitive Surgical, Inc. (NasdaqGS:ISRG)",2017,936.2
+"Intuitive Surgical, Inc. (NasdaqGS:ISRG)",2018,1120.1
+"Intuitive Surgical, Inc. (NasdaqGS:ISRG)",2019,1368.3
+"Intuitive Surgical, Inc. (NasdaqGS:ISRG)",2020,1497.2
+"Intuitive Surgical, Inc. (NasdaqGS:ISRG)",2021,1751.6
+"Intuitive Surgical, Inc. (NasdaqGS:ISRG)",2022,2026.2
+"Intuitive Surgical, Inc. (NasdaqGS:ISRG)",2023,330863.1428571268
+"Intuitive Surgical, Inc. (NasdaqGS:ISRG)",2024,367172.74999998143
+"Intuitive Surgical, Inc. (NasdaqGS:ISRG)",2025,403482.3571428361
+"Intuitive Surgical, Inc. (NasdaqGS:ISRG)",2026,439791.9642856907
+"Intuitive Surgical, Inc. (NasdaqGS:ISRG)",2027,476101.57142854534
+"Itron, Inc. (NasdaqGS:ITRI)",2016,1350.65
+"Itron, Inc. (NasdaqGS:ITRI)",2017,1341.45
+"Itron, Inc. (NasdaqGS:ITRI)",2018,1645.8
+"Itron, Inc. (NasdaqGS:ITRI)",2019,1750.15
+"Itron, Inc. (NasdaqGS:ITRI)",2020,1571.18
+"Itron, Inc. (NasdaqGS:ITRI)",2021,1408.4
+"Itron, Inc. (NasdaqGS:ITRI)",2022,1273.38
+"Itron, Inc. (NasdaqGS:ITRI)",2023,368.07428571427255
+"Itron, Inc. (NasdaqGS:ITRI)",2024,378.82607142855744
+"Itron, Inc. (NasdaqGS:ITRI)",2025,389.57785714284233
+"Itron, Inc. (NasdaqGS:ITRI)",2026,400.3296428571273
+"Itron, Inc. (NasdaqGS:ITRI)",2027,411.0814285714122
+"Juniper Networks, Inc. (NYSE:JNPR)",2016,1885.6
+"Juniper Networks, Inc. (NYSE:JNPR)",2017,1955.1
+"Juniper Networks, Inc. (NYSE:JNPR)",2018,1906.3
+"Juniper Networks, Inc. (NYSE:JNPR)",2019,1828.6
+"Juniper Networks, Inc. (NYSE:JNPR)",2020,1871.4
+"Juniper Networks, Inc. (NYSE:JNPR)",2021,1995.3
+"Juniper Networks, Inc. (NYSE:JNPR)",2022,2342.9
+"Juniper Networks, Inc. (NYSE:JNPR)",2023,234308.99999999985
+"Juniper Networks, Inc. (NYSE:JNPR)",2024,249121.21428571315
+"Juniper Networks, Inc. (NYSE:JNPR)",2025,263933.4285714264
+"Juniper Networks, Inc. (NYSE:JNPR)",2026,278745.6428571397
+"Juniper Networks, Inc. (NYSE:JNPR)",2027,293557.857142853
+Lam Research Corporation (NasdaqGS:LRCX),2016,3541.99
+Lam Research Corporation (NasdaqGS:LRCX),2017,5162.58
+Lam Research Corporation (NasdaqGS:LRCX),2018,5858.05
+Lam Research Corporation (NasdaqGS:LRCX),2019,5232.86
+Lam Research Corporation (NasdaqGS:LRCX),2020,6371.49
+Lam Research Corporation (NasdaqGS:LRCX),2021,8873.9
+Lam Research Corporation (NasdaqGS:LRCX),2022,10417.34
+Lam Research Corporation (NasdaqGS:LRCX),2023,14370.714285714477
+Lam Research Corporation (NasdaqGS:LRCX),2024,15484.85714285726
+Lam Research Corporation (NasdaqGS:LRCX),2025,16599.000000000044
+Lam Research Corporation (NasdaqGS:LRCX),2026,17713.142857142826
+Lam Research Corporation (NasdaqGS:LRCX),2027,18827.28571428561
+Lear Corporation (NYSE:LEA),2016,16378.9
+Lear Corporation (NYSE:LEA),2017,18101.6
+Lear Corporation (NYSE:LEA),2018,18765.1
+Lear Corporation (NYSE:LEA),2019,17899.0
+Lear Corporation (NYSE:LEA),2020,15809.7
+Lear Corporation (NYSE:LEA),2021,17787.9
+Lear Corporation (NYSE:LEA),2022,19346.2
+Lear Corporation (NYSE:LEA),2023,14791.285714286174
+Lear Corporation (NYSE:LEA),2024,15548.535714286125
+Lear Corporation (NYSE:LEA),2025,16305.785714286078
+Lear Corporation (NYSE:LEA),2026,17063.03571428603
+Lear Corporation (NYSE:LEA),2027,17820.285714285983
+"Mattel, Inc. (NasdaqGS:MAT)",2016,2906.46
+"Mattel, Inc. (NasdaqGS:MAT)",2017,3056.92
+"Mattel, Inc. (NasdaqGS:MAT)",2018,2716.13
+"Mattel, Inc. (NasdaqGS:MAT)",2019,2508.65
+"Mattel, Inc. (NasdaqGS:MAT)",2020,2339.67
+"Mattel, Inc. (NasdaqGS:MAT)",2021,2828.19
+"Mattel, Inc. (NasdaqGS:MAT)",2022,2942.65
+"Mattel, Inc. (NasdaqGS:MAT)",2023,2833.2399999998293
+"Mattel, Inc. (NasdaqGS:MAT)",2024,3245.39428571408
+"Mattel, Inc. (NasdaqGS:MAT)",2025,3657.548571428331
+"Mattel, Inc. (NasdaqGS:MAT)",2026,4069.7028571425817
+"Mattel, Inc. (NasdaqGS:MAT)",2027,4481.857142856833
+Medtronic plc (NYSE:MDT),2016,9170.0
+Medtronic plc (NYSE:MDT),2017,9053.0
+Medtronic plc (NYSE:MDT),2018,8997.0
+Medtronic plc (NYSE:MDT),2019,9493.0
+Medtronic plc (NYSE:MDT),2020,9961.0
+Medtronic plc (NYSE:MDT),2021,10025.0
+Medtronic plc (NYSE:MDT),2022,10240.0
+Medtronic plc (NYSE:MDT),2023,11351.940000000426
+Medtronic plc (NYSE:MDT),2024,11461.115000000409
+Medtronic plc (NYSE:MDT),2025,11570.29000000039
+Medtronic plc (NYSE:MDT),2026,11679.465000000371
+Medtronic plc (NYSE:MDT),2027,11788.640000000354
+Mettler-Toledo International Inc. (NYSE:MTD),2016,1070.53
+Mettler-Toledo International Inc. (NYSE:MTD),2017,1149.3
+Mettler-Toledo International Inc. (NYSE:MTD),2018,1251.21
+Mettler-Toledo International Inc. (NYSE:MTD),2019,1267.44
+Mettler-Toledo International Inc. (NYSE:MTD),2020,1284.15
+Mettler-Toledo International Inc. (NYSE:MTD),2021,1546.38
+Mettler-Toledo International Inc. (NYSE:MTD),2022,1611.67
+Mettler-Toledo International Inc. (NYSE:MTD),2023,7180.242857143178
+Mettler-Toledo International Inc. (NYSE:MTD),2024,7295.067857143173
+Mettler-Toledo International Inc. (NYSE:MTD),2025,7409.892857143168
+Mettler-Toledo International Inc. (NYSE:MTD),2026,7524.717857143163
+Mettler-Toledo International Inc. (NYSE:MTD),2027,7639.542857143158
+"AMETEK, Inc. (NYSE:AME)",2016,2547.6
+"AMETEK, Inc. (NYSE:AME)",2017,2861.37
+"AMETEK, Inc. (NYSE:AME)",2018,3186.31
+"AMETEK, Inc. (NYSE:AME)",2019,3370.9
+"AMETEK, Inc. (NYSE:AME)",2020,2996.52
+"AMETEK, Inc. (NYSE:AME)",2021,3633.9
+"AMETEK, Inc. (NYSE:AME)",2022,4005.26
+"AMETEK, Inc. (NYSE:AME)",2023,8614.071428571773
+"AMETEK, Inc. (NYSE:AME)",2024,8736.622500000316
+"AMETEK, Inc. (NYSE:AME)",2025,8859.173571428859
+"AMETEK, Inc. (NYSE:AME)",2026,8981.724642857404
+"AMETEK, Inc. (NYSE:AME)",2027,9104.275714285946
+NEC Corporation (TSE:6701),2016,12714.88
+NEC Corporation (TSE:6701),2017,13670.42
+NEC Corporation (TSE:6701),2018,13947.26
+NEC Corporation (TSE:6701),2019,14626.78
+NEC Corporation (TSE:6701),2020,14254.22
+NEC Corporation (TSE:6701),2021,14496.31
+NEC Corporation (TSE:6701),2022,15241.42
+NEC Corporation (TSE:6701),2023,8833.428571428329
+NEC Corporation (TSE:6701),2024,9315.392857142577
+NEC Corporation (TSE:6701),2025,9797.357142856823
+NEC Corporation (TSE:6701),2026,10279.321428571071
+NEC Corporation (TSE:6701),2027,10761.285714285319
+"NetApp, Inc. (NasdaqGS:NTAP)",2016,2123.0
+"NetApp, Inc. (NasdaqGS:NTAP)",2017,2163.0
+"NetApp, Inc. (NasdaqGS:NTAP)",2018,2250.0
+"NetApp, Inc. (NasdaqGS:NTAP)",2019,1895.0
+"NetApp, Inc. (NasdaqGS:NTAP)",2020,1869.0
+"NetApp, Inc. (NasdaqGS:NTAP)",2021,2027.0
+"NetApp, Inc. (NasdaqGS:NTAP)",2022,2238.0
+"NetApp, Inc. (NasdaqGS:NTAP)",2023,21318.53142857203
+"NetApp, Inc. (NasdaqGS:NTAP)",2024,22718.15321428622
+"NetApp, Inc. (NasdaqGS:NTAP)",2025,24117.77500000041
+"NetApp, Inc. (NasdaqGS:NTAP)",2026,25517.396785714598
+"NetApp, Inc. (NasdaqGS:NTAP)",2027,26917.018571428784
+Textron Inc. (NYSE:TXT),2016,11337.0
+Textron Inc. (NYSE:TXT),2017,11827.0
+Textron Inc. (NYSE:TXT),2018,11594.0
+Textron Inc. (NYSE:TXT),2019,11406.0
+Textron Inc. (NYSE:TXT),2020,10039.0
+Textron Inc. (NYSE:TXT),2021,10297.0
+Textron Inc. (NYSE:TXT),2022,10800.0
+Textron Inc. (NYSE:TXT),2023,1570.592857142881
+Textron Inc. (NYSE:TXT),2024,1619.2121428571609
+Textron Inc. (NYSE:TXT),2025,1667.831428571441
+Textron Inc. (NYSE:TXT),2026,1716.450714285721
+Textron Inc. (NYSE:TXT),2027,1765.0700000000008
+Westinghouse Air Brake Technologies Corporation (NYSE:WAB),2016,2006.95
+Westinghouse Air Brake Technologies Corporation (NYSE:WAB),2017,2804.4
+Westinghouse Air Brake Technologies Corporation (NYSE:WAB),2018,3129.6
+Westinghouse Air Brake Technologies Corporation (NYSE:WAB),2019,5922.0
+Westinghouse Air Brake Technologies Corporation (NYSE:WAB),2020,5374.0
+Westinghouse Air Brake Technologies Corporation (NYSE:WAB),2021,5400.0
+Westinghouse Air Brake Technologies Corporation (NYSE:WAB),2022,5779.0
+Westinghouse Air Brake Technologies Corporation (NYSE:WAB),2023,83.14285714286123
+Westinghouse Air Brake Technologies Corporation (NYSE:WAB),2024,20.678571428573434
+Westinghouse Air Brake Technologies Corporation (NYSE:WAB),2025,-41.785714285714356
+Westinghouse Air Brake Technologies Corporation (NYSE:WAB),2026,-104.25000000000215
+Westinghouse Air Brake Technologies Corporation (NYSE:WAB),2027,-166.71428571428993
+Waters Corporation (NYSE:WAT),2016,891.45
+Waters Corporation (NYSE:WAT),2017,947.07
+Waters Corporation (NYSE:WAT),2018,992.56
+Waters Corporation (NYSE:WAT),2019,1010.7
+Waters Corporation (NYSE:WAT),2020,1006.69
+Waters Corporation (NYSE:WAT),2021,1156.53
+Waters Corporation (NYSE:WAT),2022,1248.18
+Waters Corporation (NYSE:WAT),2023,12765.342857142867
+Waters Corporation (NYSE:WAT),2024,13666.27499999994
+Waters Corporation (NYSE:WAT),2025,14567.20714285701
+Waters Corporation (NYSE:WAT),2026,15468.139285714084
+Waters Corporation (NYSE:WAT),2027,16369.071428571157
+"Samsung Electronics Co., Ltd. (KOSE:A005930)",2016,89193.74
+"Samsung Electronics Co., Ltd. (KOSE:A005930)",2017,95877.43
+"Samsung Electronics Co., Ltd. (KOSE:A005930)",2018,98179.06
+"Samsung Electronics Co., Ltd. (KOSE:A005930)",2019,109187.7
+"Samsung Electronics Co., Ltd. (KOSE:A005930)",2020,107147.46
+"Samsung Electronics Co., Ltd. (KOSE:A005930)",2021,123404.83
+"Samsung Electronics Co., Ltd. (KOSE:A005930)",2022,140928.33
+"Samsung Electronics Co., Ltd. (KOSE:A005930)",2023,4196.999999999831
+"Samsung Electronics Co., Ltd. (KOSE:A005930)",2024,4460.857142856955
+"Samsung Electronics Co., Ltd. (KOSE:A005930)",2025,4724.714285714079
+"Samsung Electronics Co., Ltd. (KOSE:A005930)",2026,4988.571428571204
+"Samsung Electronics Co., Ltd. (KOSE:A005930)",2027,5252.428571428328
+Vantiva S.A. (ENXTPA:VANTI),2016,4175.07
+Vantiva S.A. (ENXTPA:VANTI),2017,3873.74
+Vantiva S.A. (ENXTPA:VANTI),2018,3735.81
+Vantiva S.A. (ENXTPA:VANTI),2019,3580.9
+Vantiva S.A. (ENXTPA:VANTI),2020,2895.49
+Vantiva S.A. (ENXTPA:VANTI),2021,2095.49
+Vantiva S.A. (ENXTPA:VANTI),2022,2619.63
+Vantiva S.A. (ENXTPA:VANTI),2023,2861.595714285726
+Vantiva S.A. (ENXTPA:VANTI),2024,2920.460000000008
+Vantiva S.A. (ENXTPA:VANTI),2025,2979.3242857142905
+Vantiva S.A. (ENXTPA:VANTI),2026,3038.1885714285722
+Vantiva S.A. (ENXTPA:VANTI),2027,3097.0528571428545
+Sirius XM Holdings Inc. (NasdaqGS:SIRI),2016,2460.24
+Sirius XM Holdings Inc. (NasdaqGS:SIRI),2017,2555.0
+Sirius XM Holdings Inc. (NasdaqGS:SIRI),2018,2710.0
+Sirius XM Holdings Inc. (NasdaqGS:SIRI),2019,3854.0
+Sirius XM Holdings Inc. (NasdaqGS:SIRI),2020,3941.0
+Sirius XM Holdings Inc. (NasdaqGS:SIRI),2021,4293.0
+Sirius XM Holdings Inc. (NasdaqGS:SIRI),2022,4482.0
+Sirius XM Holdings Inc. (NasdaqGS:SIRI),2023,1287.557142857025
+Sirius XM Holdings Inc. (NasdaqGS:SIRI),2024,1347.5821428570214
+Sirius XM Holdings Inc. (NasdaqGS:SIRI),2025,1407.6071428570178
+Sirius XM Holdings Inc. (NasdaqGS:SIRI),2026,1467.6321428570145
+Sirius XM Holdings Inc. (NasdaqGS:SIRI),2027,1527.657142857011
+"Teradyne, Inc. (NasdaqGS:TER)",2016,794.64
+"Teradyne, Inc. (NasdaqGS:TER)",2017,915.15
+"Teradyne, Inc. (NasdaqGS:TER)",2018,880.41
+"Teradyne, Inc. (NasdaqGS:TER)",2019,955.14
+"Teradyne, Inc. (NasdaqGS:TER)",2020,1335.73
+"Teradyne, Inc. (NasdaqGS:TER)",2021,1496.23
+"Teradyne, Inc. (NasdaqGS:TER)",2022,1287.89
+"Teradyne, Inc. (NasdaqGS:TER)",2023,13865.587142857079
+"Teradyne, Inc. (NasdaqGS:TER)",2024,14029.04749999995
+"Teradyne, Inc. (NasdaqGS:TER)",2025,14192.50785714282
+"Teradyne, Inc. (NasdaqGS:TER)",2026,14355.968214285693
+"Teradyne, Inc. (NasdaqGS:TER)",2027,14519.428571428563
+Thermo Fisher Scientific Inc. (NYSE:TMO),2016,9825.0
+Thermo Fisher Scientific Inc. (NYSE:TMO),2017,11382.0
+Thermo Fisher Scientific Inc. (NYSE:TMO),2018,13489.0
+Thermo Fisher Scientific Inc. (NYSE:TMO),2019,14214.0
+Thermo Fisher Scientific Inc. (NYSE:TMO),2020,16214.0
+Thermo Fisher Scientific Inc. (NYSE:TMO),2021,19573.0
+Thermo Fisher Scientific Inc. (NYSE:TMO),2022,25917.0
+Thermo Fisher Scientific Inc. (NYSE:TMO),2023,851.0099999999895
+Thermo Fisher Scientific Inc. (NYSE:TMO),2024,792.09785714285
+Thermo Fisher Scientific Inc. (NYSE:TMO),2025,733.1857142857104
+Thermo Fisher Scientific Inc. (NYSE:TMO),2026,674.273571428571
+Thermo Fisher Scientific Inc. (NYSE:TMO),2027,615.3614285714316
+Northrop Grumman Corporation (NYSE:NOC),2016,18797.0
+Northrop Grumman Corporation (NYSE:NOC),2017,20074.0
+Northrop Grumman Corporation (NYSE:NOC),2018,23275.0
+Northrop Grumman Corporation (NYSE:NOC),2019,26582.0
+Northrop Grumman Corporation (NYSE:NOC),2020,29321.0
+Northrop Grumman Corporation (NYSE:NOC),2021,28399.0
+Northrop Grumman Corporation (NYSE:NOC),2022,29128.0
+Northrop Grumman Corporation (NYSE:NOC),2023,2272.4928571429173
+Northrop Grumman Corporation (NYSE:NOC),2024,2378.447857142912
+Northrop Grumman Corporation (NYSE:NOC),2025,2484.402857142907
+Northrop Grumman Corporation (NYSE:NOC),2026,2590.357857142902
+Northrop Grumman Corporation (NYSE:NOC),2027,2696.312857142897
+"Motorola Solutions, Inc. (NYSE:MSI)",2016,3126.0
+"Motorola Solutions, Inc. (NYSE:MSI)",2017,3347.0
+"Motorola Solutions, Inc. (NYSE:MSI)",2018,3804.0
+"Motorola Solutions, Inc. (NYSE:MSI)",2019,3939.0
+"Motorola Solutions, Inc. (NYSE:MSI)",2020,3777.0
+"Motorola Solutions, Inc. (NYSE:MSI)",2021,4123.0
+"Motorola Solutions, Inc. (NYSE:MSI)",2022,4718.0
+"Motorola Solutions, Inc. (NYSE:MSI)",2023,19608.857142858702
+"Motorola Solutions, Inc. (NYSE:MSI)",2024,19870.000000001546
+"Motorola Solutions, Inc. (NYSE:MSI)",2025,20131.14285714439
+"Motorola Solutions, Inc. (NYSE:MSI)",2026,20392.285714287234
+"Motorola Solutions, Inc. (NYSE:MSI)",2027,20653.42857143008
+Bayer Aktiengesellschaft (XTRA:BAYN),2016,12036.07
+Bayer Aktiengesellschaft (XTRA:BAYN),2017,11903.45
+Bayer Aktiengesellschaft (XTRA:BAYN),2018,13866.31
+Bayer Aktiengesellschaft (XTRA:BAYN),2019,17424.93
+Bayer Aktiengesellschaft (XTRA:BAYN),2020,16686.47
+Bayer Aktiengesellschaft (XTRA:BAYN),2021,18084.88
+Bayer Aktiengesellschaft (XTRA:BAYN),2022,20038.2
+Bayer Aktiengesellschaft (XTRA:BAYN),2023,2841.5742857141845
+Bayer Aktiengesellschaft (XTRA:BAYN),2024,3210.818214285584
+Bayer Aktiengesellschaft (XTRA:BAYN),2025,3580.0621428569834
+Bayer Aktiengesellschaft (XTRA:BAYN),2026,3949.306071428383
+Bayer Aktiengesellschaft (XTRA:BAYN),2027,4318.549999999783
+Xerox Holdings Corporation (NasdaqGS:XRX),2016,6338.0
+Xerox Holdings Corporation (NasdaqGS:XRX),2017,5787.0
+Xerox Holdings Corporation (NasdaqGS:XRX),2018,5661.0
+Xerox Holdings Corporation (NasdaqGS:XRX),2019,5285.0
+Xerox Holdings Corporation (NasdaqGS:XRX),2020,4349.0
+Xerox Holdings Corporation (NasdaqGS:XRX),2021,4544.0
+Xerox Holdings Corporation (NasdaqGS:XRX),2022,4681.0
+Xerox Holdings Corporation (NasdaqGS:XRX),2023,7408.251428571293
+Xerox Holdings Corporation (NasdaqGS:XRX),2024,8102.408214285529
+Xerox Holdings Corporation (NasdaqGS:XRX),2025,8796.564999999764
+Xerox Holdings Corporation (NasdaqGS:XRX),2026,9490.721785713999
+Xerox Holdings Corporation (NasdaqGS:XRX),2027,10184.878571428235
+"Elitegroup Computer Systems Co.,Ltd. (TWSE:2331)",2016,793.82
+"Elitegroup Computer Systems Co.,Ltd. (TWSE:2331)",2017,831.29
+"Elitegroup Computer Systems Co.,Ltd. (TWSE:2331)",2018,904.34
+"Elitegroup Computer Systems Co.,Ltd. (TWSE:2331)",2019,778.23
+"Elitegroup Computer Systems Co.,Ltd. (TWSE:2331)",2020,718.56
+"Elitegroup Computer Systems Co.,Ltd. (TWSE:2331)",2021,904.25
+"Elitegroup Computer Systems Co.,Ltd. (TWSE:2331)",2022,868.82
+"Elitegroup Computer Systems Co.,Ltd. (TWSE:2331)",2023,29239.969999999852
+"Elitegroup Computer Systems Co.,Ltd. (TWSE:2331)",2024,28550.455357142804
+"Elitegroup Computer Systems Co.,Ltd. (TWSE:2331)",2025,27860.94071428576
+"Elitegroup Computer Systems Co.,Ltd. (TWSE:2331)",2026,27171.426071428712
+"Elitegroup Computer Systems Co.,Ltd. (TWSE:2331)",2027,26481.911428571664
+HP Inc. (NYSE:HPQ),2016,39715.0
+HP Inc. (NYSE:HPQ),2017,43977.0
+HP Inc. (NYSE:HPQ),2018,47966.0
+HP Inc. (NYSE:HPQ),2019,47234.0
+HP Inc. (NYSE:HPQ),2020,46778.0
+HP Inc. (NYSE:HPQ),2021,51391.0
+HP Inc. (NYSE:HPQ),2022,48024.0
+HP Inc. (NYSE:HPQ),2023,-234.2828571428891
+HP Inc. (NYSE:HPQ),2024,-364.81357142860134
+HP Inc. (NYSE:HPQ),2025,-495.34428571431357
+HP Inc. (NYSE:HPQ),2026,-625.8750000000258
+HP Inc. (NYSE:HPQ),2027,-756.405714285738
+International Business Machines Corporation (NYSE:IBM),2016,40358.0
+International Business Machines Corporation (NYSE:IBM),2017,40986.0
+International Business Machines Corporation (NYSE:IBM),2018,41522.0
+International Business Machines Corporation (NYSE:IBM),2019,25476.0
+International Business Machines Corporation (NYSE:IBM),2020,23737.0
+International Business Machines Corporation (NYSE:IBM),2021,25331.0
+International Business Machines Corporation (NYSE:IBM),2022,27436.0
+International Business Machines Corporation (NYSE:IBM),2023,34796.35857142969
+International Business Machines Corporation (NYSE:IBM),2024,36088.692142858206
+International Business Machines Corporation (NYSE:IBM),2025,37381.02571428671
+International Business Machines Corporation (NYSE:IBM),2026,38673.359285715225
+International Business Machines Corporation (NYSE:IBM),2027,39965.69285714373
+Spectris plc (LSE:SXS),2016,699.76
+Spectris plc (LSE:SXS),2017,799.08
+Spectris plc (LSE:SXS),2018,846.07
+Spectris plc (LSE:SXS),2019,871.57
+Spectris plc (LSE:SXS),2020,728.29
+Spectris plc (LSE:SXS),2021,591.94
+Spectris plc (LSE:SXS),2022,700.12
+Spectris plc (LSE:SXS),2023,16068.31571428616
+Spectris plc (LSE:SXS),2024,17195.358928571797
+Spectris plc (LSE:SXS),2025,18322.40214285743
+Spectris plc (LSE:SXS),2026,19449.445357143064
+Spectris plc (LSE:SXS),2027,20576.4885714287
+Atos SE (ENXTPA:ATO),2016,11153.63
+Atos SE (ENXTPA:ATO),2017,10750.13
+Atos SE (ENXTPA:ATO),2018,9938.46
+Atos SE (ENXTPA:ATO),2019,11021.75
+Atos SE (ENXTPA:ATO),2020,10789.39
+Atos SE (ENXTPA:ATO),2021,11092.84
+Atos SE (ENXTPA:ATO),2022,11660.48
+Atos SE (ENXTPA:ATO),2023,12670.814285714385
+Atos SE (ENXTPA:ATO),2024,13584.914285714302
+Atos SE (ENXTPA:ATO),2025,14499.01428571422
+Atos SE (ENXTPA:ATO),2026,15413.114285714137
+Atos SE (ENXTPA:ATO),2027,16327.214285714053
+Johnson & Johnson (NYSE:JNJ),2016,21789.0
+Johnson & Johnson (NYSE:JNJ),2017,25439.0
+Johnson & Johnson (NYSE:JNJ),2018,27091.0
+Johnson & Johnson (NYSE:JNJ),2019,27556.0
+Johnson & Johnson (NYSE:JNJ),2020,28427.0
+Johnson & Johnson (NYSE:JNJ),2021,29855.0
+Johnson & Johnson (NYSE:JNJ),2022,30989.0
+Johnson & Johnson (NYSE:JNJ),2023,6013.188571428693
+Johnson & Johnson (NYSE:JNJ),2024,6482.883214285817
+Johnson & Johnson (NYSE:JNJ),2025,6952.577857142943
+Johnson & Johnson (NYSE:JNJ),2026,7422.272500000068
+Johnson & Johnson (NYSE:JNJ),2027,7891.967142857193
+"Hitachi, Ltd. (TSE:6501)",2016,46374.2
+"Hitachi, Ltd. (TSE:6501)",2017,46015.75
+"Hitachi, Ltd. (TSE:6501)",2018,46385.29
+"Hitachi, Ltd. (TSE:6501)",2019,44576.25
+"Hitachi, Ltd. (TSE:6501)",2020,41693.07
+"Hitachi, Ltd. (TSE:6501)",2021,51055.13
+"Hitachi, Ltd. (TSE:6501)",2022,55639.5
+"Hitachi, Ltd. (TSE:6501)",2023,36201.40000000285
+"Hitachi, Ltd. (TSE:6501)",2024,38742.30714285984
+"Hitachi, Ltd. (TSE:6501)",2025,41283.21428571683
+"Hitachi, Ltd. (TSE:6501)",2026,43824.121428573824
+"Hitachi, Ltd. (TSE:6501)",2027,46365.02857143081
+"Agilent Technologies, Inc. (NYSE:A)",2016,2007.0
+"Agilent Technologies, Inc. (NYSE:A)",2017,2111.0
+"Agilent Technologies, Inc. (NYSE:A)",2018,2270.0
+"Agilent Technologies, Inc. (NYSE:A)",2019,2415.0
+"Agilent Technologies, Inc. (NYSE:A)",2020,2578.0
+"Agilent Technologies, Inc. (NYSE:A)",2021,2966.0
+"Agilent Technologies, Inc. (NYSE:A)",2022,3150.0
+"Agilent Technologies, Inc. (NYSE:A)",2023,85455.85714285733
+"Agilent Technologies, Inc. (NYSE:A)",2024,90322.21428571423
+"Agilent Technologies, Inc. (NYSE:A)",2025,95188.57142857113
+"Agilent Technologies, Inc. (NYSE:A)",2026,100054.92857142803
+"Agilent Technologies, Inc. (NYSE:A)",2027,104921.28571428494
+RTX Corporation (NYSE:RTX),2016,41471.0
+RTX Corporation (NYSE:RTX),2017,44201.0
+RTX Corporation (NYSE:RTX),2018,27465.0
+RTX Corporation (NYSE:RTX),2019,34417.0
+RTX Corporation (NYSE:RTX),2020,48056.0
+RTX Corporation (NYSE:RTX),2021,51897.0
+RTX Corporation (NYSE:RTX),2022,53406.0
+RTX Corporation (NYSE:RTX),2023,8295.1885714285
+RTX Corporation (NYSE:RTX),2024,8848.574999999888
+RTX Corporation (NYSE:RTX),2025,9401.961428571274
+RTX Corporation (NYSE:RTX),2026,9955.34785714266
+RTX Corporation (NYSE:RTX),2027,10508.734285714047
+NCR Voyix Corporation (NYSE:VYX),2016,4721.0
+NCR Voyix Corporation (NYSE:VYX),2017,4650.0
+NCR Voyix Corporation (NYSE:VYX),2018,4628.0
+NCR Voyix Corporation (NYSE:VYX),2019,4994.0
+NCR Voyix Corporation (NYSE:VYX),2020,4683.0
+NCR Voyix Corporation (NYSE:VYX),2021,5224.0
+NCR Voyix Corporation (NYSE:VYX),2022,5949.0
+NCR Voyix Corporation (NYSE:VYX),2023,2830.028571428531
+NCR Voyix Corporation (NYSE:VYX),2024,2776.342857142836
+NCR Voyix Corporation (NYSE:VYX),2025,2722.6571428571406
+NCR Voyix Corporation (NYSE:VYX),2026,2668.971428571446
+NCR Voyix Corporation (NYSE:VYX),2027,2615.2857142857506
+Dover Corporation (NYSE:DOV),2016,3810.34
+Dover Corporation (NYSE:DOV),2017,4275.18
+Dover Corporation (NYSE:DOV),2018,4415.64
+Dover Corporation (NYSE:DOV),2019,4506.55
+Dover Corporation (NYSE:DOV),2020,4190.85
+Dover Corporation (NYSE:DOV),2021,4924.4
+Dover Corporation (NYSE:DOV),2022,5437.68
+Dover Corporation (NYSE:DOV),2023,67.31857142857301
+Dover Corporation (NYSE:DOV),2024,67.06857142857339
+Dover Corporation (NYSE:DOV),2025,66.81857142857379
+Dover Corporation (NYSE:DOV),2026,66.56857142857417
+Dover Corporation (NYSE:DOV),2027,66.31857142857456
+Eaton Corporation plc (NYSE:ETN),2016,13392.0
+Eaton Corporation plc (NYSE:ETN),2017,13756.0
+Eaton Corporation plc (NYSE:ETN),2018,14511.0
+Eaton Corporation plc (NYSE:ETN),2019,14338.0
+Eaton Corporation plc (NYSE:ETN),2020,12408.0
+Eaton Corporation plc (NYSE:ETN),2021,13293.0
+Eaton Corporation plc (NYSE:ETN),2022,13865.0
+Eaton Corporation plc (NYSE:ETN),2023,5359.472857142631
+Eaton Corporation plc (NYSE:ETN),2024,5572.17535714262
+Eaton Corporation plc (NYSE:ETN),2025,5784.877857142608
+Eaton Corporation plc (NYSE:ETN),2026,5997.580357142596
+Eaton Corporation plc (NYSE:ETN),2027,6210.282857142583
+General Electric Company (NYSE:GE),2016,83021.0
+General Electric Company (NYSE:GE),2017,71495.0
+General Electric Company (NYSE:GE),2018,66127.0
+General Electric Company (NYSE:GE),2019,64466.0
+General Electric Company (NYSE:GE),2020,57301.0
+General Electric Company (NYSE:GE),2021,53502.0
+General Electric Company (NYSE:GE),2022,55285.0
+General Electric Company (NYSE:GE),2023,13421.857142857265
+General Electric Company (NYSE:GE),2024,13364.357142857278
+General Electric Company (NYSE:GE),2025,13306.857142857292
+General Electric Company (NYSE:GE),2026,13249.357142857305
+General Electric Company (NYSE:GE),2027,13191.857142857318
+"L3Harris Technologies, Inc. (NYSE:LHX)",2016,3831.0
+"L3Harris Technologies, Inc. (NYSE:LHX)",2017,3858.0
+"L3Harris Technologies, Inc. (NYSE:LHX)",2018,4095.0
+"L3Harris Technologies, Inc. (NYSE:LHX)",2019,13168.0
+"L3Harris Technologies, Inc. (NYSE:LHX)",2020,12886.0
+"L3Harris Technologies, Inc. (NYSE:LHX)",2021,12438.0
+"L3Harris Technologies, Inc. (NYSE:LHX)",2022,12135.0
+"L3Harris Technologies, Inc. (NYSE:LHX)",2023,4506.127142857226
+"L3Harris Technologies, Inc. (NYSE:LHX)",2024,4842.505714285773
+"L3Harris Technologies, Inc. (NYSE:LHX)",2025,5178.884285714321
+"L3Harris Technologies, Inc. (NYSE:LHX)",2026,5515.262857142869
+"L3Harris Technologies, Inc. (NYSE:LHX)",2027,5851.641428571416
+Koninklijke Philips N.V. (ENXTAM:PHIA),2016,10035.01
+Koninklijke Philips N.V. (ENXTAM:PHIA),2017,10100.8
+Koninklijke Philips N.V. (ENXTAM:PHIA),2018,10038.2
+Koninklijke Philips N.V. (ENXTAM:PHIA),2019,9760.21
+Koninklijke Philips N.V. (ENXTAM:PHIA),2020,9974.54
+Koninklijke Philips N.V. (ENXTAM:PHIA),2021,10538.99
+Koninklijke Philips N.V. (ENXTAM:PHIA),2022,11281.7
+Koninklijke Philips N.V. (ENXTAM:PHIA),2023,854.9214285714186
+Koninklijke Philips N.V. (ENXTAM:PHIA),2024,861.5335714285613
+Koninklijke Philips N.V. (ENXTAM:PHIA),2025,868.1457142857041
+Koninklijke Philips N.V. (ENXTAM:PHIA),2026,874.7578571428469
+Koninklijke Philips N.V. (ENXTAM:PHIA),2027,881.3699999999895
+Canon Inc. (TSE:7751),2016,11596.96
+Canon Inc. (TSE:7751),2017,14010.72
+Canon Inc. (TSE:7751),2018,14191.25
+Canon Inc. (TSE:7751),2019,13298.64
+Canon Inc. (TSE:7751),2020,11964.99
+Canon Inc. (TSE:7751),2021,12643.51
+Canon Inc. (TSE:7751),2022,14776.15
+Canon Inc. (TSE:7751),2023,3845.3728571430233
+Canon Inc. (TSE:7751),2024,4004.6771428572856
+Canon Inc. (TSE:7751),2025,4163.981428571547
+Canon Inc. (TSE:7751),2026,4323.285714285809
+Canon Inc. (TSE:7751),2027,4482.590000000071
+Belden Inc. (NYSE:BDC),2016,1361.15
+Belden Inc. (NYSE:BDC),2017,1245.45
+Belden Inc. (NYSE:BDC),2018,1317.83
+Belden Inc. (NYSE:BDC),2019,1333.76
+Belden Inc. (NYSE:BDC),2020,1175.86
+Belden Inc. (NYSE:BDC),2021,1518.62
+Belden Inc. (NYSE:BDC),2022,1680.14
+Belden Inc. (NYSE:BDC),2023,11491.999999999405
+Belden Inc. (NYSE:BDC),2024,11890.035714285104
+Belden Inc. (NYSE:BDC),2025,12288.071428570805
+Belden Inc. (NYSE:BDC),2026,12686.107142856505
+Belden Inc. (NYSE:BDC),2027,13084.142857142206
+Sharp Corporation (TSE:6753),2016,11829.04
+Sharp Corporation (TSE:6753),2017,13130.54
+Sharp Corporation (TSE:6753),2018,13161.12
+Sharp Corporation (TSE:6753),2019,12984.38
+Sharp Corporation (TSE:6753),2020,13059.67
+Sharp Corporation (TSE:6753),2021,13836.56
+Sharp Corporation (TSE:6753),2022,14680.27
+Sharp Corporation (TSE:6753),2023,977.771428571461
+Sharp Corporation (TSE:6753),2024,1031.5578571428853
+Sharp Corporation (TSE:6753),2025,1085.3442857143098
+Sharp Corporation (TSE:6753),2026,1139.130714285734
+Sharp Corporation (TSE:6753),2027,1192.9171428571583
+Visteon Corporation (NasdaqGS:VC),2016,2705.0
+Visteon Corporation (NasdaqGS:VC),2017,2655.0
+Visteon Corporation (NasdaqGS:VC),2018,2573.0
+Visteon Corporation (NasdaqGS:VC),2019,2621.0
+Visteon Corporation (NasdaqGS:VC),2020,2303.0
+Visteon Corporation (NasdaqGS:VC),2021,2519.0
+Visteon Corporation (NasdaqGS:VC),2022,3388.0
+Visteon Corporation (NasdaqGS:VC),2023,10335.375714285989
+Visteon Corporation (NasdaqGS:VC),2024,10498.163571428831
+Visteon Corporation (NasdaqGS:VC),2025,10660.951428571674
+Visteon Corporation (NasdaqGS:VC),2026,10823.739285714517
+Visteon Corporation (NasdaqGS:VC),2027,10986.527142857361
+Abbott Laboratories (NYSE:ABT),2016,9085.0
+Abbott Laboratories (NYSE:ABT),2017,11490.0
+Abbott Laboratories (NYSE:ABT),2018,12696.0
+Abbott Laboratories (NYSE:ABT),2019,13231.0
+Abbott Laboratories (NYSE:ABT),2020,14855.0
+Abbott Laboratories (NYSE:ABT),2021,18066.0
+Abbott Laboratories (NYSE:ABT),2022,19074.0
+Abbott Laboratories (NYSE:ABT),2023,3167.3942857143184
+Abbott Laboratories (NYSE:ABT),2024,3325.7300000000246
+Abbott Laboratories (NYSE:ABT),2025,3484.065714285731
+Abbott Laboratories (NYSE:ABT),2026,3642.4014285714375
+Abbott Laboratories (NYSE:ABT),2027,3800.7371428571437
+"Applied Materials, Inc. (NasdaqGS:AMAT)",2016,6807.0
+"Applied Materials, Inc. (NasdaqGS:AMAT)",2017,8437.0
+"Applied Materials, Inc. (NasdaqGS:AMAT)",2018,9011.0
+"Applied Materials, Inc. (NasdaqGS:AMAT)",2019,8438.0
+"Applied Materials, Inc. (NasdaqGS:AMAT)",2020,9984.0
+"Applied Materials, Inc. (NasdaqGS:AMAT)",2021,12648.0
+"Applied Materials, Inc. (NasdaqGS:AMAT)",2022,14074.0
+"Applied Materials, Inc. (NasdaqGS:AMAT)",2023,2523.391428571487
+"Applied Materials, Inc. (NasdaqGS:AMAT)",2024,2500.0171428572016
+"Applied Materials, Inc. (NasdaqGS:AMAT)",2025,2476.642857142916
+"Applied Materials, Inc. (NasdaqGS:AMAT)",2026,2453.2685714286304
+"Applied Materials, Inc. (NasdaqGS:AMAT)",2027,2429.8942857143447
+VOXX International Corporation (NasdaqGS:VOXX),2016,404.43
+VOXX International Corporation (NasdaqGS:VOXX),2017,373.7
+VOXX International Corporation (NasdaqGS:VOXX),2018,331.72
+VOXX International Corporation (NasdaqGS:VOXX),2019,296.27
+VOXX International Corporation (NasdaqGS:VOXX),2020,357.45
+VOXX International Corporation (NasdaqGS:VOXX),2021,466.61
+VOXX International Corporation (NasdaqGS:VOXX),2022,417.85
+VOXX International Corporation (NasdaqGS:VOXX),2023,2068.7714285714865
+VOXX International Corporation (NasdaqGS:VOXX),2024,2017.2892857143415
+VOXX International Corporation (NasdaqGS:VOXX),2025,1965.8071428571968
+VOXX International Corporation (NasdaqGS:VOXX),2026,1914.3250000000521
+VOXX International Corporation (NasdaqGS:VOXX),2027,1862.8428571429072
+Baxter International Inc. (NYSE:BAX),2016,5857.0
+Baxter International Inc. (NYSE:BAX),2017,5999.0
+Baxter International Inc. (NYSE:BAX),2018,6288.0
+Baxter International Inc. (NYSE:BAX),2019,6541.0
+Baxter International Inc. (NYSE:BAX),2020,7038.0
+Baxter International Inc. (NYSE:BAX),2021,7534.0
+Baxter International Inc. (NYSE:BAX),2022,9082.0
+Baxter International Inc. (NYSE:BAX),2023,18637.0185714277
+Baxter International Inc. (NYSE:BAX),2024,19086.254285713338
+Baxter International Inc. (NYSE:BAX),2025,19535.489999998976
+Baxter International Inc. (NYSE:BAX),2026,19984.725714284614
+Baxter International Inc. (NYSE:BAX),2027,20433.961428570252
+Danaher Corporation (NYSE:DHR),2016,7522.4
+Danaher Corporation (NYSE:DHR),2017,6947.5
+Danaher Corporation (NYSE:DHR),2018,7544.0
+Danaher Corporation (NYSE:DHR),2019,7927.0
+Danaher Corporation (NYSE:DHR),2020,9241.0
+Danaher Corporation (NYSE:DHR),2021,11397.0
+Danaher Corporation (NYSE:DHR),2022,12522.0
+Danaher Corporation (NYSE:DHR),2023,14705.844285712652
+Danaher Corporation (NYSE:DHR),2024,15156.037857141195
+Danaher Corporation (NYSE:DHR),2025,15606.231428569736
+Danaher Corporation (NYSE:DHR),2026,16056.424999998279
+Danaher Corporation (NYSE:DHR),2027,16506.61857142682
+Dell Technologies Inc. (NYSE:DELL),2016,48472.0
+Dell Technologies Inc. (NYSE:DELL),2017,58479.0
+Dell Technologies Inc. (NYSE:DELL),2018,65355.0
+Dell Technologies Inc. (NYSE:DELL),2019,64176.0
+Dell Technologies Inc. (NYSE:DELL),2020,66530.0
+Dell Technologies Inc. (NYSE:DELL),2021,79306.0
+Dell Technologies Inc. (NYSE:DELL),2022,79615.0
+Dell Technologies Inc. (NYSE:DELL),2023,4759.548571428679
+Dell Technologies Inc. (NYSE:DELL),2024,4830.856785714391
+Dell Technologies Inc. (NYSE:DELL),2025,4902.165000000103
+Dell Technologies Inc. (NYSE:DELL),2026,4973.473214285814
+Dell Technologies Inc. (NYSE:DELL),2027,5044.781428571526
+Deere & Company (NYSE:DE),2016,18177.3
+Deere & Company (NYSE:DE),2017,20758.6
+Deere & Company (NYSE:DE),2018,26298.5
+Deere & Company (NYSE:DE),2019,26393.0
+Deere & Company (NYSE:DE),2020,24177.0
+Deere & Company (NYSE:DE),2021,30064.0
+Deere & Company (NYSE:DE),2022,36396.0
+Deere & Company (NYSE:DE),2023,15276.561428574149
+Deere & Company (NYSE:DE),2024,14389.680357145622
+Deere & Company (NYSE:DE),2025,13502.799285717098
+Deere & Company (NYSE:DE),2026,12615.918214288571
+Deere & Company (NYSE:DE),2027,11729.037142860045
+"Diebold Nixdorf, Incorporated (NYSE:DBD)",2016,2450.5
+"Diebold Nixdorf, Incorporated (NYSE:DBD)",2017,3580.3
+"Diebold Nixdorf, Incorporated (NYSE:DBD)",2018,3576.7
+"Diebold Nixdorf, Incorporated (NYSE:DBD)",2019,3331.9
+"Diebold Nixdorf, Incorporated (NYSE:DBD)",2020,2845.0
+"Diebold Nixdorf, Incorporated (NYSE:DBD)",2021,2846.4
+"Diebold Nixdorf, Incorporated (NYSE:DBD)",2022,2682.6
+"Diebold Nixdorf, Incorporated (NYSE:DBD)",2023,3572.204285714143
+"Diebold Nixdorf, Incorporated (NYSE:DBD)",2024,3596.409285714144
+"Diebold Nixdorf, Incorporated (NYSE:DBD)",2025,3620.614285714145
+"Diebold Nixdorf, Incorporated (NYSE:DBD)",2026,3644.8192857141457
+"Diebold Nixdorf, Incorporated (NYSE:DBD)",2027,3669.0242857141466
+Flowserve Corporation (NYSE:FLS),2016,2753.69
+Flowserve Corporation (NYSE:FLS),2017,2571.88
+Flowserve Corporation (NYSE:FLS),2018,2644.83
+Flowserve Corporation (NYSE:FLS),2019,2650.35
+Flowserve Corporation (NYSE:FLS),2020,2611.37
+Flowserve Corporation (NYSE:FLS),2021,2474.49
+Flowserve Corporation (NYSE:FLS),2022,2611.61
+Flowserve Corporation (NYSE:FLS),2023,1334.2028571427895
+Flowserve Corporation (NYSE:FLS),2024,1472.8389285713502
+Flowserve Corporation (NYSE:FLS),2025,1611.4749999999108
+Flowserve Corporation (NYSE:FLS),2026,1750.1110714284716
+Flowserve Corporation (NYSE:FLS),2027,1888.7471428570325
+"Revvity, Inc. (NYSE:RVTY)",2016,1100.76
+"Revvity, Inc. (NYSE:RVTY)",2017,1183.23
+"Revvity, Inc. (NYSE:RVTY)",2018,1437.06
+"Revvity, Inc. (NYSE:RVTY)",2019,1466.03
+"Revvity, Inc. (NYSE:RVTY)",2020,923.28
+"Revvity, Inc. (NYSE:RVTY)",2021,1358.62
+"Revvity, Inc. (NYSE:RVTY)",2022,1271.1
+"Revvity, Inc. (NYSE:RVTY)",2023,2198.129999999961
+"Revvity, Inc. (NYSE:RVTY)",2024,2339.6896428570917
+"Revvity, Inc. (NYSE:RVTY)",2025,2481.249285714223
+"Revvity, Inc. (NYSE:RVTY)",2026,2622.808928571354
+"Revvity, Inc. (NYSE:RVTY)",2027,2764.3685714284848
+Emerson Electric Co. (NYSE:EMR),2016,8188.0
+Emerson Electric Co. (NYSE:EMR),2017,9127.0
+Emerson Electric Co. (NYSE:EMR),2018,10170.0
+Emerson Electric Co. (NYSE:EMR),2019,10563.0
+Emerson Electric Co. (NYSE:EMR),2020,9822.0
+Emerson Electric Co. (NYSE:EMR),2021,9976.0
+Emerson Electric Co. (NYSE:EMR),2022,11453.0
+Emerson Electric Co. (NYSE:EMR),2023,35480.428571427234
+Emerson Electric Co. (NYSE:EMR),2024,36922.96428571287
+Emerson Electric Co. (NYSE:EMR),2025,38365.49999999851
+Emerson Electric Co. (NYSE:EMR),2026,39808.03571428414
+Emerson Electric Co. (NYSE:EMR),2027,41250.571428569776
+Telefonaktiebolaget LM Ericsson (publ) (OM:ERIC B),2016,13589.96
+Telefonaktiebolaget LM Ericsson (publ) (OM:ERIC B),2017,13645.72
+Telefonaktiebolaget LM Ericsson (publ) (OM:ERIC B),2018,12255.32
+Telefonaktiebolaget LM Ericsson (publ) (OM:ERIC B),2019,12735.4
+Telefonaktiebolaget LM Ericsson (publ) (OM:ERIC B),2020,12366.58
+Telefonaktiebolaget LM Ericsson (publ) (OM:ERIC B),2021,11770.49
+Telefonaktiebolaget LM Ericsson (publ) (OM:ERIC B),2022,14169.91
+Telefonaktiebolaget LM Ericsson (publ) (OM:ERIC B),2023,46168.14285715247
+Telefonaktiebolaget LM Ericsson (publ) (OM:ERIC B),2024,41596.0000000098
+Telefonaktiebolaget LM Ericsson (publ) (OM:ERIC B),2025,37023.857142867135
+Telefonaktiebolaget LM Ericsson (publ) (OM:ERIC B),2026,32451.71428572447
+Telefonaktiebolaget LM Ericsson (publ) (OM:ERIC B),2027,27879.5714285818
+General Dynamics Corporation (NYSE:GD),2016,24896.0
+General Dynamics Corporation (NYSE:GD),2017,24731.0
+General Dynamics Corporation (NYSE:GD),2018,29536.0
+General Dynamics Corporation (NYSE:GD),2019,32363.0
+General Dynamics Corporation (NYSE:GD),2020,31600.0
+General Dynamics Corporation (NYSE:GD),2021,32061.0
+General Dynamics Corporation (NYSE:GD),2022,32785.0
+General Dynamics Corporation (NYSE:GD),2023,22200.06428571319
+General Dynamics Corporation (NYSE:GD),2024,23539.987857141736
+General Dynamics Corporation (NYSE:GD),2025,24879.911428570285
+General Dynamics Corporation (NYSE:GD),2026,26219.83499999883
+General Dynamics Corporation (NYSE:GD),2027,27559.758571427377
+"SPX Technologies, Inc. (NYSE:SPXC)",2016,1096.5
+"SPX Technologies, Inc. (NYSE:SPXC)",2017,1095.6
+"SPX Technologies, Inc. (NYSE:SPXC)",2018,1102.6
+"SPX Technologies, Inc. (NYSE:SPXC)",2019,721.6
+"SPX Technologies, Inc. (NYSE:SPXC)",2020,732.6
+"SPX Technologies, Inc. (NYSE:SPXC)",2021,787.7
+"SPX Technologies, Inc. (NYSE:SPXC)",2022,937.0
+"SPX Technologies, Inc. (NYSE:SPXC)",2023,6052.261428571858
+"SPX Technologies, Inc. (NYSE:SPXC)",2024,6221.707142857561
+"SPX Technologies, Inc. (NYSE:SPXC)",2025,6391.152857143265
+"SPX Technologies, Inc. (NYSE:SPXC)",2026,6560.598571428967
+"SPX Technologies, Inc. (NYSE:SPXC)",2027,6730.044285714671
+ITT Inc. (NYSE:ITT),2016,1644.5
+ITT Inc. (NYSE:ITT),2017,1765.4
+ITT Inc. (NYSE:ITT),2018,1857.9
+ITT Inc. (NYSE:ITT),2019,1936.3
+ITT Inc. (NYSE:ITT),2020,1695.6
+ITT Inc. (NYSE:ITT),2021,1865.5
+ITT Inc. (NYSE:ITT),2022,2064.8
+ITT Inc. (NYSE:ITT),2023,4419.805714285878
+ITT Inc. (NYSE:ITT),2024,4550.1789285715795
+ITT Inc. (NYSE:ITT),2025,4680.552142857282
+ITT Inc. (NYSE:ITT),2026,4810.925357142984
+ITT Inc. (NYSE:ITT),2027,4941.298571428685
+Trane Technologies plc (NYSE:TT),2016,9298.1
+Trane Technologies plc (NYSE:TT),2017,9764.8
+Trane Technologies plc (NYSE:TT),2018,8557.3
+Trane Technologies plc (NYSE:TT),2019,9048.2
+Trane Technologies plc (NYSE:TT),2020,8651.3
+Trane Technologies plc (NYSE:TT),2021,9666.8
+Trane Technologies plc (NYSE:TT),2022,11026.9
+Trane Technologies plc (NYSE:TT),2023,989.7628571428667
+Trane Technologies plc (NYSE:TT),2024,1034.628214285721
+Trane Technologies plc (NYSE:TT),2025,1079.4935714285755
+Trane Technologies plc (NYSE:TT),2026,1124.35892857143
+Trane Technologies plc (NYSE:TT),2027,1169.2242857142844
+KLA Corporation (NasdaqGS:KLAC),2016,1208.21
+KLA Corporation (NasdaqGS:KLAC),2017,1391.32
+KLA Corporation (NasdaqGS:KLAC),2018,1535.57
+KLA Corporation (NasdaqGS:KLAC),2019,2317.59
+KLA Corporation (NasdaqGS:KLAC),2020,2502.0
+KLA Corporation (NasdaqGS:KLAC),2021,3203.66
+KLA Corporation (NasdaqGS:KLAC),2022,4120.67
+KLA Corporation (NasdaqGS:KLAC),2023,51950.28571428105
+KLA Corporation (NasdaqGS:KLAC),2024,53327.67857142388
+KLA Corporation (NasdaqGS:KLAC),2025,54705.0714285667
+KLA Corporation (NasdaqGS:KLAC),2026,56082.464285709524
+KLA Corporation (NasdaqGS:KLAC),2027,57459.85714285235
+Johnson Controls International plc (NYSE:JCI),2016,16604.0
+Johnson Controls International plc (NYSE:JCI),2017,19580.0
+Johnson Controls International plc (NYSE:JCI),2018,15865.0
+Johnson Controls International plc (NYSE:JCI),2019,16309.0
+Johnson Controls International plc (NYSE:JCI),2020,14746.0
+Johnson Controls International plc (NYSE:JCI),2021,15967.0
+Johnson Controls International plc (NYSE:JCI),2022,16962.0
+Johnson Controls International plc (NYSE:JCI),2023,-706.8599999997368
+Johnson Controls International plc (NYSE:JCI),2024,-1072.4892857140053
+Johnson Controls International plc (NYSE:JCI),2025,-1438.1185714282738
+Johnson Controls International plc (NYSE:JCI),2026,-1803.7478571425422
+Johnson Controls International plc (NYSE:JCI),2027,-2169.3771428568107
+Lockheed Martin Corporation (NYSE:LMT),2016,41809.0
+Lockheed Martin Corporation (NYSE:LMT),2017,43589.0
+Lockheed Martin Corporation (NYSE:LMT),2018,46392.0
+Lockheed Martin Corporation (NYSE:LMT),2019,51445.0
+Lockheed Martin Corporation (NYSE:LMT),2020,56717.0
+Lockheed Martin Corporation (NYSE:LMT),2021,57947.0
+Lockheed Martin Corporation (NYSE:LMT),2022,57597.0
+Lockheed Martin Corporation (NYSE:LMT),2023,7229.774285713976
+Lockheed Martin Corporation (NYSE:LMT),2024,7914.329999999644
+Lockheed Martin Corporation (NYSE:LMT),2025,8598.885714285314
+Lockheed Martin Corporation (NYSE:LMT),2026,9283.441428570983
+Lockheed Martin Corporation (NYSE:LMT),2027,9967.997142856651
+Magna International Inc. (TSX:MG),2016,31123.0
+Magna International Inc. (TSX:MG),2017,30895.0
+Magna International Inc. (TSX:MG),2018,34725.0
+Magna International Inc. (TSX:MG),2019,34022.0
+Magna International Inc. (TSX:MG),2020,28207.0
+Magna International Inc. (TSX:MG),2021,31097.0
+Magna International Inc. (TSX:MG),2022,33188.0
+Magna International Inc. (TSX:MG),2023,510.78857142855065
+Magna International Inc. (TSX:MG),2024,517.5742857142633
+Magna International Inc. (TSX:MG),2025,524.3599999999759
+Magna International Inc. (TSX:MG),2026,531.1457142856885
+Magna International Inc. (TSX:MG),2027,537.9314285714012
+Moog Inc. (NYSE:MOG.A),2016,1710.52
+Moog Inc. (NYSE:MOG.A),2017,1791.99
+Moog Inc. (NYSE:MOG.A),2018,1960.2
+Moog Inc. (NYSE:MOG.A),2019,2152.24
+Moog Inc. (NYSE:MOG.A),2020,2091.58
+Moog Inc. (NYSE:MOG.A),2021,2113.17
+Moog Inc. (NYSE:MOG.A),2022,2238.29
+Moog Inc. (NYSE:MOG.A),2023,39741.85571428429
+Moog Inc. (NYSE:MOG.A),2024,40926.03464285564
+Moog Inc. (NYSE:MOG.A),2025,42110.21357142698
+Moog Inc. (NYSE:MOG.A),2026,43294.39249999833
+Moog Inc. (NYSE:MOG.A),2027,44478.571428569674
+Parker-Hannifin Corporation (NYSE:PH),2016,8574.45
+Parker-Hannifin Corporation (NYSE:PH),2017,10082.14
+Parker-Hannifin Corporation (NYSE:PH),2018,10816.92
+Parker-Hannifin Corporation (NYSE:PH),2019,10599.25
+Parker-Hannifin Corporation (NYSE:PH),2020,9941.4
+Parker-Hannifin Corporation (NYSE:PH),2021,10608.04
+Parker-Hannifin Corporation (NYSE:PH),2022,12330.56
+Parker-Hannifin Corporation (NYSE:PH),2023,8858.307142856942
+Parker-Hannifin Corporation (NYSE:PH),2024,9175.055357142644
+Parker-Hannifin Corporation (NYSE:PH),2025,9491.803571428347
+Parker-Hannifin Corporation (NYSE:PH),2026,9808.551785714048
+Parker-Hannifin Corporation (NYSE:PH),2027,10125.29999999975
+Pioneer Natural Resources Company (NYSE:PXD),2016,1872.0
+Pioneer Natural Resources Company (NYSE:PXD),2017,2613.0
+Pioneer Natural Resources Company (NYSE:PXD),2018,5069.0
+Pioneer Natural Resources Company (NYSE:PXD),2019,5645.0
+Pioneer Natural Resources Company (NYSE:PXD),2020,4557.0
+Pioneer Natural Resources Company (NYSE:PXD),2021,8478.0
+Pioneer Natural Resources Company (NYSE:PXD),2022,11122.0
+Pioneer Natural Resources Company (NYSE:PXD),2023,18123.14285714185
+Pioneer Natural Resources Company (NYSE:PXD),2024,17807.285714284746
+Pioneer Natural Resources Company (NYSE:PXD),2025,17491.42857142764
+Pioneer Natural Resources Company (NYSE:PXD),2026,17175.571428570536
+Pioneer Natural Resources Company (NYSE:PXD),2027,16859.714285713428
+Pitney Bowes Inc. (NYSE:PBI),2016,1174.09
+Pitney Bowes Inc. (NYSE:PBI),2017,1281.68
+Pitney Bowes Inc. (NYSE:PBI),2018,1745.9
+Pitney Bowes Inc. (NYSE:PBI),2019,1877.9
+Pitney Bowes Inc. (NYSE:PBI),2020,2356.5
+Pitney Bowes Inc. (NYSE:PBI),2021,2504.5
+Pitney Bowes Inc. (NYSE:PBI),2022,2405.76
+Pitney Bowes Inc. (NYSE:PBI),2023,52131.66142857207
+Pitney Bowes Inc. (NYSE:PBI),2024,53316.74857142909
+Pitney Bowes Inc. (NYSE:PBI),2025,54501.835714286106
+Pitney Bowes Inc. (NYSE:PBI),2026,55686.92285714312
+Pitney Bowes Inc. (NYSE:PBI),2027,56872.01000000014
+"Rockwell Automation, Inc. (NYSE:ROK)",2016,3438.1
+"Rockwell Automation, Inc. (NYSE:ROK)",2017,3725.5
+"Rockwell Automation, Inc. (NYSE:ROK)",2018,3798.3
+"Rockwell Automation, Inc. (NYSE:ROK)",2019,3872.7
+"Rockwell Automation, Inc. (NYSE:ROK)",2020,3671.8
+"Rockwell Automation, Inc. (NYSE:ROK)",2021,4289.1
+"Rockwell Automation, Inc. (NYSE:ROK)",2022,4717.6
+"Rockwell Automation, Inc. (NYSE:ROK)",2023,21523.000000001175
+"Rockwell Automation, Inc. (NYSE:ROK)",2024,20525.392857144114
+"Rockwell Automation, Inc. (NYSE:ROK)",2025,19527.785714287053
+"Rockwell Automation, Inc. (NYSE:ROK)",2026,18530.17857142999
+"Rockwell Automation, Inc. (NYSE:ROK)",2027,17532.571428572926
+Schlumberger Limited (NYSE:SLB),2016,24110.0
+Schlumberger Limited (NYSE:SLB),2017,26298.0
+Schlumberger Limited (NYSE:SLB),2018,28478.0
+Schlumberger Limited (NYSE:SLB),2019,28720.0
+Schlumberger Limited (NYSE:SLB),2020,21000.0
+Schlumberger Limited (NYSE:SLB),2021,19271.0
+Schlumberger Limited (NYSE:SLB),2022,22930.0
+Schlumberger Limited (NYSE:SLB),2023,282.4257142858145
+Schlumberger Limited (NYSE:SLB),2024,185.1792857143953
+Schlumberger Limited (NYSE:SLB),2025,87.93285714297608
+Schlumberger Limited (NYSE:SLB),2026,-9.31357142844314
+Schlumberger Limited (NYSE:SLB),2027,-106.55999999986236
+"Stanley Black & Decker, Inc. (NYSE:SWK)",2016,7325.5
+"Stanley Black & Decker, Inc. (NYSE:SWK)",2017,8141.5
+"Stanley Black & Decker, Inc. (NYSE:SWK)",2018,9065.6
+"Stanley Black & Decker, Inc. (NYSE:SWK)",2019,8651.5
+"Stanley Black & Decker, Inc. (NYSE:SWK)",2020,8372.9
+"Stanley Black & Decker, Inc. (NYSE:SWK)",2021,10150.1
+"Stanley Black & Decker, Inc. (NYSE:SWK)",2022,12535.9
+"Stanley Black & Decker, Inc. (NYSE:SWK)",2023,31042.76142857333
+"Stanley Black & Decker, Inc. (NYSE:SWK)",2024,32411.805357144607
+"Stanley Black & Decker, Inc. (NYSE:SWK)",2025,33780.84928571589
+"Stanley Black & Decker, Inc. (NYSE:SWK)",2026,35149.89321428717
+"Stanley Black & Decker, Inc. (NYSE:SWK)",2027,36518.93714285845
+Coherent Corp. (NYSE:COHR),2016,547.77
+Coherent Corp. (NYSE:COHR),2017,639.82
+Coherent Corp. (NYSE:COHR),2018,770.85
+Coherent Corp. (NYSE:COHR),2019,1086.85
+Coherent Corp. (NYSE:COHR),2020,1750.24
+Coherent Corp. (NYSE:COHR),2021,1987.59
+Coherent Corp. (NYSE:COHR),2022,2769.07
+Coherent Corp. (NYSE:COHR),2023,2018.399999999965
+Coherent Corp. (NYSE:COHR),2024,2064.7857142856774
+Coherent Corp. (NYSE:COHR),2025,2111.1714285713897
+Coherent Corp. (NYSE:COHR),2026,2157.5571428571025
+Coherent Corp. (NYSE:COHR),2027,2203.942857142815
+Unisys Corporation (NYSE:UIS),2016,2160.9
+Unisys Corporation (NYSE:UIS),2017,2094.1
+Unisys Corporation (NYSE:UIS),2018,1648.8
+Unisys Corporation (NYSE:UIS),2019,1677.8
+Unisys Corporation (NYSE:UIS),2020,1521.1
+Unisys Corporation (NYSE:UIS),2021,1477.3
+Unisys Corporation (NYSE:UIS),2022,1423.6
+Unisys Corporation (NYSE:UIS),2023,3758.199999999864
+Unisys Corporation (NYSE:UIS),2024,4164.192857142689
+Unisys Corporation (NYSE:UIS),2025,4570.185714285515
+Unisys Corporation (NYSE:UIS),2026,4976.178571428341
+Unisys Corporation (NYSE:UIS),2027,5382.171428571166
+Western Digital Corporation (NasdaqGS:WDC),2016,11447.0
+Western Digital Corporation (NasdaqGS:WDC),2017,12843.0
+Western Digital Corporation (NasdaqGS:WDC),2018,12904.0
+Western Digital Corporation (NasdaqGS:WDC),2019,12845.0
+Western Digital Corporation (NasdaqGS:WDC),2020,12314.0
+Western Digital Corporation (NasdaqGS:WDC),2021,13097.0
+Western Digital Corporation (NasdaqGS:WDC),2022,11617.0
+Western Digital Corporation (NasdaqGS:WDC),2023,608.6799999999623
+Western Digital Corporation (NasdaqGS:WDC),2024,689.8607142856702
+Western Digital Corporation (NasdaqGS:WDC),2025,771.041428571378
+Western Digital Corporation (NasdaqGS:WDC),2026,852.2221428570858
+Western Digital Corporation (NasdaqGS:WDC),2027,933.4028571427938
+Whirlpool Corporation (NYSE:WHR),2016,17026.0
+Whirlpool Corporation (NYSE:WHR),2017,17651.0
+Whirlpool Corporation (NYSE:WHR),2018,17500.0
+Whirlpool Corporation (NYSE:WHR),2019,16908.0
+Whirlpool Corporation (NYSE:WHR),2020,15614.0
+Whirlpool Corporation (NYSE:WHR),2021,17576.0
+Whirlpool Corporation (NYSE:WHR),2022,16651.0
+Whirlpool Corporation (NYSE:WHR),2023,39931.00000000293
+Whirlpool Corporation (NYSE:WHR),2024,42448.8214285742
+Whirlpool Corporation (NYSE:WHR),2025,44966.64285714546
+Whirlpool Corporation (NYSE:WHR),2026,47484.46428571672
+Whirlpool Corporation (NYSE:WHR),2027,50002.28571428799
+Boston Scientific Corporation (NYSE:BSX),2016,2447.0
+Boston Scientific Corporation (NYSE:BSX),2017,2606.0
+Boston Scientific Corporation (NYSE:BSX),2018,2830.0
+Boston Scientific Corporation (NYSE:BSX),2019,3103.0
+Boston Scientific Corporation (NYSE:BSX),2020,3242.0
+Boston Scientific Corporation (NYSE:BSX),2021,3760.0
+Boston Scientific Corporation (NYSE:BSX),2022,4003.0
+Boston Scientific Corporation (NYSE:BSX),2023,19569.28571428699
+Boston Scientific Corporation (NYSE:BSX),2024,16431.392857144354
+Boston Scientific Corporation (NYSE:BSX),2025,13293.500000001717
+Boston Scientific Corporation (NYSE:BSX),2026,10155.60714285908
+Boston Scientific Corporation (NYSE:BSX),2027,7017.714285716444
+Panasonic Holdings Corporation (TSE:6752),2016,34390.54
+Panasonic Holdings Corporation (TSE:6752),2017,36899.62
+Panasonic Holdings Corporation (TSE:6752),2018,39291.69
+Panasonic Holdings Corporation (TSE:6752),2019,36518.11
+Panasonic Holdings Corporation (TSE:6752),2020,31333.76
+Panasonic Holdings Corporation (TSE:6752),2021,34577.2
+Panasonic Holdings Corporation (TSE:6752),2022,40132.2
+Panasonic Holdings Corporation (TSE:6752),2023,1756.5300000000184
+Panasonic Holdings Corporation (TSE:6752),2024,1585.2803571428826
+Panasonic Holdings Corporation (TSE:6752),2025,1414.0307142857469
+Panasonic Holdings Corporation (TSE:6752),2026,1242.781071428611
+Panasonic Holdings Corporation (TSE:6752),2027,1071.531428571475
+Ingersoll Rand Inc. (NYSE:IR),2016,1222.7
+Ingersoll Rand Inc. (NYSE:IR),2017,1477.5
+Ingersoll Rand Inc. (NYSE:IR),2018,1677.3
+Ingersoll Rand Inc. (NYSE:IR),2019,1239.2
+Ingersoll Rand Inc. (NYSE:IR),2020,2568.3
+Ingersoll Rand Inc. (NYSE:IR),2021,3163.9
+Ingersoll Rand Inc. (NYSE:IR),2022,3590.7
+Ingersoll Rand Inc. (NYSE:IR),2023,2165.5571428570015
+Ingersoll Rand Inc. (NYSE:IR),2024,2367.18928571413
+Ingersoll Rand Inc. (NYSE:IR),2025,2568.8214285712593
+Ingersoll Rand Inc. (NYSE:IR),2026,2770.4535714283884
+Ingersoll Rand Inc. (NYSE:IR),2027,2972.0857142855175
+Keurig Dr Pepper Inc. (NasdaqGS:KDP),2016,2356.23
+Keurig Dr Pepper Inc. (NasdaqGS:KDP),2017,2572.0
+Keurig Dr Pepper Inc. (NasdaqGS:KDP),2018,3427.0
+Keurig Dr Pepper Inc. (NasdaqGS:KDP),2019,4778.0
+Keurig Dr Pepper Inc. (NasdaqGS:KDP),2020,5132.0
+Keurig Dr Pepper Inc. (NasdaqGS:KDP),2021,5680.0
+Keurig Dr Pepper Inc. (NasdaqGS:KDP),2022,6725.0
+Keurig Dr Pepper Inc. (NasdaqGS:KDP),2023,1452.6399999999928
+Keurig Dr Pepper Inc. (NasdaqGS:KDP),2024,1446.4782142857107
+Keurig Dr Pepper Inc. (NasdaqGS:KDP),2025,1440.3164285714283
+Keurig Dr Pepper Inc. (NasdaqGS:KDP),2026,1434.1546428571462
+Keurig Dr Pepper Inc. (NasdaqGS:KDP),2027,1427.9928571428638
+National Instruments Corporation,2016,313.12
+National Instruments Corporation,2017,327.12
+National Instruments Corporation,2018,333.88
+National Instruments Corporation,2019,336.89
+National Instruments Corporation,2020,369.5
+National Instruments Corporation,2021,420.99
+National Instruments Corporation,2022,524.91
+National Instruments Corporation,2023,8730.870000000506
+National Instruments Corporation,2024,8896.144642857644
+National Instruments Corporation,2025,9061.419285714781
+National Instruments Corporation,2026,9226.693928571918
+National Instruments Corporation,2027,9391.968571429054
+"Autoliv, Inc. (NYSE:ALV)",2016,6293.6
+"Autoliv, Inc. (NYSE:ALV)",2017,6457.1
+"Autoliv, Inc. (NYSE:ALV)",2018,6966.9
+"Autoliv, Inc. (NYSE:ALV)",2019,6963.0
+"Autoliv, Inc. (NYSE:ALV)",2020,6201.0
+"Autoliv, Inc. (NYSE:ALV)",2021,6719.0
+"Autoliv, Inc. (NYSE:ALV)",2022,7446.0
+"Autoliv, Inc. (NYSE:ALV)",2023,1460.2914285715253
+"Autoliv, Inc. (NYSE:ALV)",2024,1463.3396428572396
+"Autoliv, Inc. (NYSE:ALV)",2025,1466.3878571429539
+"Autoliv, Inc. (NYSE:ALV)",2026,1469.4360714286681
+"Autoliv, Inc. (NYSE:ALV)",2027,1472.4842857143824
+The Boeing Company (NYSE:BA),2016,78967.0
+The Boeing Company (NYSE:BA),2017,76542.0
+The Boeing Company (NYSE:BA),2018,81421.0
+The Boeing Company (NYSE:BA),2019,71738.0
+The Boeing Company (NYSE:BA),2020,59631.0
+The Boeing Company (NYSE:BA),2021,56882.0
+The Boeing Company (NYSE:BA),2022,61325.0
+The Boeing Company (NYSE:BA),2023,32702.00000000277
+The Boeing Company (NYSE:BA),2024,34050.85714285986
+The Boeing Company (NYSE:BA),2025,35399.71428571695
+The Boeing Company (NYSE:BA),2026,36748.57142857404
+The Boeing Company (NYSE:BA),2027,38097.42857143113
+Fresenius Medical Care AG & Co. KGaA (XTRA:FME),2016,11622.04
+Fresenius Medical Care AG & Co. KGaA (XTRA:FME),2017,12483.1
+Fresenius Medical Care AG & Co. KGaA (XTRA:FME),2018,12087.14
+Fresenius Medical Care AG & Co. KGaA (XTRA:FME),2019,12817.72
+Fresenius Medical Care AG & Co. KGaA (XTRA:FME),2020,13073.33
+Fresenius Medical Care AG & Co. KGaA (XTRA:FME),2021,13304.93
+Fresenius Medical Care AG & Co. KGaA (XTRA:FME),2022,14947.23
+Fresenius Medical Care AG & Co. KGaA (XTRA:FME),2023,15537.428571429315
+Fresenius Medical Care AG & Co. KGaA (XTRA:FME),2024,15277.750000000775
+Fresenius Medical Care AG & Co. KGaA (XTRA:FME),2025,15018.071428572235
+Fresenius Medical Care AG & Co. KGaA (XTRA:FME),2026,14758.392857143695
+Fresenius Medical Care AG & Co. KGaA (XTRA:FME),2027,14498.714285715158
+Logitech International S.A. (SWX:LOGN),2016,1372.65
+Logitech International S.A. (SWX:LOGN),2017,1582.43
+Logitech International S.A. (SWX:LOGN),2018,1727.56
+Logitech International S.A. (SWX:LOGN),2019,1798.63
+Logitech International S.A. (SWX:LOGN),2020,2510.17
+Logitech International S.A. (SWX:LOGN),2021,3292.11
+Logitech International S.A. (SWX:LOGN),2022,2926.83
+Logitech International S.A. (SWX:LOGN),2023,2171.8000000001107
+Logitech International S.A. (SWX:LOGN),2024,2222.4214285715348
+Logitech International S.A. (SWX:LOGN),2025,2273.042857142959
+Logitech International S.A. (SWX:LOGN),2026,2323.664285714383
+Logitech International S.A. (SWX:LOGN),2027,2374.285714285807
+ASML Holding N.V. (ENXTAM:ASML),2016,3957.35
+ASML Holding N.V. (ENXTAM:ASML),2017,5244.03
+ASML Holding N.V. (ENXTAM:ASML),2018,6275.65
+ASML Holding N.V. (ENXTAM:ASML),2019,6939.2
+ASML Holding N.V. (ENXTAM:ASML),2020,7619.42
+ASML Holding N.V. (ENXTAM:ASML),2021,9338.99
+ASML Holding N.V. (ENXTAM:ASML),2022,11112.25
+ASML Holding N.V. (ENXTAM:ASML),2023,4229.64428571411
+ASML Holding N.V. (ENXTAM:ASML),2024,4705.661785714074
+ASML Holding N.V. (ENXTAM:ASML),2025,5181.679285714038
+ASML Holding N.V. (ENXTAM:ASML),2026,5657.696785714002
+ASML Holding N.V. (ENXTAM:ASML),2027,6133.714285713965
+Zebra Technologies Corporation (NasdaqGS:ZBRA),2016,1932.0
+Zebra Technologies Corporation (NasdaqGS:ZBRA),2017,2012.0
+Zebra Technologies Corporation (NasdaqGS:ZBRA),2018,2237.0
+Zebra Technologies Corporation (NasdaqGS:ZBRA),2019,2385.0
+Zebra Technologies Corporation (NasdaqGS:ZBRA),2020,2445.0
+Zebra Technologies Corporation (NasdaqGS:ZBRA),2021,2999.0
+Zebra Technologies Corporation (NasdaqGS:ZBRA),2022,3157.0
+Zebra Technologies Corporation (NasdaqGS:ZBRA),2023,7385.362857142524
+Zebra Technologies Corporation (NasdaqGS:ZBRA),2024,8136.33821428533
+Zebra Technologies Corporation (NasdaqGS:ZBRA),2025,8887.313571428134
+Zebra Technologies Corporation (NasdaqGS:ZBRA),2026,9638.28892857094
+Zebra Technologies Corporation (NasdaqGS:ZBRA),2027,10389.264285713747
+Siemens Aktiengesellschaft (XTRA:SIE),2016,59221.22
+Siemens Aktiengesellschaft (XTRA:SIE),2017,62127.32
+Siemens Aktiengesellschaft (XTRA:SIE),2018,62094.43
+Siemens Aktiengesellschaft (XTRA:SIE),2019,33242.44
+Siemens Aktiengesellschaft (XTRA:SIE),2020,37590.45
+Siemens Aktiengesellschaft (XTRA:SIE),2021,43573.47
+Siemens Aktiengesellschaft (XTRA:SIE),2022,49805.84
+Siemens Aktiengesellschaft (XTRA:SIE),2023,2100.714285714266
+Siemens Aktiengesellschaft (XTRA:SIE),2024,2196.928571428549
+Siemens Aktiengesellschaft (XTRA:SIE),2025,2293.1428571428314
+Siemens Aktiengesellschaft (XTRA:SIE),2026,2389.3571428571145
+Siemens Aktiengesellschaft (XTRA:SIE),2027,2485.571428571397
+Fujitsu Limited (TSE:6702),2016,22020.38
+Fujitsu Limited (TSE:6702),2017,20651.89
+Fujitsu Limited (TSE:6702),2018,19485.48
+Fujitsu Limited (TSE:6702),2019,18578.75
+Fujitsu Limited (TSE:6702),2020,17162.34
+Fujitsu Limited (TSE:6702),2021,16753.89
+Fujitsu Limited (TSE:6702),2022,17115.87
+Fujitsu Limited (TSE:6702),2023,4110.197142857219
+Fujitsu Limited (TSE:6702),2024,4270.190357142928
+Fujitsu Limited (TSE:6702),2025,4430.183571428639
+Fujitsu Limited (TSE:6702),2026,4590.176785714349
+Fujitsu Limited (TSE:6702),2027,4750.170000000058
+BlackBerry Limited (TSX:BB),2016,809.0
+BlackBerry Limited (TSX:BB),2017,306.0
+BlackBerry Limited (TSX:BB),2018,209.0
+BlackBerry Limited (TSX:BB),2019,250.0
+BlackBerry Limited (TSX:BB),2020,262.0
+BlackBerry Limited (TSX:BB),2021,248.0
+BlackBerry Limited (TSX:BB),2022,247.0
+BlackBerry Limited (TSX:BB),2023,3809.1357142859374
+BlackBerry Limited (TSX:BB),2024,3865.340357143078
+BlackBerry Limited (TSX:BB),2025,3921.545000000219
+BlackBerry Limited (TSX:BB),2026,3977.7496428573595
+BlackBerry Limited (TSX:BB),2027,4033.9542857145
+Rolls-Royce Holdings plc (LSE:RR.),2016,14420.15
+Rolls-Royce Holdings plc (LSE:RR.),2017,14965.33
+Rolls-Royce Holdings plc (LSE:RR.),2018,17643.92
+Rolls-Royce Holdings plc (LSE:RR.),2019,18996.56
+Rolls-Royce Holdings plc (LSE:RR.),2020,12601.24
+Rolls-Royce Holdings plc (LSE:RR.),2021,11027.6
+Rolls-Royce Holdings plc (LSE:RR.),2022,13068.71
+Rolls-Royce Holdings plc (LSE:RR.),2023,10897.462857142833
+Rolls-Royce Holdings plc (LSE:RR.),2024,11060.06249999996
+Rolls-Royce Holdings plc (LSE:RR.),2025,11222.662142857089
+Rolls-Royce Holdings plc (LSE:RR.),2026,11385.261785714216
+Rolls-Royce Holdings plc (LSE:RR.),2027,11547.861428571343
+"Ricoh Company, Ltd. (TSE:7752)",2016,8313.85
+"Ricoh Company, Ltd. (TSE:7752)",2017,8573.62
+"Ricoh Company, Ltd. (TSE:7752)",2018,8478.89
+"Ricoh Company, Ltd. (TSE:7752)",2019,8559.45
+"Ricoh Company, Ltd. (TSE:7752)",2020,7508.89
+"Ricoh Company, Ltd. (TSE:7752)",2021,7689.4
+"Ricoh Company, Ltd. (TSE:7752)",2022,8793.01
+"Ricoh Company, Ltd. (TSE:7752)",2023,6701.471428571454
+"Ricoh Company, Ltd. (TSE:7752)",2024,7079.8571428571795
+"Ricoh Company, Ltd. (TSE:7752)",2025,7458.2428571429045
+"Ricoh Company, Ltd. (TSE:7752)",2026,7836.62857142863
+"Ricoh Company, Ltd. (TSE:7752)",2027,8215.014285714355
+Vtech Holdings Limited (SEHK:303),2016,1345.05
+Vtech Holdings Limited (SEHK:303),2017,1426.6
+Vtech Holdings Limited (SEHK:303),2018,1478.15
+Vtech Holdings Limited (SEHK:303),2019,1549.85
+Vtech Holdings Limited (SEHK:303),2020,1567.45
+Vtech Holdings Limited (SEHK:303),2021,1695.2
+Vtech Holdings Limited (SEHK:303),2022,1667.45
+Vtech Holdings Limited (SEHK:303),2023,9360.439999999857
+Vtech Holdings Limited (SEHK:303),2024,9691.486785714123
+Vtech Holdings Limited (SEHK:303),2025,10022.53357142839
+Vtech Holdings Limited (SEHK:303),2026,10353.580357142657
+Vtech Holdings Limited (SEHK:303),2027,10684.627142856923
+Lenovo Group Limited (SEHK:992),2016,36334.13
+Lenovo Group Limited (SEHK:992),2017,38193.67
+Lenovo Group Limited (SEHK:992),2018,42946.57
+Lenovo Group Limited (SEHK:992),2019,43456.49
+Lenovo Group Limited (SEHK:992),2020,46749.87
+Lenovo Group Limited (SEHK:992),2021,58681.93
+Lenovo Group Limited (SEHK:992),2022,54783.54
+Lenovo Group Limited (SEHK:992),2023,16181.999999999627
+Lenovo Group Limited (SEHK:992),2024,17998.535714285223
+Lenovo Group Limited (SEHK:992),2025,19815.071428570813
+Lenovo Group Limited (SEHK:992),2026,21631.607142856406
+Lenovo Group Limited (SEHK:992),2027,23448.142857142
+Continental Aktiengesellschaft (XTRA:CON),2016,31600.0
+Continental Aktiengesellschaft (XTRA:CON),2017,34625.99
+Continental Aktiengesellschaft (XTRA:CON),2018,35331.03
+Continental Aktiengesellschaft (XTRA:CON),2019,35961.17
+Continental Aktiengesellschaft (XTRA:CON),2020,25857.4
+Continental Aktiengesellschaft (XTRA:CON),2021,27612.63
+Continental Aktiengesellschaft (XTRA:CON),2022,32997.98
+Continental Aktiengesellschaft (XTRA:CON),2023,18089.562857144112
+Continental Aktiengesellschaft (XTRA:CON),2024,18393.920000001217
+Continental Aktiengesellschaft (XTRA:CON),2025,18698.277142858322
+Continental Aktiengesellschaft (XTRA:CON),2026,19002.63428571543
+Continental Aktiengesellschaft (XTRA:CON),2027,19306.991428572535
+FUJIFILM Holdings Corporation (TSE:4901),2016,9386.42
+FUJIFILM Holdings Corporation (TSE:4901),2017,9824.59
+FUJIFILM Holdings Corporation (TSE:4901),2018,9572.47
+FUJIFILM Holdings Corporation (TSE:4901),2019,9346.88
+FUJIFILM Holdings Corporation (TSE:4901),2020,8568.26
+FUJIFILM Holdings Corporation (TSE:4901),2021,9902.14
+FUJIFILM Holdings Corporation (TSE:4901),2022,11188.81
+FUJIFILM Holdings Corporation (TSE:4901),2023,44496.81142857358
+FUJIFILM Holdings Corporation (TSE:4901),2024,46552.995000002
+FUJIFILM Holdings Corporation (TSE:4901),2025,48609.17857143043
+FUJIFILM Holdings Corporation (TSE:4901),2026,50665.36214285886
+FUJIFILM Holdings Corporation (TSE:4901),2027,52721.54571428729
+Forvia SE (ENXTPA:FRVIA),2016,17808.59
+Forvia SE (ENXTPA:FRVIA),2017,15747.9
+Forvia SE (ENXTPA:FRVIA),2018,16179.1
+Forvia SE (ENXTPA:FRVIA),2019,16219.1
+Forvia SE (ENXTPA:FRVIA),2020,13762.97
+Forvia SE (ENXTPA:FRVIA),2021,14572.31
+Forvia SE (ENXTPA:FRVIA),2022,23590.56
+Forvia SE (ENXTPA:FRVIA),2023,10574.334285714012
+Forvia SE (ENXTPA:FRVIA),2024,11594.410357142518
+Forvia SE (ENXTPA:FRVIA),2025,12614.486428571025
+Forvia SE (ENXTPA:FRVIA),2026,13634.56249999953
+Forvia SE (ENXTPA:FRVIA),2027,14654.638571428035
+AB Electrolux (publ) (OM:ELUX B),2016,8590.38
+AB Electrolux (publ) (OM:ELUX B),2017,8536.77
+AB Electrolux (publ) (OM:ELUX B),2018,8504.85
+AB Electrolux (publ) (OM:ELUX B),2019,8718.04
+AB Electrolux (publ) (OM:ELUX B),2020,8399.33
+AB Electrolux (publ) (OM:ELUX B),2021,9112.78
+AB Electrolux (publ) (OM:ELUX B),2022,10505.06
+AB Electrolux (publ) (OM:ELUX B),2023,18486.785714287213
+AB Electrolux (publ) (OM:ELUX B),2024,18676.753571430076
+AB Electrolux (publ) (OM:ELUX B),2025,18866.72142857294
+AB Electrolux (publ) (OM:ELUX B),2026,19056.6892857158
+AB Electrolux (publ) (OM:ELUX B),2027,19246.657142858665
+Bruker Corporation (NasdaqGS:BRKR),2016,855.0
+Bruker Corporation (NasdaqGS:BRKR),2017,944.3
+Bruker Corporation (NasdaqGS:BRKR),2018,989.1
+Bruker Corporation (NasdaqGS:BRKR),2019,1072.0
+Bruker Corporation (NasdaqGS:BRKR),2020,1043.9
+Bruker Corporation (NasdaqGS:BRKR),2021,1204.2
+Bruker Corporation (NasdaqGS:BRKR),2022,1223.7
+Bruker Corporation (NasdaqGS:BRKR),2023,4354.9999999999045
+Bruker Corporation (NasdaqGS:BRKR),2024,4625.523571428458
+Bruker Corporation (NasdaqGS:BRKR),2025,4896.047142857012
+Bruker Corporation (NasdaqGS:BRKR),2026,5166.5707142855645
+Bruker Corporation (NasdaqGS:BRKR),2027,5437.094285714118
+iRobot Corporation (NasdaqGS:IRBT),2016,337.83
+iRobot Corporation (NasdaqGS:IRBT),2017,438.11
+iRobot Corporation (NasdaqGS:IRBT),2018,518.61
+iRobot Corporation (NasdaqGS:IRBT),2019,658.36
+iRobot Corporation (NasdaqGS:IRBT),2020,758.24
+iRobot Corporation (NasdaqGS:IRBT),2021,1013.47
+iRobot Corporation (NasdaqGS:IRBT),2022,825.47
+iRobot Corporation (NasdaqGS:IRBT),2023,60182.03571428522
+iRobot Corporation (NasdaqGS:IRBT),2024,63758.037499999264
+iRobot Corporation (NasdaqGS:IRBT),2025,67334.0392857133
+iRobot Corporation (NasdaqGS:IRBT),2026,70910.04107142735
+iRobot Corporation (NasdaqGS:IRBT),2027,74486.04285714138
+Airbus SE (ENXTPA:AIR),2016,65057.82
+Airbus SE (ENXTPA:AIR),2017,55330.5
+Airbus SE (ENXTPA:AIR),2018,58093.37
+Airbus SE (ENXTPA:AIR),2019,63631.83
+Airbus SE (ENXTPA:AIR),2020,46949.6
+Airbus SE (ENXTPA:AIR),2021,45111.94
+Airbus SE (ENXTPA:AIR),2022,51238.2
+Airbus SE (ENXTPA:AIR),2023,14193.407142856291
+Airbus SE (ENXTPA:AIR),2024,15263.43357142763
+Airbus SE (ENXTPA:AIR),2025,16333.459999998968
+Airbus SE (ENXTPA:AIR),2026,17403.486428570304
+Airbus SE (ENXTPA:AIR),2027,18473.512857141643
+Garmin Ltd. (NYSE:GRMN),2016,1357.27
+Garmin Ltd. (NYSE:GRMN),2017,1323.62
+Garmin Ltd. (NYSE:GRMN),2018,1367.73
+Garmin Ltd. (NYSE:GRMN),2019,1523.53
+Garmin Ltd. (NYSE:GRMN),2020,1705.24
+Garmin Ltd. (NYSE:GRMN),2021,2092.34
+Garmin Ltd. (NYSE:GRMN),2022,2053.51
+Garmin Ltd. (NYSE:GRMN),2023,3487.5999999999876
+Garmin Ltd. (NYSE:GRMN),2024,3123.9446428571514
+Garmin Ltd. (NYSE:GRMN),2025,2760.289285714315
+Garmin Ltd. (NYSE:GRMN),2026,2396.633928571479
+Garmin Ltd. (NYSE:GRMN),2027,2032.9785714286425
+Sandvik AB (publ) (OM:SAND),2016,4472.34
+Sandvik AB (publ) (OM:SAND),2017,4835.25
+Sandvik AB (publ) (OM:SAND),2018,5302.87
+Sandvik AB (publ) (OM:SAND),2019,5497.14
+Sandvik AB (publ) (OM:SAND),2020,4857.12
+Sandvik AB (publ) (OM:SAND),2021,4395.33
+Sandvik AB (publ) (OM:SAND),2022,6001.61
+Sandvik AB (publ) (OM:SAND),2023,63128.714285717084
+Sandvik AB (publ) (OM:SAND),2024,66214.60714285975
+Sandvik AB (publ) (OM:SAND),2025,69300.5000000024
+Sandvik AB (publ) (OM:SAND),2026,72386.39285714507
+Sandvik AB (publ) (OM:SAND),2027,75472.28571428773
+Elbit Systems Ltd. (TASE:ESLT),2016,2294.93
+Elbit Systems Ltd. (TASE:ESLT),2017,2374.78
+Elbit Systems Ltd. (TASE:ESLT),2018,2640.87
+Elbit Systems Ltd. (TASE:ESLT),2019,3316.9
+Elbit Systems Ltd. (TASE:ESLT),2020,3438.07
+Elbit Systems Ltd. (TASE:ESLT),2021,3920.47
+Elbit Systems Ltd. (TASE:ESLT),2022,4138.27
+Elbit Systems Ltd. (TASE:ESLT),2023,3439.269999999958
+Elbit Systems Ltd. (TASE:ESLT),2024,3755.859642857078
+Elbit Systems Ltd. (TASE:ESLT),2025,4072.449285714198
+Elbit Systems Ltd. (TASE:ESLT),2026,4389.038928571318
+Elbit Systems Ltd. (TASE:ESLT),2027,4705.628571428439
+Olympus Corporation (TSE:7733),2016,1678.58
+Olympus Corporation (TSE:7733),2017,1851.58
+Olympus Corporation (TSE:7733),2018,1874.18
+Olympus Corporation (TSE:7733),2019,1983.33
+Olympus Corporation (TSE:7733),2020,1836.01
+Olympus Corporation (TSE:7733),2021,1842.37
+Olympus Corporation (TSE:7733),2022,2086.45
+Olympus Corporation (TSE:7733),2023,31905.428571428045
+Olympus Corporation (TSE:7733),2024,31908.32142857092
+Olympus Corporation (TSE:7733),2025,31911.21428571379
+Olympus Corporation (TSE:7733),2026,31914.10714285666
+Olympus Corporation (TSE:7733),2027,31916.999999999534
+Schneider Electric S.E. (ENXTPA:SU),2016,16022.28
+Schneider Electric S.E. (ENXTPA:SU),2017,16175.07
+Schneider Electric S.E. (ENXTPA:SU),2018,16633.42
+Schneider Electric S.E. (ENXTPA:SU),2019,17424.93
+Schneider Electric S.E. (ENXTPA:SU),2020,15918.3
+Schneider Electric S.E. (ENXTPA:SU),2021,18102.92
+Schneider Electric S.E. (ENXTPA:SU),2022,21538.46
+Schneider Electric S.E. (ENXTPA:SU),2023,2653.3314285713977
+Schneider Electric S.E. (ENXTPA:SU),2024,2627.426071428541
+Schneider Electric S.E. (ENXTPA:SU),2025,2601.520714285684
+Schneider Electric S.E. (ENXTPA:SU),2026,2575.6153571428267
+Schneider Electric S.E. (ENXTPA:SU),2027,2549.70999999997
+Embraer S.A. (BOVESPA:EMBR3),2016,3401.11
+Embraer S.A. (BOVESPA:EMBR3),2017,3023.95
+Embraer S.A. (BOVESPA:EMBR3),2018,1421.79
+Embraer S.A. (BOVESPA:EMBR3),2019,3692.46
+Embraer S.A. (BOVESPA:EMBR3),2020,3414.73
+Embraer S.A. (BOVESPA:EMBR3),2021,3790.34
+Embraer S.A. (BOVESPA:EMBR3),2022,3712.71
+Embraer S.A. (BOVESPA:EMBR3),2023,10436.714285714153
+Embraer S.A. (BOVESPA:EMBR3),2024,10655.214285714133
+Embraer S.A. (BOVESPA:EMBR3),2025,10873.714285714115
+Embraer S.A. (BOVESPA:EMBR3),2026,11092.214285714095
+Embraer S.A. (BOVESPA:EMBR3),2027,11310.714285714077
+Roche Holding AG (SWX:ROG),2016,16717.67
+Roche Holding AG (SWX:ROG),2017,17615.69
+Roche Holding AG (SWX:ROG),2018,18315.26
+Roche Holding AG (SWX:ROG),2019,19274.26
+Roche Holding AG (SWX:ROG),2020,17584.65
+Roche Holding AG (SWX:ROG),2021,21463.89
+Roche Holding AG (SWX:ROG),2022,20619.08
+Roche Holding AG (SWX:ROG),2023,28012.142857142087
+Roche Holding AG (SWX:ROG),2024,31641.499999998978
+Roche Holding AG (SWX:ROG),2025,35270.85714285587
+Roche Holding AG (SWX:ROG),2026,38900.21428571276
+Roche Holding AG (SWX:ROG),2027,42529.57142856965
+Valeo SE (ENXTPA:FR),2016,14322.55
+Valeo SE (ENXTPA:FR),2017,15545.89
+Valeo SE (ENXTPA:FR),2018,16392.57
+Valeo SE (ENXTPA:FR),2019,17000.53
+Valeo SE (ENXTPA:FR),2020,15152.25
+Valeo SE (ENXTPA:FR),2021,15089.66
+Valeo SE (ENXTPA:FR),2022,17602.12
+Valeo SE (ENXTPA:FR),2023,1661.6000000000117
+Valeo SE (ENXTPA:FR),2024,1749.1185714285773
+Valeo SE (ENXTPA:FR),2025,1836.6371428571429
+Valeo SE (ENXTPA:FR),2026,1924.1557142857084
+Valeo SE (ENXTPA:FR),2027,2011.674285714274
+Leonardo S.p.a. (BIT:LDO),2016,7841.91
+Leonardo S.p.a. (BIT:LDO),2017,7787.8
+Leonardo S.p.a. (BIT:LDO),2018,8272.68
+Leonardo S.p.a. (BIT:LDO),2019,9216.98
+Leonardo S.p.a. (BIT:LDO),2020,9044.03
+Leonardo S.p.a. (BIT:LDO),2021,13398.41
+Leonardo S.p.a. (BIT:LDO),2022,13831.3
+Leonardo S.p.a. (BIT:LDO),2023,1166.9671428571523
+Leonardo S.p.a. (BIT:LDO),2024,1170.9832142857197
+Leonardo S.p.a. (BIT:LDO),2025,1174.9992857142872
+Leonardo S.p.a. (BIT:LDO),2026,1179.0153571428546
+Leonardo S.p.a. (BIT:LDO),2027,1183.0314285714219
+Smiths Group plc (LSE:SMIN),2016,2089.68
+Smiths Group plc (LSE:SMIN),2017,2082.4
+Smiths Group plc (LSE:SMIN),2018,1395.15
+Smiths Group plc (LSE:SMIN),2019,1879.62
+Smiths Group plc (LSE:SMIN),2020,1892.98
+Smiths Group plc (LSE:SMIN),2021,1815.27
+Smiths Group plc (LSE:SMIN),2022,2202.61
+Smiths Group plc (LSE:SMIN),2023,5288.718571428449
+Smiths Group plc (LSE:SMIN),2024,5696.306428571275
+Smiths Group plc (LSE:SMIN),2025,6103.894285714101
+Smiths Group plc (LSE:SMIN),2026,6511.482142856928
+Smiths Group plc (LSE:SMIN),2027,6919.069999999754
+Schindler Holding AG (SWX:SCHN),2016,3204.06
+Schindler Holding AG (SWX:SCHN),2017,3345.97
+Schindler Holding AG (SWX:SCHN),2018,3637.55
+Schindler Holding AG (SWX:SCHN),2019,3708.51
+Schindler Holding AG (SWX:SCHN),2020,3440.21
+Schindler Holding AG (SWX:SCHN),2021,3785.01
+Schindler Holding AG (SWX:SCHN),2022,3908.07
+Schindler Holding AG (SWX:SCHN),2023,67269.8571428555
+Schindler Holding AG (SWX:SCHN),2024,72490.39285714083
+Schindler Holding AG (SWX:SCHN),2025,77710.92857142618
+Schindler Holding AG (SWX:SCHN),2026,82931.46428571151
+Schindler Holding AG (SWX:SCHN),2027,88151.99999999684
+thyssenkrupp AG (XTRA:TKA),2016,33800.53
+thyssenkrupp AG (XTRA:TKA),2017,28429.71
+thyssenkrupp AG (XTRA:TKA),2018,37545.89
+thyssenkrupp AG (XTRA:TKA),2019,32256.76
+thyssenkrupp AG (XTRA:TKA),2020,30487.0
+thyssenkrupp AG (XTRA:TKA),2021,32916.71
+thyssenkrupp AG (XTRA:TKA),2022,37666.84
+thyssenkrupp AG (XTRA:TKA),2023,40241.185714285224
+thyssenkrupp AG (XTRA:TKA),2024,43335.21464285652
+thyssenkrupp AG (XTRA:TKA),2025,46429.2435714278
+thyssenkrupp AG (XTRA:TKA),2026,49523.2724999991
+thyssenkrupp AG (XTRA:TKA),2027,52617.30142857039
+OMRON Corporation (TSE:6645),2016,3224.34
+OMRON Corporation (TSE:6645),2017,3364.62
+OMRON Corporation (TSE:6645),2018,3413.03
+OMRON Corporation (TSE:6645),2019,2734.09
+OMRON Corporation (TSE:6645),2020,2392.17
+OMRON Corporation (TSE:6645),2021,2707.54
+OMRON Corporation (TSE:6645),2022,3118.51
+OMRON Corporation (TSE:6645),2023,22830.764285714456
+OMRON Corporation (TSE:6645),2024,23243.598928571573
+OMRON Corporation (TSE:6645),2025,23656.433571428694
+OMRON Corporation (TSE:6645),2026,24069.26821428581
+OMRON Corporation (TSE:6645),2027,24482.10285714293
+Toshiba Corporation (TSE:6502),2016,27656.48
+Toshiba Corporation (TSE:6502),2017,17668.75
+Toshiba Corporation (TSE:6502),2018,18837.43
+Toshiba Corporation (TSE:6502),2019,16915.75
+Toshiba Corporation (TSE:6502),2020,14458.55
+Toshiba Corporation (TSE:6502),2021,16207.3
+Toshiba Corporation (TSE:6502),2022,16405.97
+Toshiba Corporation (TSE:6502),2023,2345.005714285722
+Toshiba Corporation (TSE:6502),2024,2429.186071428575
+Toshiba Corporation (TSE:6502),2025,2513.366428571428
+Toshiba Corporation (TSE:6502),2026,2597.5467857142808
+Toshiba Corporation (TSE:6502),2027,2681.7271428571335
+Mitsubishi Electric Corporation (TSE:6503),2016,19926.39
+Mitsubishi Electric Corporation (TSE:6503),2017,20257.18
+Mitsubishi Electric Corporation (TSE:6503),2018,21581.7
+Mitsubishi Electric Corporation (TSE:6503),2019,21581.41
+Mitsubishi Electric Corporation (TSE:6503),2020,20063.03
+Mitsubishi Electric Corporation (TSE:6503),2021,21167.24
+Mitsubishi Electric Corporation (TSE:6503),2022,23679.03
+Mitsubishi Electric Corporation (TSE:6503),2023,4733.571428571213
+Mitsubishi Electric Corporation (TSE:6503),2024,4958.607142856914
+Mitsubishi Electric Corporation (TSE:6503),2025,5183.642857142615
+Mitsubishi Electric Corporation (TSE:6503),2026,5408.678571428316
+Mitsubishi Electric Corporation (TSE:6503),2027,5633.714285714017
+Dassault Aviation société anonyme (ENXTPA:AM),2016,2175.68
+Dassault Aviation société anonyme (ENXTPA:AM),2017,3364.27
+Dassault Aviation société anonyme (ENXTPA:AM),2018,3543.33
+Dassault Aviation société anonyme (ENXTPA:AM),2019,5315.99
+Dassault Aviation société anonyme (ENXTPA:AM),2020,4254.57
+Dassault Aviation société anonyme (ENXTPA:AM),2021,5165.3
+Dassault Aviation société anonyme (ENXTPA:AM),2022,5121.73
+Dassault Aviation société anonyme (ENXTPA:AM),2023,5676.571428571404
+Dassault Aviation société anonyme (ENXTPA:AM),2024,5851.107142857101
+Dassault Aviation société anonyme (ENXTPA:AM),2025,6025.6428571428
+Dassault Aviation société anonyme (ENXTPA:AM),2026,6200.178571428498
+Dassault Aviation société anonyme (ENXTPA:AM),2027,6374.714285714195
+DENSO Corporation (TSE:6902),2016,24944.01
+DENSO Corporation (TSE:6902),2017,27357.98
+DENSO Corporation (TSE:6902),2018,30456.81
+DENSO Corporation (TSE:6902),2019,30327.03
+DENSO Corporation (TSE:6902),2020,27928.12
+DENSO Corporation (TSE:6902),2021,30863.64
+DENSO Corporation (TSE:6902),2022,35511.58
+DENSO Corporation (TSE:6902),2023,15498.521428571841
+DENSO Corporation (TSE:6902),2024,15839.177142857543
+DENSO Corporation (TSE:6902),2025,16179.832857143245
+DENSO Corporation (TSE:6902),2026,16520.48857142895
+DENSO Corporation (TSE:6902),2027,16861.14428571465
+BAE Systems plc (LSE:BA.),2016,8757.0
+BAE Systems plc (LSE:BA.),2017,7388.56
+BAE Systems plc (LSE:BA.),2018,7191.86
+BAE Systems plc (LSE:BA.),2019,7894.9
+BAE Systems plc (LSE:BA.),2020,8334.45
+BAE Systems plc (LSE:BA.),2021,8563.94
+BAE Systems plc (LSE:BA.),2022,8736.36
+BAE Systems plc (LSE:BA.),2023,1583.4442857144118
+BAE Systems plc (LSE:BA.),2024,1629.560000000125
+BAE Systems plc (LSE:BA.),2025,1675.6757142858382
+BAE Systems plc (LSE:BA.),2026,1721.7914285715515
+BAE Systems plc (LSE:BA.),2027,1767.9071428572647
+"Fuji Electric Co., Ltd. (TSE:6504)",2016,4173.07
+"Fuji Electric Co., Ltd. (TSE:6504)",2017,4377.58
+"Fuji Electric Co., Ltd. (TSE:6504)",2018,4563.2
+"Fuji Electric Co., Ltd. (TSE:6504)",2019,4528.0
+"Fuji Electric Co., Ltd. (TSE:6504)",2020,4282.34
+"Fuji Electric Co., Ltd. (TSE:6504)",2021,4636.2
+"Fuji Electric Co., Ltd. (TSE:6504)",2022,4759.82
+"Fuji Electric Co., Ltd. (TSE:6504)",2023,497.8771428571137
+"Fuji Electric Co., Ltd. (TSE:6504)",2024,528.5460714285398
+"Fuji Electric Co., Ltd. (TSE:6504)",2025,559.2149999999658
+"Fuji Electric Co., Ltd. (TSE:6504)",2026,589.8839285713918
+"Fuji Electric Co., Ltd. (TSE:6504)",2027,620.5528571428179
+Nikon Corporation (TSE:7731),2016,3072.61
+Nikon Corporation (TSE:7731),2017,2741.34
+Nikon Corporation (TSE:7731),2018,2712.07
+Nikon Corporation (TSE:7731),2019,2543.48
+Nikon Corporation (TSE:7731),2020,2076.54
+Nikon Corporation (TSE:7731),2021,2068.33
+Nikon Corporation (TSE:7731),2022,2138.73
+Nikon Corporation (TSE:7731),2023,2036.7142857141896
+Nikon Corporation (TSE:7731),2024,2025.71428571419
+Nikon Corporation (TSE:7731),2025,2014.7142857141907
+Nikon Corporation (TSE:7731),2026,2003.7142857141912
+Nikon Corporation (TSE:7731),2027,1992.7142857141916
+"Casio Computer Co.,Ltd. (TSE:6952)",2016,1279.75
+"Casio Computer Co.,Ltd. (TSE:6952)",2017,1222.91
+"Casio Computer Co.,Ltd. (TSE:6952)",2018,1136.62
+"Casio Computer Co.,Ltd. (TSE:6952)",2019,1143.72
+"Casio Computer Co.,Ltd. (TSE:6952)",2020,869.77
+"Casio Computer Co.,Ltd. (TSE:6952)",2021,959.14
+"Casio Computer Co.,Ltd. (TSE:6952)",2022,994.7
+"Casio Computer Co.,Ltd. (TSE:6952)",2023,689.6000000000408
+"Casio Computer Co.,Ltd. (TSE:6952)",2024,704.1117857143262
+"Casio Computer Co.,Ltd. (TSE:6952)",2025,718.6235714286114
+"Casio Computer Co.,Ltd. (TSE:6952)",2026,733.1353571428966
+"Casio Computer Co.,Ltd. (TSE:6952)",2027,747.647142857182
+"Konica Minolta, Inc. (TSE:4902)",2016,3362.09
+"Konica Minolta, Inc. (TSE:4902)",2017,3585.85
+"Konica Minolta, Inc. (TSE:4902)",2018,3678.95
+"Konica Minolta, Inc. (TSE:4902)",2019,3639.73
+"Konica Minolta, Inc. (TSE:4902)",2020,3272.15
+"Konica Minolta, Inc. (TSE:4902)",2021,3415.85
+"Konica Minolta, Inc. (TSE:4902)",2022,4135.6
+"Konica Minolta, Inc. (TSE:4902)",2023,1795.7014285716211
+"Konica Minolta, Inc. (TSE:4902)",2024,1624.873214285916
+"Konica Minolta, Inc. (TSE:4902)",2025,1454.0450000002108
+"Konica Minolta, Inc. (TSE:4902)",2026,1283.2167857145057
+"Konica Minolta, Inc. (TSE:4902)",2027,1112.3885714288006
+GEA Group Aktiengesellschaft (XTRA:G1A),2016,3291.78
+GEA Group Aktiengesellschaft (XTRA:G1A),2017,3364.85
+GEA Group Aktiengesellschaft (XTRA:G1A),2018,3630.46
+GEA Group Aktiengesellschaft (XTRA:G1A),2019,3691.28
+GEA Group Aktiengesellschaft (XTRA:G1A),2020,3403.46
+GEA Group Aktiengesellschaft (XTRA:G1A),2021,3327.8
+GEA Group Aktiengesellschaft (XTRA:G1A),2022,3618.06
+GEA Group Aktiengesellschaft (XTRA:G1A),2023,7458.349999999866
+GEA Group Aktiengesellschaft (XTRA:G1A),2024,8037.231071428429
+GEA Group Aktiengesellschaft (XTRA:G1A),2025,8616.112142856991
+GEA Group Aktiengesellschaft (XTRA:G1A),2026,9194.993214285554
+GEA Group Aktiengesellschaft (XTRA:G1A),2027,9773.874285714119
+"Oki Electric Industry Co., Ltd. (TSE:6703)",2016,2302.64
+"Oki Electric Industry Co., Ltd. (TSE:6703)",2017,2235.55
+"Oki Electric Industry Co., Ltd. (TSE:6703)",2018,2145.49
+"Oki Electric Industry Co., Ltd. (TSE:6703)",2019,2336.46
+"Oki Electric Industry Co., Ltd. (TSE:6703)",2020,1990.53
+"Oki Electric Industry Co., Ltd. (TSE:6703)",2021,1844.84
+"Oki Electric Industry Co., Ltd. (TSE:6703)",2022,1851.0
+"Oki Electric Industry Co., Ltd. (TSE:6703)",2023,6077.711428571487
+"Oki Electric Industry Co., Ltd. (TSE:6703)",2024,6523.097142857205
+"Oki Electric Industry Co., Ltd. (TSE:6703)",2025,6968.482857142923
+"Oki Electric Industry Co., Ltd. (TSE:6703)",2026,7413.868571428642
+"Oki Electric Industry Co., Ltd. (TSE:6703)",2027,7859.254285714361
+SEB SA (ENXTPA:SK),2016,4629.81
+SEB SA (ENXTPA:SK),2017,6036.71
+SEB SA (ENXTPA:SK),2018,6359.58
+SEB SA (ENXTPA:SK),2019,6895.7
+SEB SA (ENXTPA:SK),2020,6568.59
+SEB SA (ENXTPA:SK),2021,7471.83
+SEB SA (ENXTPA:SK),2022,7602.02
+SEB SA (ENXTPA:SK),2023,32752.142857143226
+SEB SA (ENXTPA:SK),2024,34669.60714285741
+SEB SA (ENXTPA:SK),2025,36587.07142857158
+SEB SA (ENXTPA:SK),2026,38504.53571428576
+SEB SA (ENXTPA:SK),2027,40421.99999999994
+Fanuc Corporation (TSE:6954),2016,1969.55
+Fanuc Corporation (TSE:6954),2017,2540.13
+Fanuc Corporation (TSE:6954),2018,2602.73
+Fanuc Corporation (TSE:6954),2019,2220.87
+Fanuc Corporation (TSE:6954),2020,2175.17
+Fanuc Corporation (TSE:6954),2021,2839.86
+Fanuc Corporation (TSE:6954),2022,3390.05
+Fanuc Corporation (TSE:6954),2023,2614.541428571621
+Fanuc Corporation (TSE:6954),2024,2519.8089285716283
+Fanuc Corporation (TSE:6954),2025,2425.0764285716355
+Fanuc Corporation (TSE:6954),2026,2330.3439285716427
+Fanuc Corporation (TSE:6954),2027,2235.61142857165
+Shimadzu Corporation (TSE:7701),2016,1359.7
+Shimadzu Corporation (TSE:7701),2017,1499.96
+Shimadzu Corporation (TSE:7701),2018,1571.59
+Shimadzu Corporation (TSE:7701),2019,1577.93
+Shimadzu Corporation (TSE:7701),2020,1549.23
+Shimadzu Corporation (TSE:7701),2021,1658.87
+Shimadzu Corporation (TSE:7701),2022,1808.17
+Shimadzu Corporation (TSE:7701),2023,1773.6014285716353
+Shimadzu Corporation (TSE:7701),2024,1691.7692857144984
+Shimadzu Corporation (TSE:7701),2025,1609.9371428573618
+Shimadzu Corporation (TSE:7701),2026,1528.1050000002251
+Shimadzu Corporation (TSE:7701),2027,1446.2728571430885
+"Alps Alpine Co., Ltd. (TSE:6770)",2016,3992.03
+"Alps Alpine Co., Ltd. (TSE:6770)",2017,4417.39
+"Alps Alpine Co., Ltd. (TSE:6770)",2018,4560.85
+"Alps Alpine Co., Ltd. (TSE:6770)",2019,4683.28
+"Alps Alpine Co., Ltd. (TSE:6770)",2020,4047.48
+"Alps Alpine Co., Ltd. (TSE:6770)",2021,4307.69
+"Alps Alpine Co., Ltd. (TSE:6770)",2022,4960.23
+"Alps Alpine Co., Ltd. (TSE:6770)",2023,2045.6457142858528
+"Alps Alpine Co., Ltd. (TSE:6770)",2024,2087.3250000001376
+"Alps Alpine Co., Ltd. (TSE:6770)",2025,2129.004285714422
+"Alps Alpine Co., Ltd. (TSE:6770)",2026,2170.683571428707
+"Alps Alpine Co., Ltd. (TSE:6770)",2027,2212.3628571429917
+JVCKENWOOD Corporation (TSE:6632),2016,1433.45
+JVCKENWOOD Corporation (TSE:6632),2017,1477.77
+JVCKENWOOD Corporation (TSE:6632),2018,1491.03
+JVCKENWOOD Corporation (TSE:6632),2019,1471.75
+JVCKENWOOD Corporation (TSE:6632),2020,1309.99
+JVCKENWOOD Corporation (TSE:6632),2021,1335.82
+JVCKENWOOD Corporation (TSE:6632),2022,1616.88
+JVCKENWOOD Corporation (TSE:6632),2023,10000.000000000058
+JVCKENWOOD Corporation (TSE:6632),2024,10415.535714285741
+JVCKENWOOD Corporation (TSE:6632),2025,10831.071428571426
+JVCKENWOOD Corporation (TSE:6632),2026,11246.607142857109
+JVCKENWOOD Corporation (TSE:6632),2027,11662.142857142791
+Agfa-Gevaert NV (ENXTBR:AGFB),2016,1782.49
+Agfa-Gevaert NV (ENXTBR:AGFB),2017,1728.38
+Agfa-Gevaert NV (ENXTBR:AGFB),2018,1572.41
+Agfa-Gevaert NV (ENXTBR:AGFB),2019,1470.56
+Agfa-Gevaert NV (ENXTBR:AGFB),2020,1289.12
+Agfa-Gevaert NV (ENXTBR:AGFB),2021,1340.05
+Agfa-Gevaert NV (ENXTBR:AGFB),2022,1410.08
+Agfa-Gevaert NV (ENXTBR:AGFB),2023,36823.61857143173
+Agfa-Gevaert NV (ENXTBR:AGFB),2024,36988.697500003174
+Agfa-Gevaert NV (ENXTBR:AGFB),2025,37153.77642857462
+Agfa-Gevaert NV (ENXTBR:AGFB),2026,37318.855357146065
+Agfa-Gevaert NV (ENXTBR:AGFB),2027,37483.934285717514
+Aisin Corporation (TSE:7259),2016,19840.67
+Aisin Corporation (TSE:7259),2017,22072.9
+Aisin Corporation (TSE:7259),2018,23594.84
+Aisin Corporation (TSE:7259),2019,23294.26
+Aisin Corporation (TSE:7259),2020,20789.11
+Aisin Corporation (TSE:7259),2021,22739.76
+Aisin Corporation (TSE:7259),2022,25977.99
+Aisin Corporation (TSE:7259),2023,147.49428571428436
+Aisin Corporation (TSE:7259),2024,158.232499999998
+Aisin Corporation (TSE:7259),2025,168.97071428571164
+Aisin Corporation (TSE:7259),2026,179.7089285714253
+Aisin Corporation (TSE:7259),2027,190.44714285713894
+Safran SA (ENXTPA:SAF),2016,9114.06
+Safran SA (ENXTPA:SAF),2017,9275.33
+Safran SA (ENXTPA:SAF),2018,12637.67
+Safran SA (ENXTPA:SAF),2019,14299.2
+Safran SA (ENXTPA:SAF),2020,9528.91
+Safran SA (ENXTPA:SAF),2021,8205.84
+Safran SA (ENXTPA:SAF),2022,10897.61
+Safran SA (ENXTPA:SAF),2023,12056.767142857303
+Safran SA (ENXTPA:SAF),2024,12465.503214285862
+Safran SA (ENXTPA:SAF),2025,12874.23928571442
+Safran SA (ENXTPA:SAF),2026,13282.975357142981
+Safran SA (ENXTPA:SAF),2027,13691.71142857154
+Yamaha Corporation (TSE:7951),2016,1630.0
+Yamaha Corporation (TSE:7951),2017,1720.72
+Yamaha Corporation (TSE:7951),2018,1716.84
+Yamaha Corporation (TSE:7951),2019,1688.39
+Yamaha Corporation (TSE:7951),2020,1504.95
+Yamaha Corporation (TSE:7951),2021,1662.61
+Yamaha Corporation (TSE:7951),2022,1844.86
+Yamaha Corporation (TSE:7951),2023,11189.142857142455
+Yamaha Corporation (TSE:7951),2024,12580.857142856645
+Yamaha Corporation (TSE:7951),2025,13972.571428570835
+Yamaha Corporation (TSE:7951),2026,15364.285714285024
+Yamaha Corporation (TSE:7951),2027,16755.999999999214
+Advantest Corporation (TSE:6857),2016,414.78
+Advantest Corporation (TSE:6857),2017,627.29
+Advantest Corporation (TSE:6857),2018,864.76
+Advantest Corporation (TSE:6857),2019,787.46
+Advantest Corporation (TSE:6857),2020,897.67
+Advantest Corporation (TSE:6857),2021,1157.34
+Advantest Corporation (TSE:6857),2022,1495.09
+Advantest Corporation (TSE:6857),2023,2871.082857142723
+Advantest Corporation (TSE:6857),2024,3112.1989285712793
+Advantest Corporation (TSE:6857),2025,3353.314999999836
+Advantest Corporation (TSE:6857),2026,3594.4310714283924
+Advantest Corporation (TSE:6857),2027,3835.547142856949
+Yokogawa Electric Corporation (TSE:6841),2016,1485.22
+Yokogawa Electric Corporation (TSE:6841),2017,1558.93
+Yokogawa Electric Corporation (TSE:6841),2018,1553.31
+Yokogawa Electric Corporation (TSE:6841),2019,1526.24
+Yokogawa Electric Corporation (TSE:6841),2020,1435.11
+Yokogawa Electric Corporation (TSE:6841),2021,1450.9
+Yokogawa Electric Corporation (TSE:6841),2022,1592.1
+Yokogawa Electric Corporation (TSE:6841),2023,53243.0000000049
+Yokogawa Electric Corporation (TSE:6841),2024,55806.85714286175
+Yokogawa Electric Corporation (TSE:6841),2025,58370.714285718605
+Yokogawa Electric Corporation (TSE:6841),2026,60934.571428575466
+Yokogawa Electric Corporation (TSE:6841),2027,63498.42857143232
+"Daikin Industries,Ltd. (TSE:6367)",2016,8624.17
+"Daikin Industries,Ltd. (TSE:6367)",2017,9790.51
+"Daikin Industries,Ltd. (TSE:6367)",2018,10672.61
+"Daikin Industries,Ltd. (TSE:6367)",2019,11150.49
+"Daikin Industries,Ltd. (TSE:6367)",2020,10682.67
+"Daikin Industries,Ltd. (TSE:6367)",2021,13000.97
+"Daikin Industries,Ltd. (TSE:6367)",2022,16999.58
+"Daikin Industries,Ltd. (TSE:6367)",2023,4710.142857142878
+"Daikin Industries,Ltd. (TSE:6367)",2024,4959.535714285717
+"Daikin Industries,Ltd. (TSE:6367)",2025,5208.928571428556
+"Daikin Industries,Ltd. (TSE:6367)",2026,5458.321428571395
+"Daikin Industries,Ltd. (TSE:6367)",2027,5707.714285714234
+"Nintendo Co., Ltd. (TSE:7974)",2016,1422.79
+"Nintendo Co., Ltd. (TSE:7974)",2017,4357.51
+"Nintendo Co., Ltd. (TSE:7974)",2018,4758.54
+"Nintendo Co., Ltd. (TSE:7974)",2019,4477.39
+"Nintendo Co., Ltd. (TSE:7974)",2020,5001.48
+"Nintendo Co., Ltd. (TSE:7974)",2021,4955.16
+"Nintendo Co., Ltd. (TSE:7974)",2022,5100.31
+"Nintendo Co., Ltd. (TSE:7974)",2023,1298.300000000021
+"Nintendo Co., Ltd. (TSE:7974)",2024,1310.7292857143084
+"Nintendo Co., Ltd. (TSE:7974)",2025,1323.1585714285955
+"Nintendo Co., Ltd. (TSE:7974)",2026,1335.5878571428827
+"Nintendo Co., Ltd. (TSE:7974)",2027,1348.01714285717
+HELLA GmbH & Co. KGaA (XTRA:HLE),2016,4907.99
+HELLA GmbH & Co. KGaA (XTRA:HLE),2017,5236.8
+HELLA GmbH & Co. KGaA (XTRA:HLE),2018,5455.04
+HELLA GmbH & Co. KGaA (XTRA:HLE),2019,5402.25
+HELLA GmbH & Co. KGaA (XTRA:HLE),2020,4683.96
+HELLA GmbH & Co. KGaA (XTRA:HLE),2021,5092.8
+HELLA GmbH & Co. KGaA (XTRA:HLE),2022,6842.51
+HELLA GmbH & Co. KGaA (XTRA:HLE),2023,8088.021428571326
+HELLA GmbH & Co. KGaA (XTRA:HLE),2024,8041.558571428474
+HELLA GmbH & Co. KGaA (XTRA:HLE),2025,7995.095714285622
+HELLA GmbH & Co. KGaA (XTRA:HLE),2026,7948.63285714277
+HELLA GmbH & Co. KGaA (XTRA:HLE),2027,7902.169999999918
+LG Electronics Inc. (KOSE:A066570),2016,30871.57
+LG Electronics Inc. (KOSE:A066570),2017,34658.94
+LG Electronics Inc. (KOSE:A066570),2018,34305.26
+LG Electronics Inc. (KOSE:A066570),2019,34831.76
+LG Electronics Inc. (KOSE:A066570),2020,31552.99
+LG Electronics Inc. (KOSE:A066570),2021,40794.06
+LG Electronics Inc. (KOSE:A066570),2022,46889.96
+LG Electronics Inc. (KOSE:A066570),2023,21465.788571428522
+LG Electronics Inc. (KOSE:A066570),2024,22132.574999999913
+LG Electronics Inc. (KOSE:A066570),2025,22799.3614285713
+LG Electronics Inc. (KOSE:A066570),2026,23466.147857142692
+LG Electronics Inc. (KOSE:A066570),2027,24132.93428571408
+Techtronic Industries Company Limited (SEHK:669),2016,3495.23
+Techtronic Industries Company Limited (SEHK:669),2017,3837.43
+Techtronic Industries Company Limited (SEHK:669),2018,4406.61
+Techtronic Industries Company Limited (SEHK:669),2019,4774.07
+Techtronic Industries Company Limited (SEHK:669),2020,6058.86
+Techtronic Industries Company Limited (SEHK:669),2021,8081.55
+Techtronic Industries Company Limited (SEHK:669),2022,8041.34
+Techtronic Industries Company Limited (SEHK:669),2023,4621.757142857261
+Techtronic Industries Company Limited (SEHK:669),2024,4794.585714285821
+Techtronic Industries Company Limited (SEHK:669),2025,4967.414285714382
+Techtronic Industries Company Limited (SEHK:669),2026,5140.242857142942
+Techtronic Industries Company Limited (SEHK:669),2027,5313.071428571502
+Endress+Hauser AG,2016,644.5
+Endress+Hauser AG,2017,646.39
+Endress+Hauser AG,2018,691.42
+Endress+Hauser AG,2019,771.41
+Endress+Hauser AG,2020,743.03
+Endress+Hauser AG,2021,844.2
+Endress+Hauser AG,2022,997.43
+Endress+Hauser AG,2023,12250.150000000996
+Endress+Hauser AG,2024,11643.990714286792
+Endress+Hauser AG,2025,11037.831428572586
+Endress+Hauser AG,2026,10431.672142858382
+Endress+Hauser AG,2027,9825.512857144178
+Acer Incorporated (TWSE:2353),2016,6471.2
+Acer Incorporated (TWSE:2353),2017,6545.39
+Acer Incorporated (TWSE:2353),2018,6685.27
+Acer Incorporated (TWSE:2353),2019,6472.96
+Acer Incorporated (TWSE:2353),2020,7628.89
+Acer Incorporated (TWSE:2353),2021,8704.42
+Acer Incorporated (TWSE:2353),2022,7588.31
+Acer Incorporated (TWSE:2353),2023,1438.9571428571724
+Acer Incorporated (TWSE:2353),2024,1408.0250000000356
+Acer Incorporated (TWSE:2353),2025,1377.092857142899
+Acer Incorporated (TWSE:2353),2026,1346.1607142857622
+Acer Incorporated (TWSE:2353),2027,1315.2285714286254
+JTEKT Corporation (TSE:6473),2016,7397.5
+JTEKT Corporation (TSE:6473),2017,7845.41
+JTEKT Corporation (TSE:6473),2018,8481.9
+JTEKT Corporation (TSE:6473),2019,8351.36
+JTEKT Corporation (TSE:6473),2020,7192.91
+JTEKT Corporation (TSE:6473),2021,7857.96
+JTEKT Corporation (TSE:6473),2022,9361.36
+JTEKT Corporation (TSE:6473),2023,8222.87428571472
+JTEKT Corporation (TSE:6473),2024,8651.298571428993
+JTEKT Corporation (TSE:6473),2025,9079.722857143264
+JTEKT Corporation (TSE:6473),2026,9508.147142857535
+JTEKT Corporation (TSE:6473),2027,9936.571428571808
+"Samsung SDI Co., Ltd. (KOSE:A006400)",2016,3300.15
+"Samsung SDI Co., Ltd. (KOSE:A006400)",2017,3841.87
+"Samsung SDI Co., Ltd. (KOSE:A006400)",2018,5278.6
+"Samsung SDI Co., Ltd. (KOSE:A006400)",2019,5845.2
+"Samsung SDI Co., Ltd. (KOSE:A006400)",2020,6610.47
+"Samsung SDI Co., Ltd. (KOSE:A006400)",2021,7768.34
+"Samsung SDI Co., Ltd. (KOSE:A006400)",2022,11793.35
+"Samsung SDI Co., Ltd. (KOSE:A006400)",2023,715.6142857143005
+"Samsung SDI Co., Ltd. (KOSE:A006400)",2024,663.317857142875
+"Samsung SDI Co., Ltd. (KOSE:A006400)",2025,611.0214285714494
+"Samsung SDI Co., Ltd. (KOSE:A006400)",2026,558.7250000000238
+"Samsung SDI Co., Ltd. (KOSE:A006400)",2027,506.4285714285983
+"HORIBA, Ltd. (TSE:6856)",2016,672.82
+"HORIBA, Ltd. (TSE:6856)",2017,751.72
+"HORIBA, Ltd. (TSE:6856)",2018,808.88
+"HORIBA, Ltd. (TSE:6856)",2019,788.72
+"HORIBA, Ltd. (TSE:6856)",2020,741.94
+"HORIBA, Ltd. (TSE:6856)",2021,879.02
+"HORIBA, Ltd. (TSE:6856)",2022,1029.01
+"HORIBA, Ltd. (TSE:6856)",2023,10580.218571429179
+"HORIBA, Ltd. (TSE:6856)",2024,10583.893928572066
+"HORIBA, Ltd. (TSE:6856)",2025,10587.569285714953
+"HORIBA, Ltd. (TSE:6856)",2026,10591.24464285784
+"HORIBA, Ltd. (TSE:6856)",2027,10594.920000000728
+Nihon Kohden Corporation (TSE:6849),2016,567.42
+Nihon Kohden Corporation (TSE:6849),2017,610.35
+Nihon Kohden Corporation (TSE:6849),2018,618.0
+Nihon Kohden Corporation (TSE:6849),2019,655.09
+Nihon Kohden Corporation (TSE:6849),2020,651.3
+Nihon Kohden Corporation (TSE:6849),2021,660.14
+Nihon Kohden Corporation (TSE:6849),2022,658.57
+Nihon Kohden Corporation (TSE:6849),2023,140449.35999999905
+Nihon Kohden Corporation (TSE:6849),2024,148278.89464285565
+Nihon Kohden Corporation (TSE:6849),2025,156108.42928571222
+Nihon Kohden Corporation (TSE:6849),2026,163937.96392856882
+Nihon Kohden Corporation (TSE:6849),2027,171767.49857142539
+Anritsu Corporation (TSE:6754),2016,298.93
+Anritsu Corporation (TSE:6754),2017,298.95
+Anritsu Corporation (TSE:6754),2018,314.29
+Anritsu Corporation (TSE:6754),2019,330.13
+Anritsu Corporation (TSE:6754),2020,327.46
+Anritsu Corporation (TSE:6754),2021,334.56
+Anritsu Corporation (TSE:6754),2022,371.15
+Anritsu Corporation (TSE:6754),2023,11300.341428571397
+Anritsu Corporation (TSE:6754),2024,12538.356071428449
+Anritsu Corporation (TSE:6754),2025,13776.3707142855
+Anritsu Corporation (TSE:6754),2026,15014.385357142552
+Anritsu Corporation (TSE:6754),2027,16252.399999999603
+"Delta Electronics, Inc. (TWSE:2308)",2016,4783.23
+"Delta Electronics, Inc. (TWSE:2308)",2017,5028.7
+"Delta Electronics, Inc. (TWSE:2308)",2018,5357.78
+"Delta Electronics, Inc. (TWSE:2308)",2019,5980.83
+"Delta Electronics, Inc. (TWSE:2308)",2020,6035.12
+"Delta Electronics, Inc. (TWSE:2308)",2021,6932.95
+"Delta Electronics, Inc. (TWSE:2308)",2022,8452.89
+"Delta Electronics, Inc. (TWSE:2308)",2023,5517.697142857407
+"Delta Electronics, Inc. (TWSE:2308)",2024,5634.205000000262
+"Delta Electronics, Inc. (TWSE:2308)",2025,5750.712857143118
+"Delta Electronics, Inc. (TWSE:2308)",2026,5867.2207142859725
+"Delta Electronics, Inc. (TWSE:2308)",2027,5983.728571428827
+Lite-On Technology Corporation (TWSE:2301),2016,6125.32
+Lite-On Technology Corporation (TWSE:2301),2017,5771.39
+Lite-On Technology Corporation (TWSE:2301),2018,5559.89
+Lite-On Technology Corporation (TWSE:2301),2019,4652.1
+Lite-On Technology Corporation (TWSE:2301),2020,4007.6
+Lite-On Technology Corporation (TWSE:2301),2021,4149.07
+Lite-On Technology Corporation (TWSE:2301),2022,4330.18
+Lite-On Technology Corporation (TWSE:2301),2023,3974.5928571430686
+Lite-On Technology Corporation (TWSE:2301),2024,4074.3346428573495
+Lite-On Technology Corporation (TWSE:2301),2025,4174.0764285716305
+Lite-On Technology Corporation (TWSE:2301),2026,4273.818214285912
+Lite-On Technology Corporation (TWSE:2301),2027,4373.560000000193
+Sonova Holding AG (SWX:SOON),2016,800.8
+Sonova Holding AG (SWX:SOON),2017,856.57
+Sonova Holding AG (SWX:SOON),2018,875.87
+Sonova Holding AG (SWX:SOON),2019,909.44
+Sonova Holding AG (SWX:SOON),2020,812.66
+Sonova Holding AG (SWX:SOON),2021,950.24
+Sonova Holding AG (SWX:SOON),2022,1183.73
+Sonova Holding AG (SWX:SOON),2023,20819.285714287096
+Sonova Holding AG (SWX:SOON),2024,19923.857142858644
+Sonova Holding AG (SWX:SOON),2025,19028.42857143019
+Sonova Holding AG (SWX:SOON),2026,18133.00000000174
+Sonova Holding AG (SWX:SOON),2027,17237.571428573287
+"Konka Group Co., Ltd. (SZSE:000016)",2016,2414.88
+"Konka Group Co., Ltd. (SZSE:000016)",2017,3821.47
+"Konka Group Co., Ltd. (SZSE:000016)",2018,5929.89
+"Konka Group Co., Ltd. (SZSE:000016)",2019,7156.25
+"Konka Group Co., Ltd. (SZSE:000016)",2020,6531.64
+"Konka Group Co., Ltd. (SZSE:000016)",2021,6503.48
+"Konka Group Co., Ltd. (SZSE:000016)",2022,3957.89
+"Konka Group Co., Ltd. (SZSE:000016)",2023,20214.92857142795
+"Konka Group Co., Ltd. (SZSE:000016)",2024,20918.111428570748
+"Konka Group Co., Ltd. (SZSE:000016)",2025,21621.294285713546
+"Konka Group Co., Ltd. (SZSE:000016)",2026,22324.477142856344
+"Konka Group Co., Ltd. (SZSE:000016)",2027,23027.65999999914
+GN Store Nord A/S (CPSE:GN),2016,461.8
+GN Store Nord A/S (CPSE:GN),2017,508.26
+GN Store Nord A/S (CPSE:GN),2018,573.06
+GN Store Nord A/S (CPSE:GN),2019,709.32
+GN Store Nord A/S (CPSE:GN),2020,875.43
+GN Store Nord A/S (CPSE:GN),2021,1007.86
+GN Store Nord A/S (CPSE:GN),2022,1321.88
+GN Store Nord A/S (CPSE:GN),2023,7471.142857143719
+GN Store Nord A/S (CPSE:GN),2024,7422.285714286576
+GN Store Nord A/S (CPSE:GN),2025,7373.428571429432
+GN Store Nord A/S (CPSE:GN),2026,7324.571428572289
+GN Store Nord A/S (CPSE:GN),2027,7275.714285715146
+Honeywell International Inc. (NasdaqGS:HON),2016,27677.0
+Honeywell International Inc. (NasdaqGS:HON),2017,28144.0
+Honeywell International Inc. (NasdaqGS:HON),2018,29046.0
+Honeywell International Inc. (NasdaqGS:HON),2019,24339.0
+Honeywell International Inc. (NasdaqGS:HON),2020,22169.0
+Honeywell International Inc. (NasdaqGS:HON),2021,23394.0
+Honeywell International Inc. (NasdaqGS:HON),2022,23825.0
+Honeywell International Inc. (NasdaqGS:HON),2023,5128.652857143069
+Honeywell International Inc. (NasdaqGS:HON),2024,5242.198571428775
+Honeywell International Inc. (NasdaqGS:HON),2025,5355.7442857144815
+Honeywell International Inc. (NasdaqGS:HON),2026,5469.290000000187
+Honeywell International Inc. (NasdaqGS:HON),2027,5582.835714285893
+HannStar Display Corporation (TWSE:6116),2016,523.22
+HannStar Display Corporation (TWSE:6116),2017,466.33
+HannStar Display Corporation (TWSE:6116),2018,416.14
+HannStar Display Corporation (TWSE:6116),2019,441.83
+HannStar Display Corporation (TWSE:6116),2020,475.14
+HannStar Display Corporation (TWSE:6116),2021,555.26
+HannStar Display Corporation (TWSE:6116),2022,507.6
+HannStar Display Corporation (TWSE:6116),2023,14649.408571428961
+HannStar Display Corporation (TWSE:6116),2024,15001.70428571466
+HannStar Display Corporation (TWSE:6116),2025,15354.000000000362
+HannStar Display Corporation (TWSE:6116),2026,15706.295714286061
+HannStar Display Corporation (TWSE:6116),2027,16058.59142857176
+Knorr-Bremse AG (XTRA:KBX),2016,2724.32
+Knorr-Bremse AG (XTRA:KBX),2017,3263.22
+Knorr-Bremse AG (XTRA:KBX),2018,3589.01
+Knorr-Bremse AG (XTRA:KBX),2019,3744.72
+Knorr-Bremse AG (XTRA:KBX),2020,3252.57
+Knorr-Bremse AG (XTRA:KBX),2021,3637.54
+Knorr-Bremse AG (XTRA:KBX),2022,4080.19
+Knorr-Bremse AG (XTRA:KBX),2023,5994.527142857126
+Knorr-Bremse AG (XTRA:KBX),2024,6683.0435714285095
+Knorr-Bremse AG (XTRA:KBX),2025,7371.559999999893
+Knorr-Bremse AG (XTRA:KBX),2026,8060.076428571277
+Knorr-Bremse AG (XTRA:KBX),2027,8748.592857142661
+AUO Corporation (TWSE:2409),2016,9099.27
+AUO Corporation (TWSE:2409),2017,8647.97
+AUO Corporation (TWSE:2409),2018,8632.78
+AUO Corporation (TWSE:2409),2019,8288.11
+AUO Corporation (TWSE:2409),2020,7665.86
+AUO Corporation (TWSE:2409),2021,8645.83
+AUO Corporation (TWSE:2409),2022,7574.29
+AUO Corporation (TWSE:2409),2023,1809.474285714368
+AUO Corporation (TWSE:2409),2024,1868.0767857143653
+AUO Corporation (TWSE:2409),2025,1926.6792857143625
+AUO Corporation (TWSE:2409),2026,1985.2817857143598
+AUO Corporation (TWSE:2409),2027,2043.884285714357
+Skyworth Group Limited (SEHK:751),2016,4360.59
+Skyworth Group Limited (SEHK:751),2017,4301.87
+Skyworth Group Limited (SEHK:751),2018,4472.95
+Skyworth Group Limited (SEHK:751),2019,4071.35
+Skyworth Group Limited (SEHK:751),2020,4502.62
+Skyworth Group Limited (SEHK:751),2021,5794.92
+Skyworth Group Limited (SEHK:751),2022,6192.01
+Skyworth Group Limited (SEHK:751),2023,12958.401428571322
+Skyworth Group Limited (SEHK:751),2024,13582.847857142726
+Skyworth Group Limited (SEHK:751),2025,14207.29428571413
+Skyworth Group Limited (SEHK:751),2026,14831.740714285534
+Skyworth Group Limited (SEHK:751),2027,15456.187142856937
+Hanwha Corporation (KOSE:A000880),2016,31924.18
+Hanwha Corporation (KOSE:A000880),2017,34053.49
+Hanwha Corporation (KOSE:A000880),2018,32984.24
+Hanwha Corporation (KOSE:A000880),2019,34600.94
+Hanwha Corporation (KOSE:A000880),2020,34723.75
+Hanwha Corporation (KOSE:A000880),2021,34951.12
+Hanwha Corporation (KOSE:A000880),2022,41798.26
+Hanwha Corporation (KOSE:A000880),2023,36828.192857148206
+Hanwha Corporation (KOSE:A000880),2024,33618.98500000555
+Hanwha Corporation (KOSE:A000880),2025,30409.7771428629
+Hanwha Corporation (KOSE:A000880),2026,27200.569285720245
+Hanwha Corporation (KOSE:A000880),2027,23991.361428577595
+Arçelik Anonim Sirketi (IBSE:ARCLK),2016,381.49
+Arçelik Anonim Sirketi (IBSE:ARCLK),2017,507.8
+Arçelik Anonim Sirketi (IBSE:ARCLK),2018,650.39
+Arçelik Anonim Sirketi (IBSE:ARCLK),2019,768.45
+Arçelik Anonim Sirketi (IBSE:ARCLK),2020,957.3
+Arçelik Anonim Sirketi (IBSE:ARCLK),2021,1687.31
+Arçelik Anonim Sirketi (IBSE:ARCLK),2022,3339.62
+Arçelik Anonim Sirketi (IBSE:ARCLK),2023,5009.64571428589
+Arçelik Anonim Sirketi (IBSE:ARCLK),2024,5394.370000000149
+Arçelik Anonim Sirketi (IBSE:ARCLK),2025,5779.094285714408
+Arçelik Anonim Sirketi (IBSE:ARCLK),2026,6163.8185714286665
+Arçelik Anonim Sirketi (IBSE:ARCLK),2027,6548.542857142926
+"Hyundai Mobis Co.,Ltd (KOSE:A012330)",2016,24450.0
+"Hyundai Mobis Co.,Ltd (KOSE:A012330)",2017,22754.18
+"Hyundai Mobis Co.,Ltd (KOSE:A012330)",2018,22678.7
+"Hyundai Mobis Co.,Ltd (KOSE:A012330)",2019,24337.87
+"Hyundai Mobis Co.,Ltd (KOSE:A012330)",2020,23672.44
+"Hyundai Mobis Co.,Ltd (KOSE:A012330)",2021,27020.88
+"Hyundai Mobis Co.,Ltd (KOSE:A012330)",2022,34052.03
+"Hyundai Mobis Co.,Ltd (KOSE:A012330)",2023,6029.477142856998
+"Hyundai Mobis Co.,Ltd (KOSE:A012330)",2024,6333.406785714113
+"Hyundai Mobis Co.,Ltd (KOSE:A012330)",2025,6637.336428571228
+"Hyundai Mobis Co.,Ltd (KOSE:A012330)",2026,6941.266071428342
+"Hyundai Mobis Co.,Ltd (KOSE:A012330)",2027,7245.195714285456
+International Game Technology PLC (NYSE:IGT),2016,3135.84
+International Game Technology PLC (NYSE:IGT),2017,3020.61
+International Game Technology PLC (NYSE:IGT),2018,2263.25
+International Game Technology PLC (NYSE:IGT),2019,2335.0
+International Game Technology PLC (NYSE:IGT),2020,1980.0
+International Game Technology PLC (NYSE:IGT),2021,2131.0
+International Game Technology PLC (NYSE:IGT),2022,2225.0
+International Game Technology PLC (NYSE:IGT),2023,1951.4385714286002
+International Game Technology PLC (NYSE:IGT),2024,1962.2371428571664
+International Game Technology PLC (NYSE:IGT),2025,1973.0357142857329
+International Game Technology PLC (NYSE:IGT),2026,1983.8342857142993
+International Game Technology PLC (NYSE:IGT),2027,1994.6328571428655
+Vestel Elektronik Sanayi ve Ticaret Anonim Sirketi (IBSE:VESTL),2016,262.65
+Vestel Elektronik Sanayi ve Ticaret Anonim Sirketi (IBSE:VESTL),2017,342.13
+Vestel Elektronik Sanayi ve Ticaret Anonim Sirketi (IBSE:VESTL),2018,409.22
+Vestel Elektronik Sanayi ve Ticaret Anonim Sirketi (IBSE:VESTL),2019,456.13
+Vestel Elektronik Sanayi ve Ticaret Anonim Sirketi (IBSE:VESTL),2020,549.2
+Vestel Elektronik Sanayi ve Ticaret Anonim Sirketi (IBSE:VESTL),2021,830.71
+Vestel Elektronik Sanayi ve Ticaret Anonim Sirketi (IBSE:VESTL),2022,1580.7
+Vestel Elektronik Sanayi ve Ticaret Anonim Sirketi (IBSE:VESTL),2023,1094.6042857143102
+Vestel Elektronik Sanayi ve Ticaret Anonim Sirketi (IBSE:VESTL),2024,1140.0657142857353
+Vestel Elektronik Sanayi ve Ticaret Anonim Sirketi (IBSE:VESTL),2025,1185.5271428571605
+Vestel Elektronik Sanayi ve Ticaret Anonim Sirketi (IBSE:VESTL),2026,1230.9885714285858
+Vestel Elektronik Sanayi ve Ticaret Anonim Sirketi (IBSE:VESTL),2027,1276.4500000000112
+ZTE Corporation (SZSE:000063),2016,9672.35
+ZTE Corporation (SZSE:000063),2017,10273.97
+ZTE Corporation (SZSE:000063),2018,7965.26
+ZTE Corporation (SZSE:000063),2019,7967.57
+ZTE Corporation (SZSE:000063),2020,9502.09
+ZTE Corporation (SZSE:000063),2021,10252.29
+ZTE Corporation (SZSE:000063),2022,10668.22
+ZTE Corporation (SZSE:000063),2023,42037.39571428492
+ZTE Corporation (SZSE:000063),2024,43642.96642857051
+ZTE Corporation (SZSE:000063),2025,45248.537142856105
+ZTE Corporation (SZSE:000063),2026,46854.1078571417
+ZTE Corporation (SZSE:000063),2027,48459.67857142729
+Seagate Technology Holdings plc (NasdaqGS:STX),2016,8009.0
+Seagate Technology Holdings plc (NasdaqGS:STX),2017,7496.0
+Seagate Technology Holdings plc (NasdaqGS:STX),2018,7885.0
+Seagate Technology Holdings plc (NasdaqGS:STX),2019,7304.0
+Seagate Technology Holdings plc (NasdaqGS:STX),2020,7467.0
+Seagate Technology Holdings plc (NasdaqGS:STX),2021,8446.0
+Seagate Technology Holdings plc (NasdaqGS:STX),2022,7059.0
+Seagate Technology Holdings plc (NasdaqGS:STX),2023,672.2642857142764
+Seagate Technology Holdings plc (NasdaqGS:STX),2024,653.3007142857084
+Seagate Technology Holdings plc (NasdaqGS:STX),2025,634.3371428571404
+Seagate Technology Holdings plc (NasdaqGS:STX),2026,615.3735714285724
+Seagate Technology Holdings plc (NasdaqGS:STX),2027,596.4100000000043
+Seiko Epson Corporation (TSE:6724),2016,4394.06
+Seiko Epson Corporation (TSE:6724),2017,4692.68
+Seiko Epson Corporation (TSE:6724),2018,4580.39
+Seiko Epson Corporation (TSE:6724),2019,4545.03
+Seiko Epson Corporation (TSE:6724),2020,4218.18
+Seiko Epson Corporation (TSE:6724),2021,4763.82
+Seiko Epson Corporation (TSE:6724),2022,5527.13
+Seiko Epson Corporation (TSE:6724),2023,11885.528571428384
+Seiko Epson Corporation (TSE:6724),2024,12562.517857142624
+Seiko Epson Corporation (TSE:6724),2025,13239.507142856864
+Seiko Epson Corporation (TSE:6724),2026,13916.496428571103
+Seiko Epson Corporation (TSE:6724),2027,14593.485714285343
+Heidelberg Materials AG (XTRA:HEI),2016,6298.89
+Heidelberg Materials AG (XTRA:HEI),2017,7154.8
+Heidelberg Materials AG (XTRA:HEI),2018,7873.21
+Heidelberg Materials AG (XTRA:HEI),2019,7977.82
+Heidelberg Materials AG (XTRA:HEI),2020,6937.4
+Heidelberg Materials AG (XTRA:HEI),2021,7680.21
+Heidelberg Materials AG (XTRA:HEI),2022,9216.87
+Heidelberg Materials AG (XTRA:HEI),2023,18611.249999999705
+Heidelberg Materials AG (XTRA:HEI),2024,20254.151785713784
+Heidelberg Materials AG (XTRA:HEI),2025,21897.053571427863
+Heidelberg Materials AG (XTRA:HEI),2026,23539.955357141942
+Heidelberg Materials AG (XTRA:HEI),2027,25182.85714285602
+"LG Display Co., Ltd. (KOSE:A034220)",2016,16873.77
+"LG Display Co., Ltd. (KOSE:A034220)",2017,16629.34
+"LG Display Co., Ltd. (KOSE:A034220)",2018,15759.22
+"LG Display Co., Ltd. (KOSE:A034220)",2019,16023.17
+"LG Display Co., Ltd. (KOSE:A034220)",2020,16037.34
+"LG Display Co., Ltd. (KOSE:A034220)",2021,18222.43
+"LG Display Co., Ltd. (KOSE:A034220)",2022,18559.67
+"LG Display Co., Ltd. (KOSE:A034220)",2023,273.04000000015805
+"LG Display Co., Ltd. (KOSE:A034220)",2024,8.260714285890117
+"LG Display Co., Ltd. (KOSE:A034220)",2025,-256.5185714283778
+"LG Display Co., Ltd. (KOSE:A034220)",2026,-521.2978571426457
+"LG Display Co., Ltd. (KOSE:A034220)",2027,-786.0771428569137
+"Tatung Co., Ltd. (TWSE:2371)",2016,2072.25
+"Tatung Co., Ltd. (TWSE:2371)",2017,1968.6
+"Tatung Co., Ltd. (TWSE:2371)",2018,1948.5
+"Tatung Co., Ltd. (TWSE:2371)",2019,1021.31
+"Tatung Co., Ltd. (TWSE:2371)",2020,781.84
+"Tatung Co., Ltd. (TWSE:2371)",2021,691.01
+"Tatung Co., Ltd. (TWSE:2371)",2022,841.59
+"Tatung Co., Ltd. (TWSE:2371)",2023,8924.84428571397
+"Tatung Co., Ltd. (TWSE:2371)",2024,9774.087857142478
+"Tatung Co., Ltd. (TWSE:2371)",2025,10623.331428570986
+"Tatung Co., Ltd. (TWSE:2371)",2026,11472.574999999493
+"Tatung Co., Ltd. (TWSE:2371)",2027,12321.818571428
+Legrand SA (ENXTPA:LR),2016,2526.26
+Legrand SA (ENXTPA:LR),2017,2769.44
+Legrand SA (ENXTPA:LR),2018,3044.77
+Legrand SA (ENXTPA:LR),2019,3378.78
+Legrand SA (ENXTPA:LR),2020,3093.58
+Legrand SA (ENXTPA:LR),2021,3649.02
+Legrand SA (ENXTPA:LR),2022,4448.49
+Legrand SA (ENXTPA:LR),2023,12662.004285715197
+Legrand SA (ENXTPA:LR),2024,12594.170357143765
+Legrand SA (ENXTPA:LR),2025,12526.336428572331
+Legrand SA (ENXTPA:LR),2026,12458.502500000899
+Legrand SA (ENXTPA:LR),2027,12390.668571429465
+"Sichuan Changhong Electric Co.,Ltd. (SHSE:600839)",2016,7905.86
+"Sichuan Changhong Electric Co.,Ltd. (SHSE:600839)",2017,9347.79
+"Sichuan Changhong Electric Co.,Ltd. (SHSE:600839)",2018,10014.47
+"Sichuan Changhong Electric Co.,Ltd. (SHSE:600839)",2019,10778.73
+"Sichuan Changhong Electric Co.,Ltd. (SHSE:600839)",2020,11653.22
+"Sichuan Changhong Electric Co.,Ltd. (SHSE:600839)",2021,12313.81
+"Sichuan Changhong Electric Co.,Ltd. (SHSE:600839)",2022,11210.43
+"Sichuan Changhong Electric Co.,Ltd. (SHSE:600839)",2023,1537.4885714286113
+"Sichuan Changhong Electric Co.,Ltd. (SHSE:600839)",2024,1648.103928571461
+"Sichuan Changhong Electric Co.,Ltd. (SHSE:600839)",2025,1758.7192857143107
+"Sichuan Changhong Electric Co.,Ltd. (SHSE:600839)",2026,1869.3346428571604
+"Sichuan Changhong Electric Co.,Ltd. (SHSE:600839)",2027,1979.9500000000098
+"Brother Industries, Ltd. (TSE:6448)",2016,2447.19
+"Brother Industries, Ltd. (TSE:6448)",2017,2706.89
+"Brother Industries, Ltd. (TSE:6448)",2018,2703.07
+"Brother Industries, Ltd. (TSE:6448)",2019,2432.45
+"Brother Industries, Ltd. (TSE:6448)",2020,2275.77
+"Brother Industries, Ltd. (TSE:6448)",2021,2621.95
+"Brother Industries, Ltd. (TSE:6448)",2022,3195.65
+"Brother Industries, Ltd. (TSE:6448)",2023,59010.03428571218
+"Brother Industries, Ltd. (TSE:6448)",2024,67384.08285714012
+"Brother Industries, Ltd. (TSE:6448)",2025,75758.13142856807
+"Brother Industries, Ltd. (TSE:6448)",2026,84132.179999996
+"Brother Industries, Ltd. (TSE:6448)",2027,92506.22857142396
+TomTom N.V. (ENXTAM:TOM2),2016,446.79
+TomTom N.V. (ENXTAM:TOM2),2017,311.19
+TomTom N.V. (ENXTAM:TOM2),2018,224.37
+TomTom N.V. (ENXTAM:TOM2),2019,196.88
+TomTom N.V. (ENXTAM:TOM2),2020,111.19
+TomTom N.V. (ENXTAM:TOM2),2021,105.91
+TomTom N.V. (ENXTAM:TOM2),2022,91.9
+TomTom N.V. (ENXTAM:TOM2),2023,10153.42857142977
+TomTom N.V. (ENXTAM:TOM2),2024,9931.07142857265
+TomTom N.V. (ENXTAM:TOM2),2025,9708.714285715529
+TomTom N.V. (ENXTAM:TOM2),2026,9486.357142858407
+TomTom N.V. (ENXTAM:TOM2),2027,9264.000000001286
+"Micro-Star International Co., Ltd. (TWSE:2377)",2016,2694.55
+"Micro-Star International Co., Ltd. (TWSE:2377)",2017,2822.73
+"Micro-Star International Co., Ltd. (TWSE:2377)",2018,3162.76
+"Micro-Star International Co., Ltd. (TWSE:2377)",2019,3231.69
+"Micro-Star International Co., Ltd. (TWSE:2377)",2020,3867.06
+"Micro-Star International Co., Ltd. (TWSE:2377)",2021,5052.07
+"Micro-Star International Co., Ltd. (TWSE:2377)",2022,4777.71
+"Micro-Star International Co., Ltd. (TWSE:2377)",2023,13962.247142856615
+"Micro-Star International Co., Ltd. (TWSE:2377)",2024,14211.054285713748
+"Micro-Star International Co., Ltd. (TWSE:2377)",2025,14459.86142857088
+"Micro-Star International Co., Ltd. (TWSE:2377)",2026,14708.668571428014
+"Micro-Star International Co., Ltd. (TWSE:2377)",2027,14957.475714285147
+HTC Corporation (TWSE:2498),2016,2122.76
+HTC Corporation (TWSE:2498),2017,1877.32
+HTC Corporation (TWSE:2498),2018,717.37
+HTC Corporation (TWSE:2498),2019,246.69
+HTC Corporation (TWSE:2498),2020,130.99
+HTC Corporation (TWSE:2498),2021,111.73
+HTC Corporation (TWSE:2498),2022,82.74
+HTC Corporation (TWSE:2498),2023,53209.99999999857
+HTC Corporation (TWSE:2498),2024,49137.28571428459
+HTC Corporation (TWSE:2498),2025,45064.57142857062
+HTC Corporation (TWSE:2498),2026,40991.85714285665
+HTC Corporation (TWSE:2498),2027,36919.14285714267
+TCL Technology Group Corporation (SZSE:000100),2016,12121.28
+TCL Technology Group Corporation (SZSE:000100),2017,12211.99
+TCL Technology Group Corporation (SZSE:000100),2018,2290.96
+TCL Technology Group Corporation (SZSE:000100),2019,9148.48
+TCL Technology Group Corporation (SZSE:000100),2020,9125.1
+TCL Technology Group Corporation (SZSE:000100),2021,18184.14
+TCL Technology Group Corporation (SZSE:000100),2022,21195.55
+TCL Technology Group Corporation (SZSE:000100),2023,25428.142857143255
+TCL Technology Group Corporation (SZSE:000100),2024,27834.678571428794
+TCL Technology Group Corporation (SZSE:000100),2025,30241.214285714334
+TCL Technology Group Corporation (SZSE:000100),2026,32647.749999999873
+TCL Technology Group Corporation (SZSE:000100),2027,35054.28571428541
+Nabtesco Corporation (TSE:6268),2016,1175.99
+Nabtesco Corporation (TSE:6268),2017,1354.37
+Nabtesco Corporation (TSE:6268),2018,1441.95
+Nabtesco Corporation (TSE:6268),2019,1422.25
+Nabtesco Corporation (TSE:6268),2020,1382.43
+Nabtesco Corporation (TSE:6268),2021,1460.17
+Nabtesco Corporation (TSE:6268),2022,1555.71
+Nabtesco Corporation (TSE:6268),2023,-14.311428571389705
+Nabtesco Corporation (TSE:6268),2024,-71.04035714281605
+Nabtesco Corporation (TSE:6268),2025,-127.76928571424239
+Nabtesco Corporation (TSE:6268),2026,-184.49821428566872
+Nabtesco Corporation (TSE:6268),2027,-241.2271428570951
+"Gree Electric Appliances, Inc. of Zhuhai (SZSE:000651)",2016,9966.21
+"Gree Electric Appliances, Inc. of Zhuhai (SZSE:000651)",2017,13633.44
+"Gree Electric Appliances, Inc. of Zhuhai (SZSE:000651)",2018,18925.74
+"Gree Electric Appliances, Inc. of Zhuhai (SZSE:000651)",2019,19649.67
+"Gree Electric Appliances, Inc. of Zhuhai (SZSE:000651)",2020,17000.91
+"Gree Electric Appliances, Inc. of Zhuhai (SZSE:000651)",2021,19511.66
+"Gree Electric Appliances, Inc. of Zhuhai (SZSE:000651)",2022,19194.96
+"Gree Electric Appliances, Inc. of Zhuhai (SZSE:000651)",2023,12442.417142856148
+"Gree Electric Appliances, Inc. of Zhuhai (SZSE:000651)",2024,10976.227499998993
+"Gree Electric Appliances, Inc. of Zhuhai (SZSE:000651)",2025,9510.037857141839
+"Gree Electric Appliances, Inc. of Zhuhai (SZSE:000651)",2026,8043.848214284685
+"Gree Electric Appliances, Inc. of Zhuhai (SZSE:000651)",2027,6577.658571427532
+Inspur Digital Enterprise Technology Limited (SEHK:596),2016,104.98
+Inspur Digital Enterprise Technology Limited (SEHK:596),2017,162.15
+Inspur Digital Enterprise Technology Limited (SEHK:596),2018,192.29
+Inspur Digital Enterprise Technology Limited (SEHK:596),2019,238.23
+Inspur Digital Enterprise Technology Limited (SEHK:596),2020,231.03
+Inspur Digital Enterprise Technology Limited (SEHK:596),2021,303.5
+Inspur Digital Enterprise Technology Limited (SEHK:596),2022,755.52
+Inspur Digital Enterprise Technology Limited (SEHK:596),2023,10156.82857142844
+Inspur Digital Enterprise Technology Limited (SEHK:596),2024,10338.414285714134
+Inspur Digital Enterprise Technology Limited (SEHK:596),2025,10519.999999999829
+Inspur Digital Enterprise Technology Limited (SEHK:596),2026,10701.585714285522
+Inspur Digital Enterprise Technology Limited (SEHK:596),2027,10883.171428571217
+Coolpad Group Limited (OTCPK:CHWT.F),2016,973.71
+Coolpad Group Limited (OTCPK:CHWT.F),2017,472.66
+Coolpad Group Limited (OTCPK:CHWT.F),2018,172.51
+Coolpad Group Limited (OTCPK:CHWT.F),2019,182.36
+Coolpad Group Limited (OTCPK:CHWT.F),2020,88.19
+Coolpad Group Limited (OTCPK:CHWT.F),2021,80.44
+Coolpad Group Limited (OTCPK:CHWT.F),2022,45.01
+Coolpad Group Limited (OTCPK:CHWT.F),2023,1204.3428571429
+Coolpad Group Limited (OTCPK:CHWT.F),2024,1076.7285714286209
+Coolpad Group Limited (OTCPK:CHWT.F),2025,949.114285714342
+Coolpad Group Limited (OTCPK:CHWT.F),2026,821.500000000063
+Coolpad Group Limited (OTCPK:CHWT.F),2027,693.885714285784
+"Meta Platforms, Inc. (NasdaqGS:META)",2016,3789.0
+"Meta Platforms, Inc. (NasdaqGS:META)",2017,5454.0
+"Meta Platforms, Inc. (NasdaqGS:META)",2018,9355.0
+"Meta Platforms, Inc. (NasdaqGS:META)",2019,12770.0
+"Meta Platforms, Inc. (NasdaqGS:META)",2020,16692.0
+"Meta Platforms, Inc. (NasdaqGS:META)",2021,22649.0
+"Meta Platforms, Inc. (NasdaqGS:META)",2022,23754.0
+"Meta Platforms, Inc. (NasdaqGS:META)",2023,414.2628571428496
+"Meta Platforms, Inc. (NasdaqGS:META)",2024,423.2560714285622
+"Meta Platforms, Inc. (NasdaqGS:META)",2025,432.2492857142749
+"Meta Platforms, Inc. (NasdaqGS:META)",2026,441.2424999999875
+"Meta Platforms, Inc. (NasdaqGS:META)",2027,450.2357142857001
+"Tesla, Inc. (NasdaqGS:TSLA)",2016,5400.88
+"Tesla, Inc. (NasdaqGS:TSLA)",2017,9536.0
+"Tesla, Inc. (NasdaqGS:TSLA)",2018,17419.0
+"Tesla, Inc. (NasdaqGS:TSLA)",2019,20509.0
+"Tesla, Inc. (NasdaqGS:TSLA)",2020,24906.0
+"Tesla, Inc. (NasdaqGS:TSLA)",2021,40217.0
+"Tesla, Inc. (NasdaqGS:TSLA)",2022,60609.0
+"Tesla, Inc. (NasdaqGS:TSLA)",2023,16970.214285713097
+"Tesla, Inc. (NasdaqGS:TSLA)",2024,17244.711785713094
+"Tesla, Inc. (NasdaqGS:TSLA)",2025,17519.209285713092
+"Tesla, Inc. (NasdaqGS:TSLA)",2026,17793.70678571309
+"Tesla, Inc. (NasdaqGS:TSLA)",2027,18068.204285713087
+Pantech Group Holdings Berhad (KLSE:PANTECH),2016,70.76
+Pantech Group Holdings Berhad (KLSE:PANTECH),2017,103.54
+Pantech Group Holdings Berhad (KLSE:PANTECH),2018,98.31
+Pantech Group Holdings Berhad (KLSE:PANTECH),2019,99.17
+Pantech Group Holdings Berhad (KLSE:PANTECH),2020,80.87
+Pantech Group Holdings Berhad (KLSE:PANTECH),2021,99.95
+Pantech Group Holdings Berhad (KLSE:PANTECH),2022,179.19
+Pantech Group Holdings Berhad (KLSE:PANTECH),2023,1987.5700000004122
+Pantech Group Holdings Berhad (KLSE:PANTECH),2024,1663.8864285718628
+Pantech Group Holdings Berhad (KLSE:PANTECH),2025,1340.2028571433134
+Pantech Group Holdings Berhad (KLSE:PANTECH),2026,1016.519285714764
+Pantech Group Holdings Berhad (KLSE:PANTECH),2027,692.8357142862146
+"Dinglong Culture Co.,Ltd. (SZSE:002502)",2016,51.27
+"Dinglong Culture Co.,Ltd. (SZSE:002502)",2017,49.14
+"Dinglong Culture Co.,Ltd. (SZSE:002502)",2018,68.62
+"Dinglong Culture Co.,Ltd. (SZSE:002502)",2019,152.68
+"Dinglong Culture Co.,Ltd. (SZSE:002502)",2020,44.32
+"Dinglong Culture Co.,Ltd. (SZSE:002502)",2021,67.21
+"Dinglong Culture Co.,Ltd. (SZSE:002502)",2022,44.99
+"Dinglong Culture Co.,Ltd. (SZSE:002502)",2023,1357.4328571427268
+"Dinglong Culture Co.,Ltd. (SZSE:002502)",2024,1538.5503571427118
+"Dinglong Culture Co.,Ltd. (SZSE:002502)",2025,1719.667857142697
+"Dinglong Culture Co.,Ltd. (SZSE:002502)",2026,1900.785357142682
+"Dinglong Culture Co.,Ltd. (SZSE:002502)",2027,2081.902857142667
+"Midea Group Co., Ltd. (SZSE:000333)",2016,15840.65
+"Midea Group Co., Ltd. (SZSE:000333)",2017,24685.56
+"Midea Group Co., Ltd. (SZSE:000333)",2018,25763.22
+"Midea Group Co., Ltd. (SZSE:000333)",2019,27108.49
+"Midea Group Co., Ltd. (SZSE:000333)",2020,29715.29
+"Midea Group Co., Ltd. (SZSE:000333)",2021,36253.03
+"Midea Group Co., Ltd. (SZSE:000333)",2022,35689.25
+"Midea Group Co., Ltd. (SZSE:000333)",2023,2895.857142857173
+"Midea Group Co., Ltd. (SZSE:000333)",2024,2949.6785714285943
+"Midea Group Co., Ltd. (SZSE:000333)",2025,3003.500000000016
+"Midea Group Co., Ltd. (SZSE:000333)",2026,3057.3214285714375
+"Midea Group Co., Ltd. (SZSE:000333)",2027,3111.1428571428587
+Aptiv PLC (NYSE:APTV),2016,9526.0
+Aptiv PLC (NYSE:APTV),2017,10261.0
+Aptiv PLC (NYSE:APTV),2018,11702.0
+Aptiv PLC (NYSE:APTV),2019,11708.0
+Aptiv PLC (NYSE:APTV),2020,11116.0
+Aptiv PLC (NYSE:APTV),2021,13180.0
+Aptiv PLC (NYSE:APTV),2022,14843.0
+Aptiv PLC (NYSE:APTV),2023,1760.4928571429305
+Aptiv PLC (NYSE:APTV),2024,1817.4107142857845
+Aptiv PLC (NYSE:APTV),2025,1874.3285714286385
+Aptiv PLC (NYSE:APTV),2026,1931.2464285714925
+Aptiv PLC (NYSE:APTV),2027,1988.1642857143465
+"Humax Co., Ltd. (KOSDAQ:A115160)",2016,808.36
+"Humax Co., Ltd. (KOSDAQ:A115160)",2017,992.41
+"Humax Co., Ltd. (KOSDAQ:A115160)",2018,914.78
+"Humax Co., Ltd. (KOSDAQ:A115160)",2019,635.63
+"Humax Co., Ltd. (KOSDAQ:A115160)",2020,516.61
+"Humax Co., Ltd. (KOSDAQ:A115160)",2021,411.1
+"Humax Co., Ltd. (KOSDAQ:A115160)",2022,420.99
+"Humax Co., Ltd. (KOSDAQ:A115160)",2023,1250.9171428571835
+"Humax Co., Ltd. (KOSDAQ:A115160)",2024,1304.604285714323
+"Humax Co., Ltd. (KOSDAQ:A115160)",2025,1358.2914285714621
+"Humax Co., Ltd. (KOSDAQ:A115160)",2026,1411.9785714286013
+"Humax Co., Ltd. (KOSDAQ:A115160)",2027,1465.6657142857405
+"Hangzhou Hikvision Digital Technology Co., Ltd. (SZSE:002415)",2016,2557.37
+"Hangzhou Hikvision Digital Technology Co., Ltd. (SZSE:002415)",2017,3230.78
+"Hangzhou Hikvision Digital Technology Co., Ltd. (SZSE:002415)",2018,3789.67
+"Hangzhou Hikvision Digital Technology Co., Ltd. (SZSE:002415)",2019,4285.08
+"Hangzhou Hikvision Digital Technology Co., Ltd. (SZSE:002415)",2020,4692.67
+"Hangzhou Hikvision Digital Technology Co., Ltd. (SZSE:002415)",2021,6257.64
+"Hangzhou Hikvision Digital Technology Co., Ltd. (SZSE:002415)",2022,6627.65
+"Hangzhou Hikvision Digital Technology Co., Ltd. (SZSE:002415)",2023,12499.285714286789
+"Hangzhou Hikvision Digital Technology Co., Ltd. (SZSE:002415)",2024,12514.571428572523
+"Hangzhou Hikvision Digital Technology Co., Ltd. (SZSE:002415)",2025,12529.857142858256
+"Hangzhou Hikvision Digital Technology Co., Ltd. (SZSE:002415)",2026,12545.14285714399
+"Hangzhou Hikvision Digital Technology Co., Ltd. (SZSE:002415)",2027,12560.428571429724
+Ningbo Joyson Electronic Corp. (SHSE:600699),2016,2064.12
+Ningbo Joyson Electronic Corp. (SHSE:600699),2017,3064.31
+Ningbo Joyson Electronic Corp. (SHSE:600699),2018,6410.12
+Ningbo Joyson Electronic Corp. (SHSE:600699),2019,7146.41
+Ningbo Joyson Electronic Corp. (SHSE:600699),2020,5721.01
+Ningbo Joyson Electronic Corp. (SHSE:600699),2021,5562.67
+Ningbo Joyson Electronic Corp. (SHSE:600699),2022,6031.14
+Ningbo Joyson Electronic Corp. (SHSE:600699),2023,7023.957142857012
+Ningbo Joyson Electronic Corp. (SHSE:600699),2024,7693.662499999834
+Ningbo Joyson Electronic Corp. (SHSE:600699),2025,8363.367857142655
+Ningbo Joyson Electronic Corp. (SHSE:600699),2026,9033.073214285478
+Ningbo Joyson Electronic Corp. (SHSE:600699),2027,9702.7785714283
+Xylem Inc. (NYSE:XYL),2016,2280.0
+Xylem Inc. (NYSE:XYL),2017,2860.0
+Xylem Inc. (NYSE:XYL),2018,3181.0
+Xylem Inc. (NYSE:XYL),2019,3203.0
+Xylem Inc. (NYSE:XYL),2020,3046.0
+Xylem Inc. (NYSE:XYL),2021,3216.0
+Xylem Inc. (NYSE:XYL),2022,3434.0
+Xylem Inc. (NYSE:XYL),2023,16537.85714285784
+Xylem Inc. (NYSE:XYL),2024,16424.964285715
+Xylem Inc. (NYSE:XYL),2025,16312.071428572155
+Xylem Inc. (NYSE:XYL),2026,16199.178571429311
+Xylem Inc. (NYSE:XYL),2027,16086.285714286467
+MiTAC Holdings Corporation (TWSE:3706),2016,1321.6
+MiTAC Holdings Corporation (TWSE:3706),2017,1331.09
+MiTAC Holdings Corporation (TWSE:3706),2018,801.95
+MiTAC Holdings Corporation (TWSE:3706),2019,946.45
+MiTAC Holdings Corporation (TWSE:3706),2020,1128.02
+MiTAC Holdings Corporation (TWSE:3706),2021,1168.27
+MiTAC Holdings Corporation (TWSE:3706),2022,1358.94
+MiTAC Holdings Corporation (TWSE:3706),2023,3982.2857142861676
+MiTAC Holdings Corporation (TWSE:3706),2024,3669.1071428576124
+MiTAC Holdings Corporation (TWSE:3706),2025,3355.9285714290572
+MiTAC Holdings Corporation (TWSE:3706),2026,3042.7500000005025
+MiTAC Holdings Corporation (TWSE:3706),2027,2729.5714285719478
+"Keysight Technologies, Inc. (NYSE:KEYS)",2016,1287.0
+"Keysight Technologies, Inc. (NYSE:KEYS)",2017,1567.0
+"Keysight Technologies, Inc. (NYSE:KEYS)",2018,1788.0
+"Keysight Technologies, Inc. (NYSE:KEYS)",2019,1781.0
+"Keysight Technologies, Inc. (NYSE:KEYS)",2020,1721.0
+"Keysight Technologies, Inc. (NYSE:KEYS)",2021,1845.0
+"Keysight Technologies, Inc. (NYSE:KEYS)",2022,2022.0
+"Keysight Technologies, Inc. (NYSE:KEYS)",2023,41288.45571428447
+"Keysight Technologies, Inc. (NYSE:KEYS)",2024,45739.210357141375
+"Keysight Technologies, Inc. (NYSE:KEYS)",2025,50189.96499999828
+"Keysight Technologies, Inc. (NYSE:KEYS)",2026,54640.71964285518
+"Keysight Technologies, Inc. (NYSE:KEYS)",2027,59091.47428571208
+HL Mando Corporation (KOSE:A204320),2016,3719.72
+HL Mando Corporation (KOSE:A204320),2017,3720.44
+HL Mando Corporation (KOSE:A204320),2018,3667.42
+HL Mando Corporation (KOSE:A204320),2019,3820.87
+HL Mando Corporation (KOSE:A204320),2020,3633.56
+HL Mando Corporation (KOSE:A204320),2021,3894.19
+HL Mando Corporation (KOSE:A204320),2022,4831.99
+HL Mando Corporation (KOSE:A204320),2023,3608.4285714283483
+HL Mando Corporation (KOSE:A204320),2024,3752.678571428346
+HL Mando Corporation (KOSE:A204320),2025,3896.9285714283437
+HL Mando Corporation (KOSE:A204320),2026,4041.1785714283415
+HL Mando Corporation (KOSE:A204320),2027,4185.428571428339
+Hewlett Packard Enterprise Company (NYSE:HPE),2016,19538.0
+Hewlett Packard Enterprise Company (NYSE:HPE),2017,20726.0
+Hewlett Packard Enterprise Company (NYSE:HPE),2018,21040.0
+Hewlett Packard Enterprise Company (NYSE:HPE),2019,18785.0
+Hewlett Packard Enterprise Company (NYSE:HPE),2020,18154.0
+Hewlett Packard Enterprise Company (NYSE:HPE),2021,18281.0
+Hewlett Packard Enterprise Company (NYSE:HPE),2022,19182.0
+Hewlett Packard Enterprise Company (NYSE:HPE),2023,1726.4057142857068
+Hewlett Packard Enterprise Company (NYSE:HPE),2024,1737.7082142857064
+Hewlett Packard Enterprise Company (NYSE:HPE),2025,1749.0107142857062
+Hewlett Packard Enterprise Company (NYSE:HPE),2026,1760.3132142857057
+Hewlett Packard Enterprise Company (NYSE:HPE),2027,1771.6157142857055
+Fortive Corporation (NYSE:FTV),2016,2685.9
+Fortive Corporation (NYSE:FTV),2017,2832.7
+Fortive Corporation (NYSE:FTV),2018,1612.6
+Fortive Corporation (NYSE:FTV),2019,2066.9
+Fortive Corporation (NYSE:FTV),2020,2017.7
+Fortive Corporation (NYSE:FTV),2021,2244.8
+Fortive Corporation (NYSE:FTV),2022,2462.3
+Fortive Corporation (NYSE:FTV),2023,1512.5985714285937
+Fortive Corporation (NYSE:FTV),2024,1512.1121428571657
+Fortive Corporation (NYSE:FTV),2025,1511.6257142857378
+Fortive Corporation (NYSE:FTV),2026,1511.13928571431
+Fortive Corporation (NYSE:FTV),2027,1510.652857142882
+Xiaomi Corporation (SEHK:1810),2016,8366.24
+Xiaomi Corporation (SEHK:1810),2017,13601.32
+Xiaomi Corporation (SEHK:1810),2018,20882.98
+Xiaomi Corporation (SEHK:1810),2019,24241.4
+Xiaomi Corporation (SEHK:1810),2020,28593.63
+Xiaomi Corporation (SEHK:1810),2021,36925.63
+Xiaomi Corporation (SEHK:1810),2022,31786.86
+Xiaomi Corporation (SEHK:1810),2023,10111.832857142657
+Xiaomi Corporation (SEHK:1810),2024,10271.871428571205
+Xiaomi Corporation (SEHK:1810),2025,10431.909999999752
+Xiaomi Corporation (SEHK:1810),2026,10591.9485714283
+Xiaomi Corporation (SEHK:1810),2027,10751.987142856848
+Adient plc (NYSE:ADNT),2016,14992.0
+Adient plc (NYSE:ADNT),2017,15077.0
+Adient plc (NYSE:ADNT),2018,16464.0
+Adient plc (NYSE:ADNT),2019,15420.0
+Adient plc (NYSE:ADNT),2020,11948.0
+Adient plc (NYSE:ADNT),2021,12692.0
+Adient plc (NYSE:ADNT),2022,13507.0
+Adient plc (NYSE:ADNT),2023,3289.142857142732
+Adient plc (NYSE:ADNT),2024,3498.321428571288
+Adient plc (NYSE:ADNT),2025,3707.499999999844
+Adient plc (NYSE:ADNT),2026,3916.6785714284
+Adient plc (NYSE:ADNT),2027,4125.857142856957
+"Resideo Technologies, Inc. (NYSE:REZI)",2016,3090.0
+"Resideo Technologies, Inc. (NYSE:REZI)",2017,3203.0
+"Resideo Technologies, Inc. (NYSE:REZI)",2018,3404.0
+"Resideo Technologies, Inc. (NYSE:REZI)",2019,3698.0
+"Resideo Technologies, Inc. (NYSE:REZI)",2020,3727.0
+"Resideo Technologies, Inc. (NYSE:REZI)",2021,4262.0
+"Resideo Technologies, Inc. (NYSE:REZI)",2022,4604.0
+"Resideo Technologies, Inc. (NYSE:REZI)",2023,1057.622857142832
+"Resideo Technologies, Inc. (NYSE:REZI)",2024,1159.5253571428257
+"Resideo Technologies, Inc. (NYSE:REZI)",2025,1261.4278571428194
+"Resideo Technologies, Inc. (NYSE:REZI)",2026,1363.3303571428132
+"Resideo Technologies, Inc. (NYSE:REZI)",2027,1465.232857142807
+"Shenzhen Transsion Holdings Co., Ltd. (SHSE:688036)",2016,1266.78
+"Shenzhen Transsion Holdings Co., Ltd. (SHSE:688036)",2017,2176.07
+"Shenzhen Transsion Holdings Co., Ltd. (SHSE:688036)",2018,2350.48
+"Shenzhen Transsion Holdings Co., Ltd. (SHSE:688036)",2019,2532.98
+"Shenzhen Transsion Holdings Co., Ltd. (SHSE:688036)",2020,3971.79
+"Shenzhen Transsion Holdings Co., Ltd. (SHSE:688036)",2021,5345.76
+"Shenzhen Transsion Holdings Co., Ltd. (SHSE:688036)",2022,5039.37
+"Shenzhen Transsion Holdings Co., Ltd. (SHSE:688036)",2023,35231.068571428565
+"Shenzhen Transsion Holdings Co., Ltd. (SHSE:688036)",2024,35713.712857142775
+"Shenzhen Transsion Holdings Co., Ltd. (SHSE:688036)",2025,36196.35714285699
+"Shenzhen Transsion Holdings Co., Ltd. (SHSE:688036)",2026,36679.00142857121
+"Shenzhen Transsion Holdings Co., Ltd. (SHSE:688036)",2027,37161.64571428543
