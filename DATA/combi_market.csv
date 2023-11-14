@@ -1,0 +1,66 @@
+,Market,Submarket
+0,Automotive Electronics Categories,ADAS
+500,Automotive Electronics Categories,Body & Convenience
+1000,Automotive Electronics Categories,Chassis & Safety
+1500,Automotive Electronics Categories,Connectivity & Telematics
+2000,Automotive Electronics Categories,Hybrid & Electric Drive Train
+2500,Automotive Electronics Categories,Infotainment & Cluster
+3000,Automotive Electronics Categories,Other Automotive
+3500,Automotive Electronics Categories,Powertrain & Vehicle Dynamics
+4000,Computing & Data Storage Categories,Data Center Servers
+4500,Computing & Data Storage Categories,Desktop PCs
+5000,Computing & Data Storage Categories,Flash Storage Cards
+5500,Computing & Data Storage Categories,Hard Disk Drives
+6000,Computing & Data Storage Categories,Notebook PCs
+6500,Computing & Data Storage Categories,Other Computing
+7000,Computing & Data Storage Categories,Other Data Storage
+7500,Computing & Data Storage Categories,Other Peripherals
+8000,Computing & Data Storage Categories,Smart Cards
+8500,Computing & Data Storage Categories,Solid-State Drives
+9000,Computing & Data Storage Categories,Tablet PCs
+9500,Computing & Data Storage Categories,USB Flash Drive
+10000,Consumer Electronics Categories,Fitness & Wellness Wearable Electronics
+10500,Consumer Electronics Categories,LCD TV
+11000,Consumer Electronics Categories,Major Home Appliances
+11500,Consumer Electronics Categories,OLED TV
+12000,Consumer Electronics Categories,Other Audio/Video
+12500,Consumer Electronics Categories,Other Consumer Electronics
+13000,Consumer Electronics Categories,Set-Top Boxes
+13500,Consumer Electronics Categories,Smart Speakers & Digital Assistants
+14000,Consumer Electronics Categories,Smart Watches
+14500,Consumer Electronics Categories,VR Headsets
+15000,Consumer Electronics Categories,Video Game Consoles
+15500,Industrial Electronics Categories,Automation
+16000,Industrial Electronics Categories,Building & Home Control
+16500,Industrial Electronics Categories,Lighting
+17000,Industrial Electronics Categories,Medical Electronics
+17500,Industrial Electronics Categories,Military & Civil Aerospace
+18000,Industrial Electronics Categories,Other Industrial
+18500,Industrial Electronics Categories,Power & Energy
+19000,Industrial Electronics Categories,Security & Video Surveillance
+19500,Industrial Electronics Categories,Test & Measurement
+20000,Wired Communications Categories,Broadcast & Streaming Video
+20500,Wired Communications Categories,Cable Aggregation Equipment
+21000,Wired Communications Categories,Cable CPE
+21500,Wired Communications Categories,Carrier Ethernet Switches & Routers
+22000,Wired Communications Categories,DSL Aggregation Equipment
+22500,Wired Communications Categories,DSL CPE
+23000,Wired Communications Categories,Data Center Network Switches
+23500,Wired Communications Categories,Enterprise Ethernet Switches & Routers
+24000,Wired Communications Categories,Enterprise UC & Voice
+24500,Wired Communications Categories,FTTH Aggregation Equipment
+25000,Wired Communications Categories,FTTH CPE
+25500,Wired Communications Categories,Low-Tier Consumer/SOHO Routers
+26000,Wired Communications Categories,Optical Equipment
+26500,Wired Communications Categories,Other Wired Communications
+27000,Wired Communications Categories,Threat Mitigation Products
+27500,Wireless Communications Categories,Gray Market Handsets
+28000,Wireless Communications Categories,High-Tier Smartphone
+28500,Wireless Communications Categories,Low-Tier Smartphone
+29000,Wireless Communications Categories,M2M Modules
+29500,Wireless Communications Categories,Media Tablets
+30000,Wireless Communications Categories,Mid-Tier Smartphone
+30500,Wireless Communications Categories,Mobile Comm Infrastructure
+31000,Wireless Communications Categories,"Mobile Phone (ULCH, Entry, Feature)"
+31500,Wireless Communications Categories,Other Wireless Communications
+32000,Wireless Communications Categories,Wireless LAN Equipment
