@@ -1,0 +1,106 @@
+,Company,Market,SubMarket,Device,Year,Pred
+0,ASML,Industrial,Test & Measurement,Amplifier/Comparator,2025,10.819338
+1,ASML,Industrial,Test & Measurement,Amplifier/Comparator,2026,12.308039
+2,ASML,Industrial,Test & Measurement,Amplifier/Comparator,2027,23.57965
+3,ASML,Industrial,Test & Measurement,Analog Application Specific IC,2025,9.605141
+4,ASML,Industrial,Test & Measurement,Analog Application Specific IC,2026,11.0938425
+5,ASML,Industrial,Test & Measurement,Analog Application Specific IC,2027,10.998204
+6,ASML,Industrial,Test & Measurement,Data Converters,2025,22.524961
+7,ASML,Industrial,Test & Measurement,Data Converters,2026,24.013664
+8,ASML,Industrial,Test & Measurement,Data Converters,2027,27.781187
+9,ASML,Industrial,Test & Measurement,Interface,2025,5.1260524
+10,ASML,Industrial,Test & Measurement,Interface,2026,6.614755
+11,ASML,Industrial,Test & Measurement,Interface,2027,6.519117
+12,ASML,Industrial,Test & Measurement,Voltage Regulator/Reference,2025,7.2741237
+13,ASML,Industrial,Test & Measurement,Voltage Regulator/Reference,2026,8.762824
+14,ASML,Industrial,Test & Measurement,Voltage Regulator/Reference,2027,9.292638
+15,Facebook (Meta),Computer Platforms,Data Center Servers,Amplifier/Comparator,2025,2.791098
+16,Facebook (Meta),Computer Platforms,Data Center Servers,Amplifier/Comparator,2026,2.791098
+17,Facebook (Meta),Computer Platforms,Data Center Servers,Amplifier/Comparator,2027,2.791098
+18,Facebook (Meta),Computer Platforms,Other Computer Products,Amplifier/Comparator,2025,4.597192
+19,Facebook (Meta),Computer Platforms,Other Computer Products,Amplifier/Comparator,2026,4.4645753
+20,Facebook (Meta),Computer Platforms,Other Computer Products,Amplifier/Comparator,2027,4.4645753
+21,Facebook (Meta),Consumer,Other Consumer,Amplifier/Comparator,2025,168.75496
+22,Facebook (Meta),Consumer,Other Consumer,Amplifier/Comparator,2025,2.4817963
+23,Facebook (Meta),Consumer,Other Consumer,Amplifier/Comparator,2025,3.0074205
+24,Facebook (Meta),Consumer,Other Consumer,Amplifier/Comparator,2025,168.75496
+25,Facebook (Meta),Consumer,Other Consumer,Amplifier/Comparator,2026,168.75496
+26,Facebook (Meta),Consumer,Other Consumer,Amplifier/Comparator,2026,2.4817963
+27,Facebook (Meta),Consumer,Other Consumer,Amplifier/Comparator,2026,3.0074205
+28,Facebook (Meta),Consumer,Other Consumer,Amplifier/Comparator,2026,168.75496
+29,Facebook (Meta),Consumer,Other Consumer,Amplifier/Comparator,2027,168.75496
+30,Facebook (Meta),Consumer,Other Consumer,Amplifier/Comparator,2027,2.4817963
+31,Facebook (Meta),Consumer,Other Consumer,Amplifier/Comparator,2027,2.4817963
+32,Facebook (Meta),Consumer,Other Consumer,Amplifier/Comparator,2027,168.75496
+33,Facebook (Meta),Computer Platforms,Data Center Servers,Analog Application Specific IC,2025,25.760096
+34,Facebook (Meta),Computer Platforms,Data Center Servers,Analog Application Specific IC,2026,25.760096
+35,Facebook (Meta),Computer Platforms,Data Center Servers,Analog Application Specific IC,2027,25.760096
+36,Facebook (Meta),Computer Platforms,Other Computer Products,Analog Application Specific IC,2025,27.004717
+37,Facebook (Meta),Computer Platforms,Other Computer Products,Analog Application Specific IC,2026,27.004717
+38,Facebook (Meta),Computer Platforms,Other Computer Products,Analog Application Specific IC,2027,27.004717
+39,Facebook (Meta),Consumer,Other Consumer,Analog Application Specific IC,2025,-2.9535313
+40,Facebook (Meta),Consumer,Other Consumer,Analog Application Specific IC,2025,-2.9535313
+41,Facebook (Meta),Consumer,Other Consumer,Analog Application Specific IC,2025,10.369892
+42,Facebook (Meta),Consumer,Other Consumer,Analog Application Specific IC,2025,-0.32957342
+43,Facebook (Meta),Consumer,Other Consumer,Analog Application Specific IC,2026,-2.9535313
+44,Facebook (Meta),Consumer,Other Consumer,Analog Application Specific IC,2026,-3.9339638
+45,Facebook (Meta),Consumer,Other Consumer,Analog Application Specific IC,2026,10.369892
+46,Facebook (Meta),Consumer,Other Consumer,Analog Application Specific IC,2026,-0.32957342
+47,Facebook (Meta),Consumer,Other Consumer,Analog Application Specific IC,2027,-2.9535313
+48,Facebook (Meta),Consumer,Other Consumer,Analog Application Specific IC,2027,-3.9339638
+49,Facebook (Meta),Consumer,Other Consumer,Analog Application Specific IC,2027,10.369892
+50,Facebook (Meta),Consumer,Other Consumer,Analog Application Specific IC,2027,-0.32957342
+51,Facebook (Meta),Computer Platforms,Data Center Servers,Data Converters,2025,2.791098
+52,Facebook (Meta),Computer Platforms,Data Center Servers,Data Converters,2026,2.791098
+53,Facebook (Meta),Computer Platforms,Data Center Servers,Data Converters,2027,2.791098
+54,Facebook (Meta),Computer Platforms,Other Computer Products,Data Converters,2025,4.4645753
+55,Facebook (Meta),Computer Platforms,Other Computer Products,Data Converters,2026,4.4645753
+56,Facebook (Meta),Computer Platforms,Other Computer Products,Data Converters,2027,4.4645753
+57,Facebook (Meta),Consumer,Other Consumer,Data Converters,2025,2.34918
+58,Facebook (Meta),Consumer,Other Consumer,Data Converters,2025,2.4817963
+59,Facebook (Meta),Consumer,Other Consumer,Data Converters,2025,3.0074205
+60,Facebook (Meta),Consumer,Other Consumer,Data Converters,2025,168.75496
+61,Facebook (Meta),Consumer,Other Consumer,Data Converters,2026,0.6757027
+62,Facebook (Meta),Consumer,Other Consumer,Data Converters,2026,2.4817963
+63,Facebook (Meta),Consumer,Other Consumer,Data Converters,2026,3.0074205
+64,Facebook (Meta),Consumer,Other Consumer,Data Converters,2026,168.75496
+65,Facebook (Meta),Consumer,Other Consumer,Data Converters,2027,0.6757027
+66,Facebook (Meta),Consumer,Other Consumer,Data Converters,2027,2.4817963
+67,Facebook (Meta),Consumer,Other Consumer,Data Converters,2027,3.0074205
+68,Facebook (Meta),Consumer,Other Consumer,Data Converters,2027,168.75496
+69,Facebook (Meta),Computer Platforms,Data Center Servers,Interface,2025,4.597192
+70,Facebook (Meta),Computer Platforms,Data Center Servers,Interface,2026,4.597192
+71,Facebook (Meta),Computer Platforms,Data Center Servers,Interface,2027,4.597192
+72,Facebook (Meta),Computer Platforms,Other Computer Products,Interface,2025,4.4645753
+73,Facebook (Meta),Computer Platforms,Other Computer Products,Interface,2026,2.791098
+74,Facebook (Meta),Computer Platforms,Other Computer Products,Interface,2027,2.791098
+75,Facebook (Meta),Consumer,Other Consumer,Interface,2025,168.75496
+76,Facebook (Meta),Consumer,Other Consumer,Interface,2025,2.34918
+77,Facebook (Meta),Consumer,Other Consumer,Interface,2025,168.75496
+78,Facebook (Meta),Consumer,Other Consumer,Interface,2025,168.75496
+79,Facebook (Meta),Consumer,Other Consumer,Interface,2026,168.75496
+80,Facebook (Meta),Consumer,Other Consumer,Interface,2026,2.34918
+81,Facebook (Meta),Consumer,Other Consumer,Interface,2026,168.75496
+82,Facebook (Meta),Consumer,Other Consumer,Interface,2026,168.75496
+83,Facebook (Meta),Consumer,Other Consumer,Interface,2027,168.75496
+84,Facebook (Meta),Consumer,Other Consumer,Interface,2027,2.34918
+85,Facebook (Meta),Consumer,Other Consumer,Interface,2027,168.75496
+86,Facebook (Meta),Consumer,Other Consumer,Interface,2027,168.75496
+87,Facebook (Meta),Computer Platforms,Data Center Servers,Voltage Regulator/Reference,2025,26.082712
+88,Facebook (Meta),Computer Platforms,Data Center Servers,Voltage Regulator/Reference,2026,26.082712
+89,Facebook (Meta),Computer Platforms,Data Center Servers,Voltage Regulator/Reference,2027,26.082712
+90,Facebook (Meta),Computer Platforms,Other Computer Products,Voltage Regulator/Reference,2025,24.602997
+91,Facebook (Meta),Computer Platforms,Other Computer Products,Voltage Regulator/Reference,2026,24.602997
+92,Facebook (Meta),Computer Platforms,Other Computer Products,Voltage Regulator/Reference,2027,24.602997
+93,Facebook (Meta),Consumer,Other Consumer,Voltage Regulator/Reference,2025,3.8780837
+94,Facebook (Meta),Consumer,Other Consumer,Voltage Regulator/Reference,2025,8.86457
+95,Facebook (Meta),Consumer,Other Consumer,Voltage Regulator/Reference,2025,7.1008534
+96,Facebook (Meta),Consumer,Other Consumer,Voltage Regulator/Reference,2025,4.536324
+97,Facebook (Meta),Consumer,Other Consumer,Voltage Regulator/Reference,2026,3.8780837
+98,Facebook (Meta),Consumer,Other Consumer,Voltage Regulator/Reference,2026,8.86457
+99,Facebook (Meta),Consumer,Other Consumer,Voltage Regulator/Reference,2026,8.86457
+100,Facebook (Meta),Consumer,Other Consumer,Voltage Regulator/Reference,2026,4.536324
+101,Facebook (Meta),Consumer,Other Consumer,Voltage Regulator/Reference,2027,3.8780837
+102,Facebook (Meta),Consumer,Other Consumer,Voltage Regulator/Reference,2027,8.86457
+103,Facebook (Meta),Consumer,Other Consumer,Voltage Regulator/Reference,2027,8.86457
+104,Facebook (Meta),Consumer,Other Consumer,Voltage Regulator/Reference,2027,4.536324
